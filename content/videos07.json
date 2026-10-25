@@ -1,0 +1,400 @@
+[
+ {
+  "id": "061",
+  "slug": "vang-tu-sao-neutron",
+  "category": "Khoa học",
+  "theme": "sunset-warm",
+  "layout": "hook",
+  "voice": "Ngọc Huyền",
+  "music": "warm",
+  "title": "Vàng của bạn đến từ đâu?",
+  "hashtags": [
+   "#khoahoc",
+   "#vang",
+   "#vutru",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Chiếc nhẫn vàng trên tay bạn là vật chất mà Trái Đất không thể tự tạo ra. Nó đến từ một nơi khủng khiếp hơn cả nổ sao.",
+    "show": "Chiếc nhẫn vàng\nkhông phải *của Trái Đất*"
+   },
+   {
+    "say": "Vàng cần nhiệt độ và áp suất mà lõi ngôi sao thường không đạt được. Nó sinh ra trong va chạm của hai sao neutron, hai quả cầu chết có khối lượng Mặt Trời.",
+    "show": "Sinh từ va chạm\n*2 sao neutron*"
+   },
+   {
+    "say": "Năm 2017, thiên văn lần đầu quan sát được vụ va chạm đó bằng cả sóng hấp dẫn và kính thiên văn. Trong vài ngày, vụ nổ dệt ra khoảng lượng kim loại nặng khổng lồ.",
+    "show": "2017: *quan sát được*\nva chạm đó lần đầu"
+   },
+   {
+    "say": "Những nguyên tử vàng ấy bay trong vũ trụ hàng tỷ năm, rồi góp phần tạo thành đám mây hình thành Trái Đất.",
+    "show": "Bay *hàng tỷ năm*\nrồi thành Trái Đất"
+   },
+   {
+    "say": "Vậy mỗi lần nhìn vàng, bạn đang nhìn tro tàn của một cú va chạm vũ trụ. Theo dõi kênh để biết thêm nguồn gốc kỳ diệu của mọi thứ nhé!",
+    "show": "Vàng = tro *va chạm vũ trụ*"
+   }
+  ]
+ },
+ {
+  "id": "062",
+  "slug": "nuoc-dap-lua",
+  "category": "Khoa học",
+  "theme": "corporate-blue",
+  "layout": "hook",
+  "voice": "Minh Triết",
+  "music": "dark",
+  "title": "Nước dập tắt lửa kiểu gì?",
+  "hashtags": [
+   "#khoahoc",
+   "#vatly",
+   "#ansinh",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Câu hỏi tưởng dễ mà ít ai trả lời chuẩn: nước dập lửa bằng cách nào? Và vì sao có lúc nước lại làm lửa bùng?",
+    "show": "Nước dập lửa kiểu gì?\nVà khi nào *gây cháy*?"
+   },
+   {
+    "say": "Nước không phải là chất diệt lửa thần kỳ. Nó làm hai việc: hút nhiệt cực nhanh, và bốc hơi thành hơi nước đè lên lửa, chặn oxy.",
+    "show": "Hút nhiệt + *chặn oxy*"
+   },
+   {
+    "say": "Một lít nước bốc hơi chiếm diện tích hơi nước to hơn nó hơn nghìn lần. Đó là màn che phủ đắt giá nhất trong thiên nhiên.",
+    "show": "1 lít nước →\nhơn *1000 lần* hơi"
+   },
+   {
+    "say": "Nhưng với cháy dầu mỡ, nước là thảm họa: nó trầm xuống dưới, bốc hơi tức thì và phun cả dầu đang cháy ra khắp nơi.",
+    "show": "Cháy dầu + nước =\n*lửa lan khắp nhà*"
+   },
+   {
+    "say": "Cháy dầu thì dùng nắp đậy chặt hoặc bột chữa cháy. Cháy thiết bị điện thì ngắt nguồn trước đã. Theo dõi kênh để có thêm những kiến thức cứu được mạng nhé!",
+    "show": "Cháy dầu: *đậy nắp*"
+   }
+  ]
+ },
+ {
+  "id": "063",
+  "slug": "cay-noi-chuyen",
+  "category": "Khoa học",
+  "theme": "paper",
+  "layout": "hook",
+  "voice": "Thanh Bình",
+  "music": "warm",
+  "title": "Rừng là một mạng xã hội khổng lồ",
+  "hashtags": [
+   "#khoahoc",
+   "#rung",
+   "#thiennhien",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Dưới chân rừng tồn tại một mạng lưới mà ít ai biết: nơi cây giao tiếp, gửi thức ăn, thậm chí nuôi con của mình.",
+    "show": "Dưới chân rừng:\n*mạng xã hội* của cây"
+   },
+   {
+    "say": "Sợi nấm mảnh như tóc nối rễ hàng nghìn cây thành một tấm lưới. Các nhà khoa học gọi vui nó là mạng lưới gỗ rộng.",
+    "show": "Nấm nối rễ thành\n*mạng lưới gỗ*"
+   },
+   {
+    "say": "Qua lưới đó, cây già chuyển đường cho cây con thiếu nắng. Cây bị côn trùng cắn gửi tín hiệu cảnh báo cho hàng xóm.",
+    "show": "Cây già *nuôi cây con*"
+   },
+   {
+    "say": "Nghiên cứu tại rừng Canada cho thấy cây thông mẹ vẫn gửi carbon cho cây con trong bóng râm suốt nhiều mùa.",
+    "show": "Cây mẹ gửi *thức ăn*\ncho cây con"
+   },
+   {
+    "say": "Vì vậy chặt một chỗ trong rừng không phải mất một cây, mà là đứt một vùng lưới. Theo dõi kênh để nhìn thiên nhiên khác đi nhé!",
+    "show": "Chặt 1 cây = *đứt mạng lưới*"
+   }
+  ]
+ },
+ {
+  "id": "064",
+  "slug": "muoi-thich-ban",
+  "category": "Khoa học",
+  "theme": "gradient-pop",
+  "layout": "list",
+  "voice": "Adam",
+  "music": "bright",
+  "title": "Vì sao muỗi thích cắn bạn hơn?",
+  "hashtags": [
+   "#khoahoc",
+   "#muoi",
+   "#suckhoe",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Cùng ngồi một chỗ, bạn bị đốt mười cái, người cạnh bạn không bị cái nào. Muỗi có quý người, ghét người à?",
+    "show": "Cùng chỗ ngồi.\nBạn bị *10 vết*, họ: 0."
+   },
+   {
+    "say": "Thứ nhất: hơi thở. Muỗi dò carbon dioxide từ xa hàng chục mét. Người thở mạnh và to hơn dễ bị tìm thấy hơn.",
+    "show": "1. *CO₂* — dò từ xa 30m"
+   },
+   {
+    "say": "Thứ hai: da của bạn. Vi khuẩn trên da tạo ra mùi đặc trưng. Người có hệ vi khuẩn da kiểu nào đó hấp dẫn muỗi hơn hẳn.",
+    "show": "2. Vi khuẩn *trên da*"
+   },
+   {
+    "say": "Thứ ba: nhiệt độ và mồ hôi. Da nóng ẩm là biển chỉ dẫn hoàn hảo cho muỗi đậu xuống.",
+    "show": "3. Da nóng + *ẩm*"
+   },
+   {
+    "say": "Nghiên cứu còn chỉ ra nhóm máu O có thể hấp dẫn muỗi hơn nhóm máu khác. Đúng là sinh ra đã khó. Theo dõi kênh để hiểu cơ thể mình hơn nhé!",
+    "show": "Nhóm máu *O khó hơn*"
+   }
+  ]
+ },
+ {
+  "id": "065",
+  "slug": "set-nong-hon-mat-troi",
+  "category": "Khoa học",
+  "theme": "neon-dark",
+  "layout": "stat",
+  "voice": "Quốc Tuấn",
+  "music": "dark",
+  "title": "Tia sét nóng hơn mặt trời 5 lần",
+  "hashtags": [
+   "#khoahoc",
+   "#set",
+   "#vatly",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Một tia chớp chỉ tồn tại vài phần nghìn giây. Nhưng trong khoảnh khắc đó, nó nóng hơn cả bề mặt Mặt Trời.",
+    "show": "Vài phần nghìn giây,\nnóng hơn *Mặt Trời*"
+   },
+   {
+    "say": "Gấp năm lần. Đó là nhiệt độ của tia sét so với bề mặt Mặt Trời.",
+    "stat": "5",
+    "sub": "lần nóng hơn bề mặt Mặt Trời (khoảng 30.000°C)"
+   },
+   {
+    "say": "Nhiệt độ trong kênh sét lên tới ba mươi nghìn độ, gấp năm lần bề mặt Mặt Trời. Không khí nở nóng đột ngột tạo ra tiếng sấm.",
+    "show": "30.000°C = tiếng sấm",
+    "sub": "Không khí nở nóng đột ngột"
+   },
+   {
+    "say": "Mỗi giây, trên Trái Đất có khoảng sáu mươi tia sét chớp xuống. Một tia đủ nuôi một bóng đèn trong ba tháng.",
+    "show": "60 tia sét *mỗi giây*",
+    "sub": "1 tia = bóng đèn sáng 3 tháng"
+   },
+   {
+    "say": "Quy tắc an toàn: nghe thấy sấm nghĩa là bạn đủ gần để bị sét. Chạy vào nhà hoặc ô tô kín, và đừng đứng dưới cây cô độc.",
+    "show": "Nghe sấm = *bạn đủ gần*"
+   },
+   {
+    "say": "Theo dõi kênh để hiểu những hiện tượng dữ dội nhất của thiên nhiên nhé!",
+    "show": "Thiên nhiên *dữ dội*"
+   }
+  ]
+ },
+ {
+  "id": "066",
+  "slug": "cafe-hoat-dong",
+  "category": "Khoa học",
+  "theme": "sunset-warm",
+  "layout": "hook",
+  "voice": "Mỹ Duyên",
+  "music": "warm",
+  "title": "Cà phê lừa não bạn thế nào?",
+  "hashtags": [
+   "#khoahoc",
+   "#caphe",
+   "#nao",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Cà phê không cho bạn năng lượng. Nó chỉ giấu đi tín hiệu mệt mỏi. Và đó là hai chuyện hoàn toàn khác.",
+    "show": "Cà phê *không cho*\nnăng lượng"
+   },
+   {
+    "say": "Suốt ngày thức, não tích tụ một chất gọi là adenosine. Nó ghim vào thụ thể trên não và khiến bạn buồn ngủ.",
+    "show": "*Adenosine* ghim vào não\n→ buồn ngủ"
+   },
+   {
+    "say": "Cafein có hình dạng đủ giống để chiếm chỗ của adenosine, nhưng không kích hoạt cảm giác mệt. Ghế bị ngồi nhầm, mệt mỏi bị giấu.",
+    "show": "Cafein *chiếm ghế*\ncủa mệt mỏi"
+   },
+   {
+    "say": "Vì vậy cà phê muộn có hại: khi cafein hết hạn, cả đống adenosine ập xuống cùng lúc, và bạn sụp tinh thần.",
+    "show": "Cafein hết →\nmệt *ập xuống*"
+   },
+   {
+    "say": "Mẹo: uống cà phê sau khi thức dậy khoảng chín mươi phút, và dừng trước giờ ngủ sáu tiếng. Theo dõi kênh để dùng cafein khôn ngoan nhé!",
+    "show": "Uống sau khi dậy *90 phút*"
+   }
+  ]
+ },
+ {
+  "id": "067",
+  "slug": "dna-dai-the-nao",
+  "category": "Khoa học",
+  "theme": "paper",
+  "layout": "stat",
+  "voice": "Ngọc Linh",
+  "music": "warm",
+  "title": "Kéo dài DNA của bạn ra bao xa?",
+  "hashtags": [
+   "#khoahoc",
+   "#dna",
+   "#sukien",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Trong mỗi tế bào của bạn có một sợi chỉ thông tin dài hơn bạn tưởng rất nhiều lần. Đoán xem kéo ra được bao xa?",
+    "show": "DNA trong *1 tế bào*\ndài bao nhiêu?"
+   },
+   {
+    "say": "Hai mét. Đó là chiều dài DNA gấp gáp trong chỉ một tế bào của bạn.",
+    "stat": "2",
+    "sub": "mét — chiều dài DNA trong MỘT tế bào"
+   },
+   {
+    "say": "Hai mét, gấp gáp trong một hạt nhỏ hơn siêu vi trùng. Cơ thể bạn có khoảng ba mươi bảy nghìn tỷ tế bào.",
+    "show": "2 mét *gấp gáp*\ntrong 1 hạt nhỏ"
+   },
+   {
+    "say": "Nối hết DNA của ba mươi bảy nghìn tỷ tế bào, bạn được chuỗi dài khoảng sáu mươi bảy tỷ ki lô mét.",
+    "stat": "67",
+    "sub": "TỶ km — tổng chiều dài DNA của cả cơ thể"
+   },
+   {
+    "say": "Nối hết lại, bạn được chuỗi dài hàng chục tỷ ki lô mét — đủ đi ra ngoài hệ Mặt Trời và trở lại nhiều lần.",
+    "show": "Đủ đi *ra ngoài\nhệ Mặt Trời*"
+   },
+   {
+    "say": "Cả kho thư viện đời sống của bạn đang nằm gọn trong người lúc này. Theo dõi kênh để trầm trồ thêm về chính mình nhé!",
+    "show": "Thư viện đời sống\n*nằm trong bạn*"
+   }
+  ]
+ },
+ {
+  "id": "068",
+  "slug": "hieu-ung-placebo",
+  "category": "Khoa học",
+  "theme": "minimal-light",
+  "layout": "hook",
+  "voice": "Quỳnh Anh",
+  "music": "bright",
+  "title": "Viên thuốc giả chữa được bệnh thật?",
+  "hashtags": [
+   "#khoahoc",
+   "#yhe",
+   "#nao",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Cho bệnh nhân viên thuốc không có dược chất, và họ đỡ thật. Đó không phải ảo thuật. Đó là hiệu ứng placebo.",
+    "show": "Viên thuốc *giả*\nchữa bệnh *thật*"
+   },
+   {
+    "say": "Não bộ khi kỳ vọng được chữa sẽ tự tiết ra các chất giảm đau giống morphin. Cơn đau giảm thật, không phải tưởng tượng.",
+    "show": "Não tự tiết *thuốc giảm đau*"
+   },
+   {
+    "say": "Nghiên cứu cho thấy placebo vẫn hiệu quả ngay cả khi bệnh nhân biết đó là placebo. Kỳ vọng tự nó là một loại thuốc.",
+    "show": "Biết là giả\nvẫn *hiệu quả*"
+   },
+   {
+    "say": "Ngược lại tồn tại hiệu ứng nocebo: tin rằng mình sẽ bị tác dụng phụ, cơ thể thật sự hiện ra triệu chứng đó.",
+    "show": "*Nocebo*: tin xấu\n→ bệnh thật"
+   },
+   {
+    "say": "Bài học: niềm tin không thay thế thuốc thật, nhưng nó là bộ phận của liệu trình. Theo dõi kênh để hiểu bộ máy phi thường của chính mình nhé!",
+    "show": "Niềm tin là\n*bộ phận của liệu trình*"
+   }
+  ]
+ },
+ {
+  "id": "069",
+  "slug": "quen-chia-khoa",
+  "category": "Tâm lý",
+  "theme": "neon-dark",
+  "layout": "hook",
+  "voice": "Hải Đăng",
+  "music": "pulse",
+  "title": "Vì sao bạn quên chìa khóa ngay khi đặt xuống?",
+  "hashtags": [
+   "#tamly",
+   "#trinho",
+   "#doisong",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bạn đặt chìa khóa xuống bàn, năm giây sau đã không nhớ đã đặt ở đâu. Não bạn hỏng rồi à? Không, nó đang quá khoẻ.",
+    "show": "Quên chìa khóa\n= não *quá khoẻ*?"
+   },
+   {
+    "say": "Bộ não tin rằng nơi chìa khóa đang nằm không phải thông tin cần lưu. Khi bạn làm việc vô thức, sự kiện đó không được ghi vào trí nhớ dài hạn.",
+    "show": "Việc vô thức\n*không được ghi*"
+   },
+   {
+    "say": "Bạn đang nghĩ về công việc khi đặt chìa khóa. Bàn tay làm một chuyện, tâm trí ở một chuyện khác. Chưa có ghi hình thì không có nhớ.",
+    "show": "Tay ở đây,\ntâm trí *ở kia*"
+   },
+   {
+    "say": "Giải pháp rẻ nhất: nói to hành động. Đặt chìa khóa lên kệ. Khi có từ ngữ tham gia, ký ức được neo chắc hơn nhiều.",
+    "show": "*Nói to* hành động\nkhi làm"
+   },
+   {
+    "say": "Và để chìa khóa luôn cùng một chỗ. Não sẽ ngừng phải ghi nhớ vì nó thành thói quen. Theo dõi kênh để hack bộ não của mình mỗi ngày nhé!",
+    "show": "Cùng một chỗ = *không cần nhớ*"
+   }
+  ]
+ },
+ {
+  "id": "070",
+  "slug": "quy-tac-80-20",
+  "category": "Tâm lý",
+  "theme": "minimal-light",
+  "layout": "stat",
+  "voice": "Thùy Dung",
+  "music": "pulse",
+  "title": "Quy tắc 80/20 trong đời thực",
+  "hashtags": [
+   "#tamly",
+   "#nangsuat",
+   "#hocthuc",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Hai mươi phần trăm nguyên nhân sinh ra tám mươi phần trăm kết quả. Quy tắc này đúng đến mức đáng sợ, và đây là cách dùng nó.",
+    "show": "20% nguyên nhân\n→ *80% kết quả*"
+   },
+   {
+    "say": "Hai mươi phần trăm công việc. Đó là con số vàng cần tìm mỗi ngày.",
+    "stat": "20",
+    "sub": "% công việc tạo ra 80% giá trị"
+   },
+   {
+    "say": "Trong công việc: thường chỉ vài nhiệm vụ quyết định cả kết quả, còn lại là nhiễu. Tìm ra vài nhiệm vụ đó là bước quan trọng nhất của ngày.",
+    "show": "Tìm *vài nhiệm vụ*\nquyết định cả ngày"
+   },
+   {
+    "say": "Trong học tập: hai mươi phần trăm khái niệm nền tảng giải quyết tám mươi phần trăm bài tập. Học trước cái nền, đừng học lan man.",
+    "show": "Học *cái nền* trước"
+   },
+   {
+    "say": "Trong quan hệ: ít người quan trọng tạo ra phần lớn hạnh phúc. Thời gian tốt nhất nên dành đúng cho họ.",
+    "show": "Ít người = *phần lớn hạnh phúc*"
+   },
+   {
+    "say": "Mỗi sáng thứ Hai, tự hỏi: việc nào trong tuần này là hai mươi phần trăm vàng? Theo dõi kênh để làm việc thông minh hơn nhé!",
+    "show": "Việc nào là\n*20% vàng*?"
+   }
+  ]
+ }
+]

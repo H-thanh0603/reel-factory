@@ -29,5 +29,5 @@ subprocess.run(["ffmpeg", "-y",
     "-stream_loop", "-1", "-i", str(music), "-t", str(total),
     "-filter_complex",
     f"[1:a]volume={mv},afade=t=out:st={total-fade:.2f}:d={fade:.2f}[m];[0:a][m]amix=inputs=2:normalize=0,alimiter=limit=0.95[out]",
-    "-map", "[out]", "-ar", "48000", final], check=True, capture_output=True)
+    "-map", "[out]", "-ar", "48000", "-ac", "2", final], check=True, capture_output=True)
 print(f"[{VID}] final_audio.wav ({total:.1f}s)")

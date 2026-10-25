@@ -1,0 +1,384 @@
+[
+ {
+  "id": "081",
+  "slug": "ban-phim-qwerty",
+  "category": "Lịch sử",
+  "theme": "terminal",
+  "layout": "hook",
+  "voice": "Thiện Minh",
+  "music": "dark",
+  "title": "Bàn phím được thiết kế để làm bạn chậm lại",
+  "hashtags": [
+   "#lichsu",
+   "#banphim",
+   "#congnghe",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bạn gõ hàng nghìn chữ mỗi ngày trên bố cục được sinh ra từ thập kỷ 1870. Và có một thuyết nổi tiếng: nó được thiết kế để làm bạn chậm lại.",
+    "show": "Bố cục 1870\nthiết kế để *làm chậm*?"
+   },
+   {
+    "say": "Thuyết phổ biến: máy chữ thời đó gõ nhanh dễ kẹt phím, nên QWERTY tách các cặp chữ hay đứng cạnh nhau ra xa, buộc tay phải chậm lại.",
+    "show": "Tách các cặp chữ\n→ *tránh kẹt phím*"
+   },
+   {
+    "say": "Các nhà nghiên cứu còn tranh luận chi tiết, nhưng một điều rõ: bố cục tốt hơn đã ra đời, như Dvorak, và chưa bao giờ thắng nổi thói quen của hàng trăm triệu người.",
+    "show": "Dvorak tốt hơn\nnhưng *không thắng nổi*"
+   },
+   {
+    "say": "Bài học công nghệ: cái thắng không phải cái tốt nhất. Cái thắng là cái đến trước và kết mình với thói quen hàng loạt.",
+    "show": "Thắng vì *đến trước*,\nkhông phải vì tốt nhất"
+   },
+   {
+    "say": "Mỗi thói quen của bạn cũng vậy. Theo dõi kênh để hiểu thêm những thiết kế đang điều khiển tay bạn mỗi ngày nhé!",
+    "show": "Thiết kế điều khiển\n*tay bạn*"
+   }
+  ]
+ },
+ {
+  "id": "082",
+  "slug": "xay-pyramid-an-banh-mi",
+  "category": "Lịch sử",
+  "theme": "sunset-warm",
+  "layout": "hook",
+  "voice": "Ngọc Huyền",
+  "music": "warm",
+  "title": "Người xây kim tự tháp được trả lương bằng gì?",
+  "hashtags": [
+   "#lichsu",
+   "#aicip",
+   "#kimtuthap",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Ai xây kim tự tháp? Nô lệ bị quất roi? Khoan đã. Các bằng chứng khảo cổ cho thấy câu chuyện khác hẳn phim.",
+    "show": "Xây kim tự tháp\n= *nô lệ*? Không hẳn."
+   },
+   {
+    "say": "Các thành phố công nhân được khai quật gần Giza cho thấy: người thợ được trả lương bằng bánh mì và bia, ăn cả thịt, có chăm sóc y tế.",
+    "show": "Lương: *bánh mì + bia*\n+ chăm sóc y tế"
+   },
+   {
+    "say": "Cơ xương của bộ xương được tìm thấy cho thấy họ là nông dân làm theo mùa, được tổ chức như các đội xây dựng có tên riêng.",
+    "show": "Nông dân *theo mùa*,\nquy thành các đội"
+   },
+   {
+    "say": "Một đội còn có tên vui như Đội bạn của Menkaure. Họ tự hào về công trình, vì nó là ngôi nhà vĩnh cửu của vị thần sống.",
+    "show": "Tên đội: *Bạn của Menkaure*"
+   },
+   {
+    "say": "Động lực đúng lúc nào cũng hiệu quả hơn roi da. Theo dõi kênh để đọc lại lịch sử bằng bằng chứng thật nhé!",
+    "show": "Động lực > *roi da*"
+   }
+  ]
+ },
+ {
+  "id": "083",
+  "slug": "nhat-thang-1919",
+  "category": "Lịch sử",
+  "theme": "paper",
+  "layout": "stat",
+  "voice": "Thanh Bình",
+  "music": "warm",
+  "title": "Ngày mặt trời chứng minh Einstein đúng",
+  "hashtags": [
+   "#lichsu",
+   "#khoahoc",
+   "#einstein",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Năm 1919, phần lớn thế giới chưa tin thuyết tương đối của Einstein. Cần một nhật thực toàn phần để chấm dứt tranh cãi.",
+    "show": "1919: cần *một nhật thực*\nđể chấm dứt tranh cãi"
+   },
+   {
+    "say": "Một nghìn chín trăm mười chín. Năm mà một lần quan sát đổi cả vật lý học.",
+    "stat": "1919",
+    "sub": "năm Arthur Eddington chứng minh thuyết tương đối"
+   },
+   {
+    "say": "Nhà thiên văn Arthur Eddington chụp ảnh các ngôi sao nằm cạnh Mặt Trời trong lúc nhật thực. Theo Einstein, ánh sáng của chúng sẽ bị Mặt Trời bẻ cong.",
+    "show": "Ánh sáng sao\nbị Mặt Trời *bẻ cong*"
+   },
+   {
+    "say": "Kết quả đo khớp với dự đoán của Einstein. Sáng hôm sau, ông nổi tiếng toàn thế giới, và định nghĩa mới về trọng lực chính thức thắng cuộc.",
+    "show": "Đo khớp dự đoán\n→ Einstein *thắng cuộc*"
+   },
+   {
+    "say": "Một lần nữa khoa học thắng nhờ dám đặt cược vào quan sát, không phải tiếng nói của người lớn tuổi. Theo dõi kênh cho những ngày lịch sử thay đổi thế giới nhé!",
+    "show": "Khoa học thắng nhờ\n*quan sát*"
+   }
+  ]
+ },
+ {
+  "id": "084",
+  "slug": "tin-dien-dau-tien",
+  "category": "Lịch sử",
+  "theme": "terminal",
+  "layout": "hook",
+  "voice": "Minh Đức",
+  "music": "dark",
+  "title": "Tin nhắn đầu tiên qua dây điện là gì?",
+  "hashtags": [
+   "#lichsu",
+   "#telegraph",
+   "#congnghe",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Trước Internet hàng trăm năm, nhân loại đã có khoảnh khắc gửi tin đầu tiên qua dây điện. Nội dung chọn lọc rất đáng suy ngẫm.",
+    "show": "Tin đầu tiên qua dây điện\nnăm *1844*"
+   },
+   {
+    "say": "Ngày 24 tháng 5 năm 1844, Samuel Morse gõ tin từ Washington tới Baltimore, cách đó sáu mươi ki lô mét: What hath God wrought.",
+    "show": "\"What hath God wrought\"\n— Thiên Chúa đã làm gì"
+   },
+   {
+    "say": "Câu trong Kinh Thánh đó mang nghĩa kinh ngạc lẫn e dè. Tác giả chọn nó như một câu hỏi cho cả loài người trước công nghệ mới.",
+    "show": "Câu hỏi cho\n*cả loài người*"
+   },
+   {
+    "say": "Hai trăm năm sau, nhân loại đang hỏi lại chính câu đó với AI, mạng xã hội, và mọi công nghệ giết khoảng cách.",
+    "show": "Hôm nay ta hỏi lại\ncâu đó với *AI*"
+   },
+   {
+    "say": "Mỗi lần công nghệ nhảy một bước, câu hỏi cũ trở lại. Theo dõi kênh để không trôi qua những khoảnh khắc lịch sử nhé!",
+    "show": "Câu hỏi cũ\n*luôn trở lại*"
+   }
+  ]
+ },
+ {
+  "id": "085",
+  "slug": "may-tinh-2000-nam-tuoi",
+  "category": "Lịch sử",
+  "theme": "neon-dark",
+  "layout": "hook",
+  "voice": "Quang Sơn",
+  "music": "dark",
+  "title": "Máy tính 2.000 năm tuổi dưới đáy biển",
+  "hashtags": [
+   "#lichsu",
+   "#khoahoc",
+   "#bimat",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Thợ lặn tìm bọt biển năm 1901 vớt được một khối đồng gỉ sét. Nó hóa ra là máy tính cổ nhất thế giới từng biết.",
+    "show": "Khối đồng gỉ\n= *máy tính cổ nhất*"
+   },
+   {
+    "say": "Cỗ máy Antikythera, khoảng hai nghìn một trăm năm tuổi, có hơn ba mươi bánh răng đồng tinh xảo được mài tay.",
+    "show": "Hơn *30 bánh răng*\nmài tay"
+   },
+   {
+    "say": "Quay tay cái núm, nó dự báo vị trí Mặt Trời, Mặt Trăng, chu kỳ nhật thực, và lịch thi đấu Thế vận hội cổ đại.",
+    "show": "Dự báo *nhật thực*\nvà Thế vận hội"
+   },
+   {
+    "say": "Công nghệ ở trình độ đó cần hàng thế hệ chải chuốt. Nhưng các kỹ thuật ấy biến mất, và nhân loại mất hơn một nghìn năm để làm lại được bánh răng như thế.",
+    "show": "Bị *mất hơn\n1.000 năm* để làm lại"
+   },
+   {
+    "say": "Đó là bài học về tri thức dễ thất truyền hơn ta tưởng. Theo dõi kênh để cùng trân trọng và gìn giữ tri thức nhé!",
+    "show": "Tri thức *dễ thất truyền*"
+   }
+  ]
+ },
+ {
+  "id": "086",
+  "slug": "niagara-ngung-chay",
+  "category": "Lịch sử",
+  "theme": "corporate-blue",
+  "layout": "hook",
+  "voice": "Minh Triết",
+  "music": "dark",
+  "title": "Đêm Niagara ngừng chảy",
+  "hashtags": [
+   "#lichsu",
+   "#niagara",
+   "#sukien",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Đêm 29 tháng 3 năm 1848, người dân sống cạnh thác Niagara tỉnh dậy trong im lặng tuyệt đối. Thác nước khổng lồ đã ngừng chảy.",
+    "show": "1848: Niagara\n*ngừng chảy*"
+   },
+   {
+    "say": "Một đêm cuối tháng ba năm 1848, khối băng từ hồ Erie trôi xuống và chặn con sông như một con đê tự nhiên. Dòng chảy dừng suốt khoảng ba mươi tiếng.",
+    "show": "Băng hồ Erie\nchặn sông *30 tiếng*"
+   },
+   {
+    "say": "Cả thị trấn xuống lòng thác trống, vớt cá treo cạn, và không ai hiểu chuyện gì. Sợ hãi xen lẫn kinh ngạc.",
+    "show": "Người dân đi bộ\n*trên lòng thác trống*"
+   },
+   {
+    "say": "Khi băng vỡ, nước quay lại như sóng thần nhỏ, cuốn mọi thứ trên lòng thác. May mắn là gần như không ai thiệt mạng.",
+    "show": "Nước quay lại\nnhư *sóng thần nhỏ*"
+   },
+   {
+    "say": "Thiên nhiên có những khoảnh khắc khiến con người chỉ còn biết đứng im. Theo dõi kênh cho những sự kiện lịch sử ít ai nghe tới nhé!",
+    "show": "Sự kiện ít ai nghe tới"
+   }
+  ]
+ },
+ {
+  "id": "087",
+  "slug": "chup-anh-dau-tien",
+  "category": "Lịch sử",
+  "theme": "paper",
+  "layout": "stat",
+  "voice": "Đoan Trang",
+  "music": "warm",
+  "title": "Bức ảnh đầu tiên chụp mất 8 tiếng",
+  "hashtags": [
+   "#lichsu",
+   "#anh",
+   "#congnghe",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bức ảnh đầu tiên còn lưu được của nhân loại không phải chụp người. Nó chụp mái nhà, và phải phơi sáng suốt cả ngày.",
+    "show": "Bức ảnh đầu tiên\nphơi *cả ngày*"
+   },
+   {
+    "say": "Tám tiếng đồng hồ. Đó là thời gian phơi sáng của bức ảnh đầu tiên.",
+    "stat": "8",
+    "sub": "giờ phơi sáng cho bức ảnh đầu tiên (1826)"
+   },
+   {
+    "say": "Năm 1826, Joseph Niépce dựng máy ở cửa sổ quê ông ở Pháp, nhắm ra sân, và để tấm bản thiếc phơi sáng tám tiếng.",
+    "show": "1826: *tấm bản thiếc*\nnhìn ra sân"
+   },
+   {
+    "say": "Ánh sáng thay đổi suốt ngày khiến cả hai bên tường đều có nắng. Mọi người trong ảnh nếu có cũng không chụp được, vì phải đứng yên tám tiếng.",
+    "show": "Đứng yên *8 tiếng*\nmới thành ảnh"
+   },
+   {
+    "say": "Từ tám tiếng đến một phần nghìn giây, từ một bức tới hai nghìn tỷ bức mỗi năm. Theo dõi kênh để thấy công nghệ thay đổi đời thường mạnh cỡ nào nhé!",
+    "show": "8 giờ → *1/1000 giây*"
+   }
+  ]
+ },
+ {
+  "id": "088",
+  "slug": "den-giao-thong",
+  "category": "Khoa học",
+  "theme": "minimal-light",
+  "layout": "hook",
+  "voice": "Quỳnh Anh",
+  "music": "bright",
+  "title": "Vì sao đèn đỏ ở trên cùng?",
+  "hashtags": [
+   "#khoahoc",
+   "#dengiaothong",
+   "#vatly",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bạn nhìn đèn giao thông mỗi ngày, nhưng có bao giờ tự hỏi vì sao đèn đỏ luôn đặt trên cùng không?",
+    "show": "Vì sao đèn đỏ\nluôn *ở trên cùng*?"
+   },
+   {
+    "say": "Câu trả lời thứ nhất: vật lý. Ánh sáng đỏ có bước sóng dài, bị tán xạ ít nhất trong sương và mưa, nên nhìn thấy xa nhất.",
+    "show": "Đỏ *tán xạ ít nhất*\n→ nhìn xa nhất"
+   },
+   {
+    "say": "Câu trả lời thứ hai: an toàn. Khi mất điện và cần vận hành thủ công, hoặc khi cúp đèn, chỉ cần vị trí cố định là mọi người đều hiểu đèn nào đang nói gì.",
+    "show": "Vị trí cố định\n= *không nhầm lẫn*"
+   },
+   {
+    "say": "Và vì người mù màu đỏ-xanh không phân biệt được màu, vị trí trên cùng trở thành tín hiệu thay thế quan trọng.",
+    "show": "Người mù màu\nđọc theo *vị trí*"
+   },
+   {
+    "say": "Vì vậy cả thế giới đồng bộ bố cục này. Một chi tiết nhỏ giữ hàng tỷ chuyến đi an toàn. Theo dõi kênh để tìm hiểu những thiết kế âm thầm quanh mình nhé!",
+    "show": "Thiết kế *âm thầm*\ngiữ an toàn"
+   }
+  ]
+ },
+ {
+  "id": "089",
+  "slug": "tai-sao-mua-ruou-vang",
+  "category": "Đời sống",
+  "theme": "sunset-warm",
+  "layout": "hook",
+  "voice": "Mỹ Duyên",
+  "music": "warm",
+  "title": "Vì sao rượu vang ngon hơn khi ủ lâu?",
+  "hashtags": [
+   "#doisong",
+   "#ruouvang",
+   "#khoahoc",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Không phải thứ rượu vang nào càng cũ càng ngon. Đa số vang bán trong siêu thị nên uống trong vòng vài năm. Vậy chuyện gì mới đúng?",
+    "show": "Vang *càng cũ càng ngon*?\nChưa chắc."
+   },
+   {
+    "say": "Trong chai vang là hàng nghìn hợp chất đang phản ứng chậm. Hương trái cây non nhường chỗ cho hương phức tạp hơn theo năm tháng.",
+    "show": "Hàng nghìn hợp chất\n*phản ứng chậm*"
+   },
+   {
+    "say": "Nhưng chỉ những chai có tannin và axit đủ mạnh mới có sức ủ. Phần lớn vang thông thường được làm để uống sớm nhất.",
+    "show": "Chỉ vang *tannin mạnh*\nmới có sức ủ"
+   },
+   {
+    "say": "Ủ sai cách, chai ngon cũng hỏng: cần nhiệt độ ổn định, tối, nằm nghiêng giữ ẩm nút bần. Điều kiện đó nhà thường khó đáp ứng.",
+    "show": "Ủ sai cách:\nchai ngon *vẫn hỏng*"
+   },
+   {
+    "say": "Bài học rộng hơn rượu: một số thứ tốt lên theo thời gian, nhưng chỉ nếu điều kiện đúng. Theo dõi kênh để sống hiểu hơn về những thứ ta thường thưởng thức nhé!",
+    "show": "Tốt theo thời gian\n*nếu điều kiện đúng*"
+   }
+  ]
+ },
+ {
+  "id": "090",
+  "slug": "hoc-1-thu-moi",
+  "category": "Đời sống",
+  "theme": "gradient-pop",
+  "layout": "list",
+  "voice": "Adam",
+  "music": "bright",
+  "title": "Học 1 thứ mới mỗi năm như thế nào?",
+  "hashtags": [
+   "#doisong",
+   "#hoctap",
+   "#thoiquen",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bạn muốn học guitar, học tiếng Nhật, học nấu ăn, nhưng chưa bao giờ bắt đầu nổi. Đây là kế hoạch một năm đã được kiểm chứng.",
+    "show": "Kế hoạch học *1 thứ mới*\nmỗi năm"
+   },
+   {
+    "say": "Tháng đầu: chặn nhỏ nhất có thể. Mười phút mỗi ngày, cùng một giờ, cùng một chỗ. Thói quen trước, kỹ năng sau.",
+    "show": "Mười phút *cùng một giờ*"
+   },
+   {
+    "say": "Tháng giữa: đặt một bài thi nhỏ. Đăng ký trình diễn, thi cấp độ, hoặc hẹn thuyết trình cho bạn bè. Áp lực nhẹ tạo tiến trình thật.",
+    "show": "Đặt *bài thi nhỏ*"
+   },
+   {
+    "say": "Ghi lại hành trình. Video tháng một và tháng mười hai sẽ cho bạn động lực không gì thay thế được.",
+    "show": "Ghi lại *hành trình*"
+   },
+   {
+    "say": "Một năm, một kỹ năng. Sau mười năm bạn khác hẳn bản thân hôm nay. Theo dõi kênh để bắt đầu hành trình năm nay nhé!",
+    "show": "1 năm = *1 kỹ năng*"
+   }
+  ]
+ }
+]

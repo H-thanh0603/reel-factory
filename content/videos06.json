@@ -1,0 +1,421 @@
+[
+ {
+  "id": "051",
+  "slug": "thuat-toan-feed",
+  "category": "AI",
+  "theme": "neon-dark",
+  "layout": "list",
+  "voice": "Mai Anh",
+  "music": "pulse",
+  "title": "Bên trong thuật toán lọc feed",
+  "hashtags": [
+   "#ai",
+   "#thuattoan",
+   "#mangxahoi",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Mỗi khi bạn mở ứng dụng, có hàng nghìn video đủ điều kiện xuất hiện. Nhưng bạn chỉ thấy vài chục. Ai chọn?",
+    "show": "Hàng nghìn video\n→ bạn chỉ thấy *vài chục*"
+   },
+   {
+    "say": "Bước một: hệ thống lấy tập ứng viên từ mọi thứ bạn theo dõi, mọi thứ hot, mọi thứ liên quan tới hành vi cũ của bạn.",
+    "show": "1. Lấy *hàng nghìn* ứng viên"
+   },
+   {
+    "say": "Bước hai: chấm điểm từng video theo xác suất bạn sẽ dừng xem, thích, bình luận, hoặc chia sẻ.",
+    "show": "2. Chấm điểm *xác suất*\ncủa từng video"
+   },
+   {
+    "say": "Bước ba: chỉ video có điểm cao nhất được xếp lên đầu. Cứ mỗi lần bạn lướt, điểm số được tính lại.",
+    "show": "3. Chỉ *điểm cao nhất*\nđược lên đầu"
+   },
+   {
+    "say": "Nghệ thuật nằm ở đó: thuật toán không đoán bạn muốn gì. Nó đoán bạn *sẽ dừng lại ở đâu*. Hai điều đó khác nhau.",
+    "show": "Nó đoán bạn *dừng ở đâu*"
+   },
+   {
+    "say": "Hiểu cách nó chọn, bạn sẽ lướt tỉnh táo hơn. Theo dõi kênh để giải mã thêm nhiều thuật toán quanh mình nhé!",
+    "show": "Giải mã *thuật toán*"
+   }
+  ]
+ },
+ {
+  "id": "052",
+  "slug": "mat-khau-manh",
+  "category": "Công nghệ",
+  "theme": "terminal",
+  "layout": "list",
+  "voice": "Minh Đức",
+  "music": "dark",
+  "title": "Mật khẩu nào thật sự an toàn?",
+  "hashtags": [
+   "#baomat",
+   "#matkhau",
+   "#congnghe",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Mật khẩu123 có thể bị bẻ trong chưa tới một giây. Còn mật khẩu nào mất hàng triệu năm? Xem tiếp.",
+    "show": "Matkhau123 → *1 giây*.\nMật khẩu nào mất triệu năm?"
+   },
+   {
+    "say": "Thứ nhất: độ dài quan trọng hơn độ phức tạp. Mười hai ký tự ngẫu nhiên khó bẻ hơn tám ký tự đầy đủ hoa thường số.",
+    "show": "Độ dài > *độ phức tạp*"
+   },
+   {
+    "say": "Thứ hai: đừng dùng câu có nghĩa. Hacker dò bằng từ điển, nên câu có nghĩa dù viết liền vẫn bị dò ra rất nhanh.",
+    "show": "Câu có nghĩa = *trong từ điển*"
+   },
+   {
+    "say": "Thứ ba: mỗi trang một mật khẩu khác nhau. Một trang bị lộ không được phép kéo theo sập cả đời số của bạn.",
+    "show": "Mỗi trang *1 mật khẩu*"
+   },
+   {
+    "say": "Và giải pháp cho trí nhớ người thường: trình quản lý mật khẩu. Bạn chỉ cần nhớ một câu mật duy nhất.",
+    "show": "Dùng *trình quản lý*\nmật khẩu"
+   },
+   {
+    "say": "Đổi mật khẩu quan trọng nhất của bạn ngay tối nay, và theo dõi kênh để sống an toàn trên mạng nhé!",
+    "show": "Đổi ngay *tối nay*"
+   }
+  ]
+ },
+ {
+  "id": "053",
+  "slug": "wifi-hoat-dong",
+  "category": "Công nghệ",
+  "theme": "corporate-blue",
+  "layout": "hook",
+  "voice": "Thùy Dung",
+  "music": "pulse",
+  "title": "Wi-Fi hoạt động thế nào?",
+  "hashtags": [
+   "#congnghe",
+   "#wifi",
+   "#khoahoc",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bạn đang đọc nội dung này qua sóng vô hình chui tường, chui người. Wi-Fi hoạt động ra sao vậy?",
+    "show": "Sóng vô hình\n*chui tường* chui người"
+   },
+   {
+    "say": "Wi-Fi là sóng radio, giống sóng của đài phát thanh, chỉ khác tần số: 2,4 gigahertz và 5 gigahertz.",
+    "show": "Wi-Fi = *sóng radio*",
+    "sub": "Tần số 2,4 và 5 GHz"
+   },
+   {
+    "say": "Băng 2,4 đi xa, xuyên tường tốt, nhưng đông đúc như giờ cao điểm. Băng 5 nhanh hơn nhiều, nhưng yếu khi gặp tường.",
+    "show": "2,4 GHz đi xa.\n5 GHz *nhanh*."
+   },
+   {
+    "say": "Router và điện thoại nói chuyện bằng các gói dữ liệu mã hóa, nhảy giữa hàng chục kênh sóng để tránh rối.",
+    "show": "Gói dữ liệu *mã hóa*"
+   },
+   {
+    "say": "Vì sao mạng chậm lúc tối? Vì cả khu chung cư cùng phát trên kênh của nhau. Đổi kênh router là mẹo ít người biết.",
+    "show": "Mạng chậm = *kẹt xe*\ntrên không"
+   },
+   {
+    "say": "Theo dõi kênh để hiểu thêm những công nghệ quen thuộc quanh mình nhé!",
+    "show": "Hiểu công nghệ *quen thuộc*"
+   }
+  ]
+ },
+ {
+  "id": "054",
+  "slug": "2nm-transistor",
+  "category": "Công nghệ",
+  "theme": "neon-dark",
+  "layout": "stat",
+  "voice": "Quang Sơn",
+  "music": "dark",
+  "title": "Trên một con chip có bao nhiêu transistor?",
+  "hashtags": [
+   "#chip",
+   "#congnghe",
+   "#bannhat",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Cái chip nhỏ hơn móng tay bạn đang chạy điện thoại này chứa bao nhiêu bóng bán dẫn? Đoán thử đi.",
+    "show": "Chip nhỏ hơn móng tay\nchứa bao nhiêu *transistor*?"
+   },
+   {
+    "say": "Hai chục tỷ bóng bán dẫn. Con số nằm ngoài trí tưởng tượng của phần lớn chúng ta.",
+    "stat": "20",
+    "sub": "tỷ transistor trên một con chip điện thoại hiện đại"
+   },
+   {
+    "say": "Hàng chục tỷ transistor, mỗi cái nhỏ hơn vài nano mét, nhỏ hơn cả một siêu vi trùng hàng chục lần.",
+    "show": "Mỗi cái *nhỏ hơn siêu vi trùng*"
+   },
+   {
+    "say": "Công nghệ tiên tiến nhất hiện nay ở mức hai nano mét. Công ty sản xuất được cả thế giới chỉ đếm trên đầu ngón tay.",
+    "show": "2 nm — *đếm trên đầu\nngón tay* số hãng làm được"
+   },
+   {
+    "say": "Mỗi lần công nghệ tinh hơn, cùng một diện tích chứa gấp đôi transistor. Đó là cách điện thoại mạnh lên mỗi năm.",
+    "show": "Tinh hơn = *mạnh gấp đôi*\ncùng diện tích"
+   },
+   {
+    "say": "Theo dõi kênh để hiểu cách nhân loại xếp hàng tỷ công tắc vào một hạt bụi nhé!",
+    "show": "Hàng tỷ công tắc\ntrong *hạt bụi*"
+   }
+  ]
+ },
+ {
+  "id": "055",
+  "slug": "search-google",
+  "category": "Công nghệ",
+  "theme": "minimal-light",
+  "layout": "list",
+  "voice": "Đoan Trang",
+  "music": "bright",
+  "title": "Tìm Google như dân chuyên",
+  "hashtags": [
+   "#meo",
+   "#google",
+   "#kynang",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Dùng Google mười năm chưa chắc bạn biết sáu mẹo này. Chúng tiết kiệm cho bạn hàng trăm giờ tìm kiếm.",
+    "show": "6 mẹo Google\ntiết kiệm *hàng trăm giờ*"
+   },
+   {
+    "say": "Một: bọc câu trong ngoặc kép để tìm đúng cụm từ, không tách rời.",
+    "show": "\"Ngoặc kép\" = *đúng cụm từ*"
+   },
+   {
+    "say": "Hai: dùng dấu trừ để loại bỏ từ bạn không muốn. Cá hồi -nấu, chỉ để xem hình đẹp.",
+    "show": "Dấu *trừ* để loại từ"
+   },
+   {
+    "say": "Ba: site: để chỉ tìm trong một trang. Ví dụ site:gov.vn để tìm tài liệu chính phủ.",
+    "show": "site: chỉ tìm *trong 1 trang*"
+   },
+   {
+    "say": "Bốn: filetype:pdf để tìm tài liệu gốc. Năm: dùng bộ lọc thời gian để chỉ lấy kết quả mới. Sáu: tìm bằng hình ảnh để tra nguồn ảnh.",
+    "show": "filetype:pdf = *tài liệu gốc*"
+   },
+   {
+    "say": "Lưu video này lại, và theo dõi kênh để mỗi ngày một mẹo xài được ngay nhé!",
+    "show": "Mỗi ngày *1 mẹo*"
+   }
+  ]
+ },
+ {
+  "id": "056",
+  "slug": "xe-tu-hanh",
+  "category": "AI",
+  "theme": "corporate-blue",
+  "layout": "hook",
+  "voice": "Xuân Vĩnh",
+  "music": "pulse",
+  "title": "Xe tự hành đang ở đâu?",
+  "hashtags": [
+   "#ai",
+   "#xetuhanh",
+   "#tuonglai",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Xe tự lái được hứa từ mười năm trước. Vậy bây giờ nó ở mức nào rồi? Câu trả lời trung thực hơn bạn nghĩ.",
+    "show": "Xe tự lái:\nhiện tại *đang ở đâu*?"
+   },
+   {
+    "say": "Ngành chia thành năm cấp độ. Hầu hết xe của bạn hôm nay ở cấp hai: hỗ trợ, nhưng tay vẫn phải để trên vô lăng.",
+    "show": "Hiện tại: *cấp 2/5*",
+    "sub": "Tay vẫn trên vô lăng"
+   },
+   {
+    "say": "Ở vài thành phố như San Francisco, taxi robot cấp bốn đã chạy thật, chở khách thật, không tài xế.",
+    "show": "Taxi robot *chạy thật*\nkhông tài xế"
+   },
+   {
+    "say": "Tại sao khó? Vì đối mặt với tình huống cực hiếm: bão tuyết, cảnh sát ra hiệu, cục đá lăn giữa đường. AI học từ hàng tỷ cây số nhưng chưa đủ mọi trường hợp.",
+    "show": "Khổn nan: *tình huống hiếm*"
+   },
+   {
+    "say": "Câu hỏi đáng nghĩ hơn: khi xe tự lái an toàn hơn người, nhưng vẫn gây một tai nạn, xã hội chấp nhận không?",
+    "show": "An toàn hơn người\nnhưng *ai chịu trách nhiệm*?"
+   },
+   {
+    "say": "Theo dõi kênh để cùng dõi hành trình của xe không tài xế nhé!",
+    "show": "Dõi theo *xe không tài xế*"
+   }
+  ]
+ },
+ {
+  "id": "057",
+  "slug": "blockchain-don-gian",
+  "category": "Công nghệ",
+  "theme": "terminal",
+  "layout": "hook",
+  "voice": "Thiện Minh",
+  "music": "dark",
+  "title": "Blockchain giải thích bằng một quyển sổ",
+  "hashtags": [
+   "#blockchain",
+   "#congnghe",
+   "#khoahoc",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Blockchain nghe phức tạp, nhưng bản chất chỉ là một quyển sổ mà cả làng cùng giữ một bản sao.",
+    "show": "Blockchain = quyển sổ\ncả làng *cùng giữ*"
+   },
+   {
+    "say": "Mỗi giao dịch được ghi vào một trang, trang này gắn với trang trước bằng một dấu vân tay số. Sửa trang cũ thì mọi bản sao của cả làng đều phát hiện.",
+    "show": "Sửa trang cũ = *cả làng biết*"
+   },
+   {
+    "say": "Không ai sở hữu quyển sổ. Không ai được xóa. Đó là điểm khác biệt lớn nhất với sổ sách của ngân hàng.",
+    "show": "Không ai sở hữu.\nKhông ai *được xóa*."
+   },
+   {
+    "say": "Ưu điểm: minh bạch, khó giả mạo. Hạn chế: chậm, tốn năng lượng, và một khi ghi sai là sai vĩnh viễn.",
+    "show": "Minh bạch, nhưng *chậm*"
+   },
+   {
+    "say": "Blockchain không phải chìa khóa vạn năng, nhưng cho bài toán cần niềm tin giữa người lạ, nó đang mở đường mới.",
+    "show": "Niềm tin *giữa người lạ*"
+   },
+   {
+    "say": "Theo dõi kênh để giải thích mọi công nghệ chỉ trong một phút nhé!",
+    "show": "Mọi công nghệ *trong 1 phút*"
+   }
+  ]
+ },
+ {
+  "id": "058",
+  "slug": "dich-thuat-ai",
+  "category": "AI",
+  "theme": "gradient-pop",
+  "layout": "hook",
+  "voice": "Trúc Ly",
+  "music": "bright",
+  "title": "AI dịch đã giỏi như phiên dịch viên?",
+  "hashtags": [
+   "#ai",
+   "#dichthuat",
+   "#duhoic",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Tai nghe dịch thời gian thực, camera dịch bảng hiệu, tin nhắn dịch ngay trong chat. Phiên dịch viên có mất việc?",
+    "show": "Dịch thời gian thực\n*phiên dịch viên mất việc*?"
+   },
+   {
+    "say": "Với văn bản thông thường, AI đã dịch tốt hơn phần lớn người học ngoại ngữ. Đọc báo, xem phim, du lịch: gần như không rào cản nữa.",
+    "show": "Đọc, xem, du lịch:\n*hết rào cản*"
+   },
+   {
+    "say": "Nhưng ngôn ngữ không chỉ là từ. Tiếng lóng, mỉa mai, thành ngữ, sắc thái văn hóa, AI vẫn hay trượt ở vùng này.",
+    "show": "Tiếng lóng, *mỉa mai*:\nAI vẫn trượt"
+   },
+   {
+    "say": "Trong phòng họp thương lượng, chỗ khó nhất không phải dịch đúng từ, mà là dịch đúng ý và đúng cảm xúc.",
+    "show": "Dịch đúng từ ≠\ndịch đúng *cảm xúc*"
+   },
+   {
+    "say": "Tương lai khả dĩ nhất: AI làm việc nặng, người làm phần nhạy cảm. Học ngoại ngữ vẫn đáng, nhưng học để kết nối, không phải để dịch.",
+    "show": "Học ngoại ngữ để *kết nối*"
+   },
+   {
+    "say": "Bạn còn học ngoại ngữ không? Comment nhé, và theo dõi kênh để cập nhật cách AI thay đổi đời sống!",
+    "show": "Bạn còn học\nngoại ngữ không?"
+   }
+  ]
+ },
+ {
+  "id": "059",
+  "slug": "tai-sao-cham",
+  "category": "Công nghệ",
+  "theme": "retro-vhs",
+  "layout": "hook",
+  "voice": "Minh Triết",
+  "music": "pulse",
+  "title": "Tại sao mạng chậm dù wifi full sóng?",
+  "hashtags": [
+   "#congnghe",
+   "#wifi",
+   "#meo",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Wi-Fi đầy vạch nhưng video vẫn quay tròn. Lỗi ở đâu? Chín mươi phần trăm không phải do nhà mạng.",
+    "show": "Full vạch mà *chậm*.\nLỗi ở đâu?"
+   },
+   {
+    "say": "Vạch sóng chỉ đo độ mạnh tín hiệu, không đo độ nhiễu. Cửa hàng bán router bằng vạch, còn tốc độ thật nằm ở kênh sóng.",
+    "show": "Vạch đo *độ mạnh*,\nkhông đo *độ nhiễu*"
+   },
+   {
+    "say": "Thử nguyên nhân số một: cả khu nhà dùng chung kênh. Vào cài đặt router đổi kênh 1, 6 hoặc 11, tốc độ có thể tăng tức thì.",
+    "show": "Đổi kênh *1, 6, 11*"
+   },
+   {
+    "say": "Nguyên nhân số hai: router đặt cạnh tường kim loại, gương, hoặc lò vi sóng. Chúng ăn sạch sóng.",
+    "show": "Lò vi sóng\n*ăn sạch* sóng Wi-Fi"
+   },
+   {
+    "say": "Nguyên nhân số ba: quá nhiều thiết bị treo mạng cũ. Và DNS chậm. Đổi DNS sang dịch vụ công cộng nhanh là mẹo miễn phí dễ nhất.",
+    "show": "Đổi DNS = *mẹo miễn phí*"
+   },
+   {
+    "say": "Thử ngay một trong ba cách trên, và theo dõi kênh để tự xử lý công nghệ mà không cần gọi thợ nhé!",
+    "show": "Tự xử lý\n*không cần gọi thợ*"
+   }
+  ]
+ },
+ {
+  "id": "060",
+  "slug": "mua-sam-online-ai",
+  "category": "AI",
+  "theme": "minimal-light",
+  "layout": "hook",
+  "voice": "Kim Thanh",
+  "music": "warm",
+  "title": "AI đang đổi cách bạn mua sắm",
+  "hashtags": [
+   "#ai",
+   "#muasam",
+   "#kinhdoanh",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bạn không còn tìm sản phẩm nữa. Sản phẩm đang tìm bạn. Đó là cuộc cách mạng im lặng của AI trong mua sắm.",
+    "show": "Bạn không tìm sản phẩm.\nSản phẩm *tìm bạn*."
+   },
+   {
+    "say": "Mọi giá bạn thấy, thứ tự sản phẩm bạn lướt, khuyến mãi gửi cho bạn, đều được AI xếp riêng cho từng người.",
+    "show": "Mỗi người *một giá*,\nmột thứ tự riêng"
+   },
+   {
+    "say": "Trợ lý mua sắm AI mới xuất hiện: bạn nói cần áo lạnh cho chuyến đi Hà Nội, nó so sánh, chọn, đặt, xong.",
+    "show": "Trợ lý AI:\nnói 1 câu → *xong*"
+   },
+   {
+    "say": "Với người bán, cuộc chơi đổi mặt: thắng AI gợi ý quan trọng hơn thắng quảng cáo. Sản phẩm tốt và đánh giá thật trở thành công cụ tiếp thị số một.",
+    "show": "Thắng *AI gợi ý* > thắng quảng cáo"
+   },
+   {
+    "say": "Với người mua, kỹ năng mới cần rèn là biết khi nào nên tắt gợi ý và tự quyết. Theo dõi kênh để mua sắm thông minh thời AI nhé!",
+    "show": "Biết lúc nào\n*nên tắt gợi ý*"
+   }
+  ]
+ }
+]
