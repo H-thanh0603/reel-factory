@@ -1,0 +1,421 @@
+[
+ {
+  "id": "031",
+  "slug": "lai-kep",
+  "category": "Tiền bạc",
+  "theme": "corporate-blue",
+  "layout": "stat",
+  "voice": "Quang Sơn",
+  "music": "warm",
+  "title": "Lãi kép — phép màu thứ tám",
+  "hashtags": [
+   "#tien",
+   "#dautu",
+   "#laikep",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Einstein từng gọi lãi kép là kỳ quan thứ tám của thế giới. Đây là vì sao một câu nói như vậy không phải nói cho vui.",
+    "show": "Lãi kép — *kỳ quan thứ 8*",
+    "sub": "Câu nói của Einstein"
+   },
+   {
+    "say": "Mười phần trăm mỗi năm, mức khá của đầu tư dài hạn. Nhớ con số này để lát nữa tính tiếp.",
+    "stat": "10",
+    "sub": "% lãi mỗi năm — mức khá của đầu tư dài hạn"
+   },
+   {
+    "say": "Mười triệu đồng đầu tư ở mức mười phần trăm một năm: sau ba mươi năm không phải một trăm sáu mươi triệu, mà hơn một tỷ bảy trăm triệu.",
+    "show": "10 triệu → *hơn 1,7 tỷ*",
+    "sub": "Sau 30 năm, lãi kép 10%/năm"
+   },
+   {
+    "say": "Bí quyết không phải con số lãi cao, mà là thời gian. Mười năm đầu chậm như rùa, hai chục năm sau lao như phi cơ.",
+    "show": "Thời gian quan trọng hơn *con số*"
+   },
+   {
+    "say": "Vì thế người giàu bắt đầu sớm, không bắt đầu lớn. Bắt đầu hôm nay với bất kỳ con số nào.",
+    "show": "Bắt đầu *sớm* > bắt đầu *lớn*"
+   },
+   {
+    "say": "Theo dõi kênh để hiểu tiền trước khi tiền hiểu bạn nhé!",
+    "show": "Hiểu tiền *trước khi tiền hiểu bạn*"
+   }
+  ]
+ },
+ {
+  "id": "032",
+  "slug": "luong-tang-van-ngheo",
+  "category": "Tiền bạc",
+  "theme": "paper",
+  "layout": "hook",
+  "voice": "Minh Triết",
+  "music": "warm",
+  "title": "Lương tăng mà vẫn nghèo?",
+  "hashtags": [
+   "#tien",
+   "#luatphat",
+   "#kinhte",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Lương tăng mười phần trăm mỗi năm nhưng ví vẫn rỗng. Bạn không chi tiêu tệ hơn. Bạn đang bị một kẻ vô hình rút tiền.",
+    "show": "Kẻ *vô hình* rút tiền của bạn"
+   },
+   {
+    "say": "Tên của nó là lạm phát. Đồ ăn, tiền nhà, gasoline, mọi thứ tăng đều, và mức lương mới của bạn chỉ đủ bám theo.",
+    "show": "Lạm phát — *đuổi theo mãi*"
+   },
+   {
+    "say": "Nghịch lý còn lớn hơn: lương tăng khiến bạn nâng cấp cuộc sống, chiếc điện thoại mới, phòng rộng hơn. Đó là lạm phát lối sống.",
+    "show": "Lạm phát *lối sống*",
+    "sub": "Lương tăng → chi tiêu tăng theo"
+   },
+   {
+    "say": "Kẻ thù thật sự không phải lương thấp, mà là khoảng cách giữa lương và thói quen chi tiêu.",
+    "show": "Kẻ thù: *khoảng cách*\nlương và thói quen"
+   },
+   {
+    "say": "Ba mươi phần trăm đầu tiên của lương tăng hãy để dành, phần sau mới là phần sống. Đó là cách giàu lên mà không cần giàu trước.",
+    "show": "Tiết kiệm *trước*,\nchi tiêu *sau*"
+   },
+   {
+    "say": "Theo dõi kênh để giành lại quyền kiểm soát ví tiền của mình nhé!",
+    "show": "Kiểm soát *ví tiền*"
+   }
+  ]
+ },
+ {
+  "id": "033",
+  "slug": "quy-tac-50-30-20",
+  "category": "Tiền bạc",
+  "theme": "minimal-light",
+  "layout": "list",
+  "voice": "Đoan Trang",
+  "music": "bright",
+  "title": "Quy tắc 50/30/20 chia lương",
+  "hashtags": [
+   "#tien",
+   "#chitieu",
+   "#taichinh",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Nhận lương xong, đến giữa tháng đã rỗng túi? Quy tắc năm mươi ba mươi hai mươi sẽ cứu bạn.",
+    "show": "Hết lương *10 ngày*?\nQuy tắc này cứu bạn"
+   },
+   {
+    "say": "Năm mươi phần trăm cho nhu cầu thiết yếu: nhà, ăn, đi lại, hóa đơn. Không vượt qua dòng này.",
+    "show": "50% — *thiết yếu*"
+   },
+   {
+    "say": "Ba mươi phần trăm cho mong muốn: cà phê, phim, du lịch. Được phép tiêu hết, không cảm thấy tội lỗi.",
+    "show": "30% — *mong muốn*\nKhông tội lỗi gì"
+   },
+   {
+    "say": "Hai mươi phần trăm cho tương lai: tiết kiệm, đầu tư, trả nợ. Đây là phần trả trước cho bản thân mai sau.",
+    "show": "20% — *trả trước cho bản thân*"
+   },
+   {
+    "say": "Lưu ý quan trọng: chuyển phần hai mươi ra tài khoản riêng ngay khi nhận lương. Còn lại thì tiêu như thói quen.",
+    "show": "Chuyển 20% *ra tài khoản riêng*"
+   },
+   {
+    "say": "Lưu video này, áp dụng kỳ lương tới, và theo dõi kênh để tài chính nhẹ nhàng hơn nhé!",
+    "show": "Áp dụng *kỳ lương tới*"
+   }
+  ]
+ },
+ {
+  "id": "034",
+  "slug": "ca-phe-30k",
+  "category": "Tiền bạc",
+  "theme": "gradient-pop",
+  "layout": "stat",
+  "voice": "Kim Thanh",
+  "music": "bright",
+  "title": "Ly cà phê 30k mỗi ngày giá bao nhiêu?",
+  "hashtags": [
+   "#tien",
+   "#chitieu",
+   "#caphetuy",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Ba mươi nghìn một ly cà phê, là chút hạnh phúc hàng ngày. Nhưng bạn đã tính giá trị thật của nó chưa?",
+    "show": "Ly cà phê 30 nghìn\n*Có bao nhiêu giá trị thật?*"
+   },
+   {
+    "say": "Mười một triệu đồng mỗi năm. Chỉ cho một ly mỗi ngày.",
+    "stat": "11000000",
+    "sub": "đồng mỗi năm cho 1 ly cà phê mỗi ngày"
+   },
+   {
+    "say": "Mười một triệu mỗi năm, chỉ cho một thói quen nhỏ. Nếu đầu tư con số đó ở mức tám phần trăm một năm, sau ba mươi năm, nó là hơn một tỷ ba.",
+    "show": "1 ly/ngày\n= *1,3 tỷ* sau 30 năm",
+    "sub": "Nếu đầu tư thay vì uống"
+   },
+   {
+    "say": "Đây không phải bài phê bình cà phê. Đây là bài về chi phí cơ hội: mọi quyết định tiêu tiền đều có giá ở tương lai.",
+    "show": "Chi phí *cơ hội*"
+   },
+   {
+    "say": "Giải pháp không phải bỏ hết niềm vui, mà là chọn ba niềm vui thật sự đáng tiền, và cắt phần còn lại không nhớ nổi.",
+    "show": "Chọn *niềm vui đáng tiền*"
+   },
+   {
+    "say": "Theo dõi kênh để thấy giá trị thật của từng đồng bạn tiêu nhé!",
+    "show": "Mỗi đồng đều *có giá trị*"
+   }
+  ]
+ },
+ {
+  "id": "035",
+  "slug": "90-startup-that-bai",
+  "category": "Kinh doanh",
+  "theme": "terminal",
+  "layout": "stat",
+  "voice": "Xuân Vĩnh",
+  "music": "dark",
+  "title": "90% startup thất bại vì gì?",
+  "hashtags": [
+   "#kinhdoanh",
+   "#startup",
+   "#khoinghiep",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Chín trên mười startup thất bại. Nhưng nguyên nhân số một lại không phải đối thủ mạnh hay thiếu vốn.",
+    "show": "90% startup thất bại\n*Nhưng không phải vì thiếu vốn*"
+   },
+   {
+    "say": "Bốn mươi hai phần trăm, theo khảo sát startup thất bại, chết vì làm sản phẩm không ai cần.",
+    "stat": "42",
+    "sub": "% startup thất bại vì sản phẩm không ai cần"
+   },
+   {
+    "say": "Bốn mươi hai phần trăm chết vì lý do buồn cười nhất: làm ra thứ không ai cần. Họ xây cầu nhưng không ai muốn qua sông.",
+    "show": "Xây *cầu không ai qua*"
+   },
+   {
+    "say": "Thứ hai là hết tiền, thứ ba là đội ngũ không hợp. Đáng chú ý: ba vấn đề này đều có thể phát hiện sớm bằng một cuộc khảo sát khách hàng.",
+    "show": "Chết vì *tránh né*\ncâu hỏi khách hàng"
+   },
+   {
+    "say": "Bài học cho người khởi nghiệp: bán hàng trước, xây dựng sau. Một đơn hàng sớm hơn mọi slide thuyết trình.",
+    "show": "Bán *trước*, xây *sau*"
+   },
+   {
+    "say": "Theo dõi kênh để học bài học kinh doanh từ những thất bại của người khác nhé!",
+    "show": "Học từ *thất bại của người khác*"
+   }
+  ]
+ },
+ {
+  "id": "036",
+  "slug": "tam-ly-gia-199k",
+  "category": "Kinh doanh",
+  "theme": "neon-dark",
+  "layout": "hook",
+  "voice": "Hải Đăng",
+  "music": "pulse",
+  "title": "Vì sao giá luôn kết thúc bằng 9?",
+  "hashtags": [
+   "#kinhdoanh",
+   "#tamly",
+   "#banhang",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Hai trăm nghìn đồng. Đắt. Nhưng một trăm chín mươi chín nghìn? Mắt bạn tự động đọc là hơn một trăm. Đó là tâm lý giá.",
+    "show": "199k đọc là *hơn 100k*\nNão đánh lừa bạn"
+   },
+   {
+    "say": "Nghiên cứu MIT và Chicago từng bán cùng một áo phụ nữ với ba mức giá: ba mươi chín, ba tư, và ba tư bốn đô. Mức ba mươi chín bán chạy nhất.",
+    "show": "Giá *39$ bán chạy nhất*",
+    "sub": "Thí nghiệm MIT & Chicago"
+   },
+   {
+    "say": "Lý do: não xử lý số từ trái sang. Ba tư chín đọc thành ba tư, và giảm giá bảy đô trông rất lớn.",
+    "show": "Não đọc *từ trái sang*"
+   },
+   {
+    "say": "Trick thứ hai của các cửa hàng: đặt sản phẩm đắt nhất ngay đầu menu, để mọi mức giá sau trông rẻ hơn.",
+    "show": "Giá đắt nhất *đứng đầu menu*"
+   },
+   {
+    "say": "Bây giờ bạn biết thì hệ thống không lỡ bạn dễ nữa. Theo dõi kênh để đọc giải mã những chiêu marketing quanh bạn nhé!",
+    "show": "Giải mã *chiêu marketing*"
+   }
+  ]
+ },
+ {
+  "id": "037",
+  "slug": "ky-nang-dat-gia-2026",
+  "category": "Kinh doanh",
+  "theme": "corporate-blue",
+  "layout": "list",
+  "voice": "Thùy Dung",
+  "music": "pulse",
+  "title": "Kỹ năng đắt giá nhất 2026",
+  "hashtags": [
+   "#kynang",
+   "#vieclam",
+   "#2026",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Nếu năm 2026 bạn chỉ có thời gian rèn một kỹ năng mới, hãy chọn khéo. Đây là ba kỹ năng đắt giá nhất hiện nay.",
+    "show": "Rèn 1 kỹ năng.\n*Chọn khéo*."
+   },
+   {
+    "say": "Một: quản trị và phối hợp AI. Người biết dùng công cụ thay thế người không biết. Lương cho vị trí này đang tăng nhanh nhất.",
+    "show": "Quản trị & *phối hợp AI*"
+   },
+   {
+    "say": "Hai: giao tiếp viết. Trong thế giới làm việc từ xa, chữ của bạn chính là hình ảnh của bạn. Email rõ ràng được trả lương cao hơn.",
+    "show": "Giao tiếp *bằng chữ*"
+   },
+   {
+    "say": "Ba: phán xét dữ liệu. Không cần thành chuyên gia thống kê, chỉ cần biết hỏi dữ liệu câu hỏi đúng và nhận ra khi nó nói dối.",
+    "show": "Phán xét *dữ liệu*"
+   },
+   {
+    "say": "Điểm chung của cả ba: chúng không bị AI thay thế, mà là những kỹ năng để điều khiển AI.",
+    "show": "3 kỹ năng *điều khiển AI*"
+   },
+   {
+    "say": "Theo dõi kênh để không bị tụt lại trong thị trường lao động mới nhé!",
+    "show": "Không tụt lại *thời AI*"
+   }
+  ]
+ },
+ {
+  "id": "038",
+  "slug": "lam-phat-la-gi",
+  "category": "Tiền bạc",
+  "theme": "paper",
+  "layout": "hook",
+  "voice": "Ngọc Linh",
+  "music": "warm",
+  "title": "Giải thích lạm phát trong 60 giây",
+  "hashtags": [
+   "#kinhte",
+   "#lamphat",
+   "#tien",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Ai cũng nghe nói lạm phát, nhưng ít ai giải thích được. Đây là phiên bản sáu mươi giây.",
+    "show": "Lạm phát\ntrong *60 giây*"
+   },
+   {
+    "say": "Lạm phát là khi tiền mất sức mua. Túi mười triệu năm nay mua ít hơn năm ngoái, dù mệnh giá không đổi.",
+    "show": "Tiền *mất sức mua*"
+   },
+   {
+    "say": "Nguyên nhân đơn giản: nhiều tiền đuổi theo ít hàng. Khi hàng hóa không tăng bằng dòng tiền, giá phải leo thang.",
+    "show": "Nhiều tiền\n*đuổi theo* ít hàng"
+   },
+   {
+    "say": "Lạm phát nhẹ hai đến ba phần trăm lành mạnh, như dầu máy. Nhưng khi vượt mười phần trăm, người tiêu dùng và người tiết kiệm đều chịu đòn nặng.",
+    "show": "2-3% là *dầu máy*",
+    "sub": "Trên 10% là bão"
+   },
+   {
+    "say": "Người thắng trong lạm phát là người nợ vốn vay dài hạn với lãi suất cố định, và người sở hữu tài sản thật.",
+    "show": "Người thắng: *nợ & tài sản thật*"
+   },
+   {
+    "say": "Theo dõi kênh để đọc hiểu kinh tế mà không cần học đại học kinh tế nhé!",
+    "show": "Đọc hiểu *kinh tế*"
+   }
+  ]
+ },
+ {
+  "id": "039",
+  "slug": "thuong-hieu-nhat-ban",
+  "category": "Kinh doanh",
+  "theme": "sunset-warm",
+  "layout": "hook",
+  "voice": "Thiên Tâm Đức",
+  "music": "warm",
+  "title": "Bài học từ cửa hàng 400 năm tuổi",
+  "hashtags": [
+   "#kinhdoanh",
+   "#nhatban",
+   "#thuonghieu",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Có những công ty Nhật Bản vẫn mở cửa sau bốn trăm, thậm chí hơn một nghìn năm. Bí quyết của họ đáng để lắng nghe.",
+    "show": "Công ty sống *1.000 năm*"
+   },
+   {
+    "say": "Nakamura Shaji, hay công ty xây dựng Kongō Gumi từng hoạt động liên tục từ năm 578, xây chùa Shitennō-ji.",
+    "show": "Từ năm *578*",
+    "sub": "Kongō Gumi — thợ xây chùa"
+   },
+   {
+    "say": "Triết lý chung của họ: kinh doanh là chăm sóc hàng trăm năm tới, không phải quý này. Tốc độ tăng chậm, nhưng không bao giờ hồi kết.",
+    "show": "Tư duy *hàng trăm năm*",
+    "sub": "Không phải quý này"
+   },
+   {
+    "say": "Họ từ chối nợ quá mức, từ chối mở rộng nóng vội, và luôn giữ dòng tiền lành mạnh như việc giữ hơi thở.",
+    "show": "Từ chối *mở rộng nóng vội*"
+   },
+   {
+    "say": "Trong thời đại tăng trưởng bằng mọi giá, đôi khi thắng cuộc đời là sống sót lâu nhất. Theo dõi kênh để học kinh doanh từ những lớp người đi trước nhé!",
+    "show": "Thắng cuộc đời =\n*sống sót lâu nhất*"
+   }
+  ]
+ },
+ {
+  "id": "040",
+  "slug": "tai-sao-gia-do-vat-tang",
+  "category": "Tiền bạc",
+  "theme": "minimal-light",
+  "layout": "hook",
+  "voice": "Quỳnh Anh",
+  "music": "bright",
+  "title": "Giá cả mọi thứ đều tăng — tiền về đâu?",
+  "hashtags": [
+   "#kinhte",
+   "#tien",
+   "#doisong",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bữa ăn ở quán quen, tháng trước ba mươi lăm nghìn, hôm nay bốn mươi. Chủ quán cũng không giàu lên. Vậy tiền về đâu?",
+    "show": "Bánh mì tăng 5 nghìn.\n*Ai nhận tiền?*"
+   },
+   {
+    "say": "Chuỗi chi phí tăng đồng loạt: nguyên liệu, điện, xăng, tiền thuê. Mỗi mắt xích đều chuyển bill cho mắt xích kế tiếp.",
+    "show": "Bill được *chuyển tay*\ndọc chuỗi"
+   },
+   {
+    "say": "Và cuối chuỗi luôn là bạn, người tiêu dùng cuối cùng. Không ai xấu xa, hệ thống cứ vậy lăn tới.",
+    "show": "Cuối chuỗi *luôn là bạn*"
+   },
+   {
+    "say": "Có một chi tiết ít ai nói: khi mọi người kỳ vọng giá sẽ tăng, họ tăng giá trước, và kỳ vọng tự thành hiện thực.",
+    "show": "Kỳ vọng → *tự thành hiện thực*"
+   },
+   {
+    "say": "Giải pháp thực tế duy nhất cho cá nhân: đảm bảo thu nhập của bạn tăng nhanh hơn con số bốn mươi nghìn ấy. Theo dõi kênh để cùng làm điều đó nhé!",
+    "show": "Thu nhập tăng\n*nhanh hơn giá*"
+   }
+  ]
+ }
+]

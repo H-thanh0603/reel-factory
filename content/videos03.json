@@ -1,0 +1,419 @@
+[
+ {
+  "id": "021",
+  "slug": "quy-tac-2-phut",
+  "category": "Tâm lý",
+  "theme": "minimal-light",
+  "layout": "list",
+  "voice": "Hải Đăng",
+  "music": "bright",
+  "title": "Quy tắc 2 phút khỏi trì hoãn",
+  "hashtags": [
+   "#tamly",
+   "#trihhoan",
+   "#nangsuat",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Trì hoãn không phải vì lười. Não bạn chỉ sợ việc quá lớn. Đây là ba cách ép nó bắt đầu trong hai phút.",
+    "show": "Trì hoãn = não *sợ việc lớn*",
+    "sub": "3 cách bắt đầu trong 2 phút"
+   },
+   {
+    "say": "Một: quy tắc hai phút. Coi nhiệm vụ chỉ kéo dài hai phút. Mở tài liệu, viết một dòng. Não thường tiếp tục sau khi đã bắt đầu.",
+    "show": "Quy tắc *2 phút*"
+   },
+   {
+    "say": "Hai: phá việc lớn thành việc nhỏ đến mức không thể từ chối. Không phải viết báo cáo, mà là viết tiêu đề.",
+    "show": "Phá nhỏ đến mức *không thể từ chối*"
+   },
+   {
+    "say": "Ba: đặt hẹn năm phút với đồng hồ đếm ngược. Cam kết dừng sau năm phút. Nhưng cảm giác tiến triển sẽ giữ bạn ở lại.",
+    "show": "Hẹn *5 phút* với đồng hồ"
+   },
+   {
+    "say": "Khoa học gọi đây là vượt qua lực ma sát khởi động. Bắt đầu tệ vẫn hơn hoàn hảo mãi không bắt đầu.",
+    "show": "Bắt đầu *tệ* vẫn hơn\nkhông bắt đầu"
+   },
+   {
+    "say": "Lưu video này lại, và theo dõi kênh để có thêm chiến thuật chống trì hoãn mỗi tuần nhé!",
+    "show": "Lưu lại để *dùng ngay*"
+   }
+  ]
+ },
+ {
+  "id": "022",
+  "slug": "nghien-dien-thoai",
+  "category": "Tâm lý",
+  "theme": "retro-vhs",
+  "layout": "hook",
+  "voice": "Thùy Dung",
+  "music": "pulse",
+  "title": "Tại sao bạn nghiện điện thoại?",
+  "hashtags": [
+   "#tamly",
+   "#dienthoai",
+   "#dopamine",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bạn mở điện thoại chỉ để xem giờ, rồi mười lăm phút sau vẫn đang lướt. Sao lại thế?",
+    "show": "Mở máy xem giờ.\nMất *15 phút*."
+   },
+   {
+    "say": "Mỗi thông báo là một túi quà bất ngờ cho não. Cơ chế dopamine không kích hoạt khi nhận phần thưởng, mà khi *mong chờ* phần thưởng.",
+    "show": "Dopamine kích hoạt khi *mong chờ*"
+   },
+   {
+    "say": "Vì vậy bạn lướt không phải vì thấy vui, mà vì có thể sẽ có gì đó thú vị ở phía dưới. Cái có thể là cả vấn đề.",
+    "show": "Lướt vì *có thể* có gì đó"
+   },
+   {
+    "say": "Các ứng dụng thiết kế như máy đánh bạc: cuộn vô hạn, phần thưởng ngẫu nhiên. Một mô hình casino thu nhỏ trong túi quần bạn.",
+    "show": "Điện thoại = *casino* trong túi"
+   },
+   {
+    "say": "Ba bước giải thoát: tắt thông báo, để máy ngoài tầm tay khi làm việc, và thay lướt bằng một việc tay chân nào đó.",
+    "show": "Tắt thông báo.\nĐể máy *xa tay*."
+   },
+   {
+    "say": "Theo dõi kênh để hiểu tâm lý của chính mình sâu hơn mỗi ngày nhé!",
+    "show": "Hiểu chính mình *mỗi ngày*"
+   }
+  ]
+ },
+ {
+  "id": "023",
+  "slug": "tam-ly-dong-doi",
+  "category": "Tâm lý",
+  "theme": "sunset-warm",
+  "layout": "hook",
+  "voice": "Mỹ Duyên",
+  "music": "warm",
+  "title": "Vì sao bạn làm theo đám đông?",
+  "hashtags": [
+   "#tamly",
+   "#dongdoi",
+   "#khoahoc",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Một quán đông khách, một quán vắng. Bạn chọn quán đông, dù chưa nếm món nào ở cả hai. Vì sao?",
+    "show": "Quán đông hay quán vắng?\n*Bạn chọn sao?*"
+   },
+   {
+    "say": "Đó là tâm lý bằng chứng xã hội: khi không chắc chắn, não dùng hành vi của người khác làm bản đồ dẫn đường.",
+    "show": "Não dùng *đám đông*\nlàm bản đồ"
+   },
+   {
+    "say": "Thí nghiệm kinh điển của Asch: ba phần tư người tham gia từng chối mắt mình, chỉ để đồng ý với đa số sai bét.",
+    "show": "75% từng *chối mắt mình*",
+    "sub": "Thí nghiệm Asch"
+   },
+   {
+    "say": "Đây từng là bản năng sinh tồn: thời xưa, đi khỏi đàn là chết. Não cổ vẫn chạy chương trình đó trong siêu thị hiện đại.",
+    "show": "Bản năng *sinh tồn* thời xưa"
+   },
+   {
+    "say": "Cách chống lại: tự đặt câu hỏi, tôi tin điều này vì nó đúng, hay vì nhiều người tin nó?",
+    "show": "Tin vì *đúng*\nhay vì *nhiều người tin*?"
+   },
+   {
+    "say": "Theo dõi kênh để não bạn không còn dễ bị dẫn dắt nhé!",
+    "show": "Não tỉnh táo *mỗi ngày*"
+   }
+  ]
+ },
+ {
+  "id": "024",
+  "slug": "kiem-soat-cuc-pham-vi",
+  "category": "Tâm lý",
+  "theme": "paper",
+  "layout": "hook",
+  "voice": "Thiện Minh",
+  "music": "warm",
+  "title": "Vòng tròn lo âu: kiểm soát điều gì?",
+  "hashtags": [
+   "#tamly",
+   "#loau",
+   "#cuocsong",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bạn mất ngủ vì tin tức, vì tiền bạc, vì tương lai. Nhưng thử chia lo âu thành hai vòng tròn này.",
+    "show": "Chia *lo âu* thành\n2 vòng tròn"
+   },
+   {
+    "say": "Vòng trong: những gì bạn kiểm soát được. Nỗ lực, lời nói, phản ứng, giờ ngủ. Vòng ngoài: những gì bạn không thể. Giá xăng, ý kiến người khác, tương lai.",
+    "show": "Vòng trong: *điều bạn kiểm soát*"
+   },
+   {
+    "say": "Lo âu hầu hết sinh ra từ vòng ngoài. Tức là bạn đang tiêu năng lượng cho một núm vặn không tồn tại.",
+    "show": "Lo âu sống ở *vòng ngoài*",
+    "sub": "Núm vặn không tồn tại"
+   },
+   {
+    "say": "Mỗi lần lo, tự hỏi: điều này nằm trong vòng nào? Nếu ngoài vòng, ghi nhận rồi buông. Nếu trong vòng, hành động một bước nhỏ.",
+    "show": "Lo thì hỏi: *vòng nào?*"
+   },
+   {
+    "say": "Triết học cổ Hy Lạp gọi là hòn đảo của Archilochus, tâm lý học hiện đại gọi là phân biệt kiểm soát. Cả hai cùng dạy một điều: buông đúng chỗ.",
+    "show": "Buông đúng chỗ,\n*giữ đúng chỗ*"
+   },
+   {
+    "say": "Theo dõi kênh để mỗi tuần nhẹ lòng hơn một chút nhé!",
+    "show": "Nhẹ lòng hơn *mỗi tuần*"
+   }
+  ]
+ },
+ {
+  "id": "025",
+  "slug": "hieu-ung-doreamon",
+  "category": "Tâm lý",
+  "theme": "gradient-pop",
+  "layout": "hook",
+  "voice": "Trúc Ly",
+  "music": "bright",
+  "title": "Hiệu ứng Zeigarnik: não không quên việc dở",
+  "hashtags": [
+   "#tamly",
+   "#hieueung",
+   "#nangsuat",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Đang làm dở một việc, bạn bỏ đi nghỉ, nhưng não cứ nhắc mãi. Đó là hiệu ứng Zeigarnik.",
+    "show": "Việc dở dang *ám mãi*\ntrong đầu bạn"
+   },
+   {
+    "say": "Não bộ coi nhiệm vụ chưa xong như một cửa sổ đang mở. Nó cứ reo chuông cho đến khi bạn đóng lại.",
+    "show": "Não reo chuông\ndưới khi *cửa còn mở*"
+   },
+   {
+    "say": "Bản ghi nhớ tạm của não chỉ chứa khoảng bốn đến bảy việc cùng lúc. Đó là lý do khi ba việc dở dang, bạn không tập trung nổi.",
+    "show": "Não nhớ tạm *4-7 việc*"
+   },
+   {
+    "say": "Mẹo hay dùng: trước khi nghỉ, viết lại bước tiếp theo của việc dở trên giấy. Não được tin rằng kế hoạch đã được lưu, và im bặt.",
+    "show": "Viết *bước tiếp theo*\nrồi mới nghỉ"
+   },
+   {
+    "say": "Dùng hiệu ứng này một cách có lợi: khi học, dừng lại ở chỗ hấp dẫn nhất. Lần sau bạn sẽ quay lại dễ hơn.",
+    "show": "Dừng ở chỗ *hấp dẫn nhất*"
+   },
+   {
+    "say": "Theo dõi kênh để biết thêm những hiệu ứng tâm lý khiến bạn sửng sốt nhé!",
+    "show": "Hiệu ứng tâm lý *mỗi tuần*"
+   }
+  ]
+ },
+ {
+  "id": "026",
+  "slug": "viet-nhat-ki-biet-on",
+  "category": "Tâm lý",
+  "theme": "sunset-warm",
+  "layout": "list",
+  "voice": "Ngọc Trân",
+  "music": "warm",
+  "title": "5 phút biết ơn mỗi tối",
+  "hashtags": [
+   "#tamly",
+   "#bieton",
+   "#hankhuc",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Một thói quen mất năm phút đã được nghiên cứu chứng minh cải thiện tâm trạng trong nhiều tuần. Đó là nhật ký biết ơn.",
+    "show": "5 phút mỗi tối\nđổi *nhiều tuần vui vẻ*"
+   },
+   {
+    "say": "Bước một: viết ra ba điều tốt đã xảy ra hôm nay. Nhỏ cũng được, bữa ăn ngon, một tin nhắn ấm.",
+    "show": "3 điều tốt *hôm nay*"
+   },
+   {
+    "say": "Bước hai: viết vì sao điều đó xảy ra. Não sẽ bắt đầu học cách tìm lý do tích cực thay vì soi sai sót.",
+    "show": "Viết *vì sao* nó xảy ra"
+   },
+   {
+    "say": "Bước ba: nhớ lại chi tiết cảm giác. Não không phân biệt rõ giữa tái trải nghiệm và trải nghiệm thật, nên niềm vui được tính đôi.",
+    "show": "Nhớ lại *cảm giác* chi tiết"
+   },
+   {
+    "say": "Nghiên cứu của Seligman cho thấy cách này làm giảm triệu chứng trầm cảm kéo dài tới sáu tháng.",
+    "show": "Tác dụng kéo dài *6 tháng*",
+    "sub": "Nghiên cứu của Seligman"
+   },
+   {
+    "say": "Thử tối nay luôn, và theo dõi kênh để có thêm những thói quen nhỏ đổi đời nhé!",
+    "show": "Thử ngay *tối nay*"
+   }
+  ]
+ },
+ {
+  "id": "027",
+  "slug": "suy-nghi-phan-phien",
+  "category": "Tâm lý",
+  "theme": "neon-dark",
+  "layout": "hook",
+  "voice": "Thiền Tâm Đức",
+  "music": "dark",
+  "title": "Cách tắt tiếng suy nghĩ trong đầu",
+  "hashtags": [
+   "#tamly",
+   "#thien",
+   "#anhhung",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Nằm xuống, mọi thứ im bặt, và trong đầu bắt đầu chiếu lại mọi lỗi lầm mười năm qua. Cảnh này quen không?",
+    "show": "2 giờ sáng:\nchiếu lại *mọi lỗi lầm*"
+   },
+   {
+    "say": "Khoa học gọi là rumination, chế độ nhai lại. Não nhầm giữa giải quyết vấn đề và tự tấn công bản thân.",
+    "show": "*Rumination* — nhai lại\nkhông nghỉ"
+   },
+   {
+    "say": "Mẹo thứ nhất: đặt một cuốn sổ cạnh giường. Ghi lại điều khiến bạn bận tâm, não được phép buông vì biết sẽ không quên.",
+    "show": "Viết ra → *được phép buông*"
+   },
+   {
+    "say": "Mẹo thứ hai: gọi tên nó. Khi nói với mình, tôi đang nhai lại, hoạt động não chuyển từ vùng cảm xúc sang vùng lý trí.",
+    "show": "Gọi tên nó: *tôi đang nhai lại*"
+   },
+   {
+    "say": "Mẹo thứ ba: hít bốn giây, giữ bảy giây, thở ra tám giây. Hệ thần kinh tự nhận tín hiệu an toàn.",
+    "show": "Hít 4 — giữ 7 — thở *8*"
+   },
+   {
+    "say": "Theo dõi kênh để học cách sống yên bình giữa một thế giới ồn ào nhé!",
+    "show": "Yên bình giữa *thế giới ồn ào*"
+   }
+  ]
+ },
+ {
+  "id": "028",
+  "slug": "hiep-si-toc-ang",
+  "category": "Đời sống",
+  "theme": "paper",
+  "layout": "hook",
+  "voice": "Thục Đoan",
+  "music": "warm",
+  "title": "Hiệp sĩ tóc vàng quá đẹp",
+  "hashtags": [
+   "#tamly",
+   "#quanhe",
+   "#doisong",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bạn có để ý, người dễ thương nhất với người ngoài thường là người lạnh nhất với gia đình? Hiện tượng này có tên gọi.",
+    "show": "Dễ thương với ngoài.\n*Lạnh với nhà*."
+   },
+   {
+    "say": "Lý do thứ nhất: an toàn. Não bạn biết gia đình không bỏ đi, nên nó trút hết mệt mỏi ở nơi không phải đeo mặt nạ.",
+    "show": "Nhà là nơi *bỏ mặt nạ*"
+   },
+   {
+    "say": "Lý do thứ hai: kiệt sức. Trong ngày bạn diễn khen hay, mỉm cười, giữ bình tĩnh. Về tới nhà, pin đã cạn.",
+    "show": "Pin *cạn* trước khi về nhà"
+   },
+   {
+    "say": "Nhưng người thương mình không phải là nơi đổ rác cảm xúc. Họ cũng cần được đối xử như bạn bè của bạn.",
+    "show": "Người thương mình\n*không phải bãi rác*"
+   },
+   {
+    "say": "Vậy thử tối nay, về nhà với cùng giọng nói bạn dùng với khách hàng. Người thân xứng đáng hơn thế.",
+    "show": "Về nhà bằng giọng\n*dùng với khách hàng*"
+   },
+   {
+    "say": "Gửi video này cho người thân của bạn, và theo dõi kênh để xây dựng những mối quan hệ tốt hơn nhé!",
+    "show": "Gửi cho *người thân* ngay"
+   }
+  ]
+ },
+ {
+  "id": "029",
+  "slug": "hoc-cho-den-dau",
+  "category": "Tâm lý",
+  "theme": "terminal",
+  "layout": "list",
+  "voice": "Minh Đức",
+  "music": "pulse",
+  "title": "Học 100 giờ đầu tiên hay hơn học 10.000 giờ",
+  "hashtags": [
+   "#hoctap",
+   "#kynang",
+   "#nangsuat",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Quy tắc mười nghìn giờ làm bạn nản. Nhưng sự thật là: giá trị lớn nhất nằm trong một trăm giờ đầu tiên.",
+    "show": "10.000 giờ là huyền thoại.\n*100 giờ* là thật."
+   },
+   {
+    "say": "Đường cong học tập dốc nhất ở giai đoạn đầu. Hai mươi phần trăm nỗ lực đầu tiên cho bạn tám mươi phần trăm kết quả.",
+    "show": "20% nỗ lực → *80% kết quả*",
+    "sub": "Nguyên lý Pareto trong học tập"
+   },
+   {
+    "say": "Một trăm giờ là đủ để bạn giao tiếp cơ bản tiếng Tây Ban Nha, chơi được một bản guitar, nấu ra một bữa hoàn chỉnh.",
+    "show": "100 giờ = *1 kỹ năng thật*"
+   },
+   {
+    "say": "Ba bước: chọn một kỹ năng, chặn hai mươi phút mỗi ngày, và tập trong điều kiện giống thực tế nhất.",
+    "show": "20 phút *mỗi ngày*"
+   },
+   {
+    "say": "Đa kỹ năng bề rộng đang đắt giá hơn một kỹ năng sâu trong thời đại AI. Theo dõi kênh để học thông minh hơn nhé!",
+    "show": "Bề rộng *đang đắt giá*"
+   }
+  ]
+ },
+ {
+  "id": "030",
+  "slug": "fomo",
+  "category": "Tâm lý",
+  "theme": "retro-vhs",
+  "layout": "hook",
+  "voice": "Mai Anh",
+  "music": "pulse",
+  "title": "FOMO: nỗi sợ bỏ lỡ đang cướp đời bạn",
+  "hashtags": [
+   "#fomo",
+   "#tamly",
+   "#mangxaioi",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bạn đồng ý đi tiệc dù mệt, mở điện thoại lúc ăn, tham gia mọi cuộc trò chuyện. Vì sợ bỏ lỡ. FOMO đó.",
+    "show": "Sợ bỏ lỡ\nđang *cướp đời bạn*"
+   },
+   {
+    "say": "Nghiên cứu chỉ ra người có FOMO cao trải nghiệm thời gian thực kém vui hơn, dù đang ở ngay giữa buổi vui.",
+    "show": "Đang vui mà *không vui*"
+   },
+   {
+    "say": "Nghịch lý: càng sợ bỏ lỡ điều ngoài kia, bạn càng bỏ lỡ điều ngay trước mắt. Bữa ăn, người bạn, khoảnh khắc.",
+    "show": "Sợ bỏ lỡ *ngoài kia*\nmất *ngay đây*"
+   },
+   {
+    "say": "Thuốc giải là JOMO, niềm vui bỏ lỡ. Chọn ít thứ nhưng trọn vẹn, và cho phép mình nghỉ không vì việc gì cả.",
+    "show": "JOMO: niềm vui *bỏ lỡ*"
+   },
+   {
+    "say": "Đời ngắn, không đủ để bỏ lỡ hết mọi thứ. Chọn điều đáng. Theo dõi kênh để chọn đời mình tỉnh táo hơn nhé!",
+    "show": "Chọn điều *đáng*"
+   }
+  ]
+ }
+]

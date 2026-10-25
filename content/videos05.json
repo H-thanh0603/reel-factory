@@ -1,0 +1,396 @@
+[
+ {
+  "id": "041",
+  "slug": "tin-nhan-dau-tien-the-gioi",
+  "category": "Lịch sử",
+  "theme": "terminal",
+  "layout": "hook",
+  "voice": "Thiện Minh",
+  "music": "dark",
+  "title": "Tin nhắn đầu tiên của Internet chỉ là 2 chữ cái",
+  "hashtags": [
+   "#lichsu",
+   "#internet",
+   "#congnghe",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Tin nhắn đầu tiên trong lịch sử Internet chỉ có hai chữ cái. Và nó còn là một sự cố kỹ thuật.",
+    "show": "Tin nhắn đầu tiên của Internet:\nchỉ *2 chữ cái*"
+   },
+   {
+    "say": "Năm 1969, nhóm khoa học UCLA gửi tin đầu tiên qua mạng ARPANET tới Stanford. Họ định gõ LOGIN, hệ thống sập sau chữ LO.",
+    "show": "1969: gõ LOGIN\n→ sập sau chữ *LO*"
+   },
+   {
+    "say": "Hai chữ cái L, O, và cả mạng tắt ngóm. Một tiếng sau họ thử lại, và thành công. Đó là bóng tối khai sinh của toàn bộ Internet.",
+    "show": "Chữ *LO* khai sinh Internet",
+    "sub": "Mạng ARPANET, 29/10/1969"
+   },
+   {
+    "say": "Từ đó đến nay, hơn năm tỷ người nối mạng mỗi ngày. Mọi thứ bắt đầu từ một lỗi nhỏ chưa kịp gõ xong.",
+    "show": "5 tỷ người online *mỗi ngày*"
+   },
+   {
+    "say": "Lịch sử công nghệ đầy những tai nạn tuyệt vời như thế. Theo dõi kênh để cùng đào thêm những mẩu chuyện này nhé!",
+    "show": "Những *tai nạn tuyệt vời*"
+   }
+  ]
+ },
+ {
+  "id": "042",
+  "slug": "ban-do-the-gioi-sai",
+  "category": "Lịch sử",
+  "theme": "paper",
+  "layout": "hook",
+  "voice": "Ngọc Trân",
+  "music": "warm",
+  "title": "Bản đồ thế giới bạn học ở trường là sai",
+  "hashtags": [
+   "#lichsu",
+   "#bando",
+   "#khoahoc",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bản đồ thế giới treo trên tường lớp học của bạn nói dối. Greenland trông to như châu Phi, nhưng thực tế Africa lớn gấp mười bốn lần.",
+    "show": "Bản đồ *nói dối*\nGreenland vs châu Phi"
+   },
+   {
+    "say": "Chiếc bản đồ Mercator năm 1569 thiết kế cho tàu biển: giữ hướng đúng, nhưng phóng to vô hạn các vùng gần cực.",
+    "show": "Mercator 1569:\n*phóng to* vùng gần cực"
+   },
+   {
+    "say": "Bây giờ châu Âu trông ngang châu Nam Mỹ, dù Nam Mỹ rộng gần gấp đôi. Bản đồ không sai kỹ thuật, nó sai về cảm nhận.",
+    "show": "Nam Mỹ *rộng gần gấp đôi*\nchâu Âu"
+   },
+   {
+    "say": "Gall-Peters là phiên bản giữ diện tích thật. Nhìn nó, thế giới như bị bóp méo ngược lại, vì mắt bạn đã quen bản đồ méo.",
+    "show": "Bản đồ đúng = *trông sai*"
+   },
+   {
+    "say": "Bài học sâu xa: mọi bản đồ là một góc nhìn, không phải sự thật trọn vẹn. Theo dõi kênh để nghi ngờ đúng chỗ nhé!",
+    "show": "Mọi bản đồ là *một góc nhìn*"
+   }
+  ]
+ },
+ {
+  "id": "043",
+  "slug": "internet-hoat-dong-nhu-the-nao",
+  "category": "Công nghệ",
+  "theme": "neon-dark",
+  "layout": "list",
+  "voice": "Minh Đức",
+  "music": "pulse",
+  "title": "Tin nhắn đi từ Hà Nội tới Sài Gòn thế nào?",
+  "hashtags": [
+   "#congnghe",
+   "#internet",
+   "#khoahoc",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bạn gửi một tin nhắn, vài phần nghìn giây sau người nhận thấy. Trên đường đi đó, chuyện gì vừa xảy ra?",
+    "show": "Tin nhắn của bạn\nđi *đường nào*?"
+   },
+   {
+    "say": "Một: tin nhắn bị xé thành hàng nghìn gói dữ liệu nhỏ, mỗi gói mang địa chỉ và số thứ tự.",
+    "show": "Xé thành *hàng nghìn gói*"
+   },
+   {
+    "say": "Hai: các gói chạy qua hàng chục bộ định tuyến, có thể đi những con đường khác nhau, giống hành khách chạy chuyến riêng.",
+    "show": "Mỗi gói đi *chuyến riêng*"
+   },
+   {
+    "say": "Ba: bên nhận ghép lại theo số thứ tự. Gói nào mất, máy yêu cầu gửi lại. Tất cả trong vài phần nghìn giây.",
+    "show": "Ghép lại trong *vài ms*"
+   },
+   {
+    "say": "Và trên đoạn đường dây quang, tin nhắn của bạn chạy bằng ánh sáng, tốc độ khoảng hai phần ba tốc độ ánh sáng trong chân không.",
+    "show": "Tin nhắn chạy bằng *ánh sáng*"
+   },
+   {
+    "say": "Theo dõi kênh để hiểu cách thế giới vận hành dưới lớp màn hình nhé!",
+    "show": "Hiểu thế giới *dưới màn hình*"
+   }
+  ]
+ },
+ {
+  "id": "044",
+  "slug": "cau-chuyen-kodak",
+  "category": "Đời sống",
+  "theme": "paper",
+  "layout": "hook",
+  "voice": "Thanh Bình",
+  "music": "warm",
+  "title": "Kodak phát minh ra máy ảnh số rồi tự hủy nó",
+  "hashtags": [
+   "#lich su",
+   "#kinhdoanh",
+   "#doisong",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Năm 1975, một kỹ sư Kodak chế tạo máy ảnh kỹ thuật số đầu tiên. Sếp anh nói: rất hay, đừng kể cho ai biết.",
+    "show": "Kodak phát minh máy ảnh số\nrồi *giấu nó đi*"
+   },
+   {
+    "say": "Steven Sasson trình diễn chiếc máy to như lò vi sóng, chụp ảnh bằng băng từ. Giám đốc hỏi: ai muốn xem ảnh trên TV?",
+    "show": "Máy ảnh số đầu tiên\nto như *lò vi sóng*"
+   },
+   {
+    "say": "Kodak khi đó chiếm chín mươi phần trăm phim ảnh tại Mỹ. Máy ảnh số sẽ giết thương trường của chính họ, nên họ chôn nó.",
+    "show": "90% thị trường phim\n*chôn* phát minh của mình"
+   },
+   {
+    "say": "Năm 2012, Kodak phá sản. Sự thật rằng kẻ tiêu diệt nó chính là thứ nó đã phát minh trước mười ba năm so với cả thế giới.",
+    "show": "Phá sản 2012\nbởi phát minh *của chính mình*"
+   },
+   {
+    "say": "Bài học đời: kẻ giết bạn không phải đối thủ. Kẻ giết bạn là việc bạn từ chối nhìn thấy. Theo dõi kênh để thêm nhiều bài học như thế này nhé!",
+    "show": "Kẻ giết bạn là\n*việc bạn từ chối nhìn*"
+   }
+  ]
+ },
+ {
+  "id": "045",
+  "slug": "kaizen-1-percent",
+  "category": "Đời sống",
+  "theme": "sunset-warm",
+  "layout": "stat",
+  "voice": "Mỹ Duyên",
+  "music": "warm",
+  "title": "Cải thiện 1% mỗi ngày",
+  "hashtags": [
+   "#doisong",
+   "#kaizen",
+   "#thoiquen",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Không cần thay đổi cuộc đời trong một ngày. Người Nhật có triết lý Kaizen: chỉ cần hơn hôm qua một phần trăm.",
+    "show": "Kaizen: *1% mỗi ngày*"
+   },
+   {
+    "say": "Ba mươi bảy lần. Đó là sức mạnh của một phần trăm mỗi ngày, cộng dồn sau một năm.",
+    "stat": "37",
+    "sub": "lần tốt hơn sau 1 năm cải thiện 1% mỗi ngày"
+   },
+   {
+    "say": "Một phần trăm mỗi ngày nghe nhỏ xíu, nhưng sau ba trăm sáu mươi lăm ngày, bạn tốt hơn ba mươi bảy lần. Ngược lại, kém một phần trăm mỗi ngày là gần về số không.",
+    "show": "1%/ngày → *37x*\nsau 1 năm"
+   },
+   {
+    "say": "Kaizen sinh ra ở nhà máy Nhật sau chiến tranh: không đại cải cách, chỉ sửa từng chi tiết nhỏ mỗi ngày, không ngừng.",
+    "show": "Không đại cải cách.\n*Chỉ sửa từng chút*"
+   },
+   {
+    "say": "Áp dụng: đọc mười phút, đi bộ thêm một trăm bước, ngủ sớm năm phút. Nhỏ đến mức không thể bỏ cuộc.",
+    "show": "Nhỏ đến mức\n*không thể bỏ cuộc*"
+   },
+   {
+    "say": "Theo dõi kênh để cải thiện 1% mỗi ngày cùng nhau nhé!",
+    "show": "Cùng *1% mỗi ngày*"
+   }
+  ]
+ },
+ {
+  "id": "046",
+  "slug": "postit-keo-hong",
+  "category": "Đời sống",
+  "theme": "gradient-pop",
+  "layout": "hook",
+  "voice": "Trúc Ly",
+  "music": "bright",
+  "title": "Keo hỏng trở thành triệu đô",
+  "hashtags": [
+   "#doisong",
+   "#cauchuyen",
+   "#sangtao",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Năm 1968, một nhà hóa học 3M đang nghiên cứu keo siêu chắc. Anh tạo ra thứ keo dính yếu ớt, dính được rồi bóc ra, không hề hấn gì.",
+    "show": "Muốn làm keo *siêu chắc*.\nRa keo siêu yếu."
+   },
+   {
+    "say": "Anh ấy gọi là Spencer Silver. Mọi người coi phát minh là thất bại trong nhiều năm. Cho đến khi một đồng nghiệp nhớ tới câu chuyện nhà thờ.",
+    "show": "Spencer Silver —\n*thất bại* suốt nhiều năm"
+   },
+   {
+    "say": "Art Fry dùng bookmark dính vào sách thánh ca không rơi, không hư trang giấy. Dòng giấy dính Post-it ra đời từ đó.",
+    "show": "Bookmark nhà thờ\n→ *Post-it*"
+   },
+   {
+    "say": "Bài học: thất bại không phải điểm kết thúc, mà là nguyên liệu thô của sự sáng tạo, nếu bạn giữ nó lại và nhìn đúng chỗ.",
+    "show": "Thất bại = *nguyên liệu*\ncủa sáng tạo"
+   },
+   {
+    "say": "Hôm nay bạn đã có phát minh hỏng nào chưa? Theo dõi kênh để thêm động lực cho những điều chưa thành nhé!",
+    "show": "Cái hỏng hôm nay\n*có thể là cả tài sản*"
+   }
+  ]
+ },
+ {
+  "id": "047",
+  "slug": "tokyo-ga-tren-dat",
+  "category": "Đời sống",
+  "theme": "corporate-blue",
+  "layout": "hook",
+  "voice": "Thái Sơn",
+  "music": "pulse",
+  "title": "Tokyo: thành phố không bao giờ trễ xe",
+  "hashtags": [
+   "#nhatban",
+   "#tokyo",
+   "#doisong",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Ga Tokyo mỗi ngày đón hơn ba triệu khách, và tàu điện trung bình chỉ lệch vài chục giây mỗi năm. Làm sao được thế?",
+    "show": "3 triệu khách/ngày\nlệch *vài chục giây*/năm"
+   },
+   {
+    "say": "Mỗi chuyến tàu chạy theo bảng thời gian tính tới từng giây, từng cửa, từng người. Trễ năm mươi giây được coi là sự cố phải xin lỗi công khai.",
+    "show": "Trễ 50 giây = *sự cố*\nphải xin lỗi"
+   },
+   {
+    "say": "Có người từng bị tàu rời ga sớm hai mươi giây, công ty phát công văn xin lỗi trên báo. Đúng vậy, hai mươi giây.",
+    "show": "Sớm 20 giây\n→ *công văn xin lỗi*"
+   },
+   {
+    "say": "Đằng sau là văn hóa chăm chút từng quy trình nhỏ, gọi là kaizen vận hành, cải tiến liên tục không hồi kết.",
+    "show": "Văn hóa *cải tiến liên tục*"
+   },
+   {
+    "say": "Chúng ta không cần tàu điện Nhật, nhưng có thể mượn cách họ tôn trọng thời gian của người khác. Theo dõi kênh để học thêm nhiều điều từ thế giới nhé!",
+    "show": "Tôn trọng *thời gian*\ncủa người khác"
+   }
+  ]
+ },
+ {
+  "id": "048",
+  "slug": "ngu-du-lich-mot-minh",
+  "category": "Đời sống",
+  "theme": "sunset-warm",
+  "layout": "list",
+  "voice": "Ngọc Huyền",
+  "music": "warm",
+  "title": "Du lịch một mình: đáng thử không?",
+  "hashtags": [
+   "#dulich",
+   "#doisong",
+   "#mottinh",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bạn muốn đi đâu đó nhưng chưa tìm được người đi cùng. Vậy tại sao không tự đi? Du lịch một mình đáng thử hơn bạn nghĩ.",
+    "show": "Chưa tìm được *bạn đồng hành*?\nĐi một mình đi."
+   },
+   {
+    "say": "Một: bạn quyết định mọi thứ. Thức dậy lúc nào, ăn gì, đi đâu, dừng lại bao lâu. Không một cuộc thảo luận.",
+    "show": "Mọi quyết định *là của bạn*"
+   },
+   {
+    "say": "Hai: bạn gặp người dễ hơn. Đi một mình khiến bạn mở lời với người lạ, và họ cũng dễ mở lời với bạn hơn.",
+    "show": "Dễ *gặp người* hơn"
+   },
+   {
+    "say": "Ba: bạn nghe được chính mình. Trong tiếng ồn của nhóm bạn, rất khó nghe ra bản thân muốn gì. Ở một mình, câu trả lời rõ dần.",
+    "show": "Nghe được *chính mình*"
+   },
+   {
+    "say": "Bốn: tự tin thật sự. Tự xử lý mọi tình huống ở đất lạ một lần, bạn sẽ khác hẳn khi trở về.",
+    "show": "Tự tin *thật sự*"
+   },
+   {
+    "say": "Lưu video lại cho chuyến đi đầu tiên, và theo dõi kênh để có thêm can đảm sống cho mình nhé!",
+    "show": "Lưu lại cho\n*chuyến đi đầu tiên*"
+   }
+  ]
+ },
+ {
+  "id": "049",
+  "slug": "che-do-may-bay-nao",
+  "category": "Tâm lý",
+  "theme": "neon-dark",
+  "layout": "hook",
+  "voice": "Quốc Tuấn",
+  "music": "pulse",
+  "title": "Chế độ máy bay của não bộ",
+  "hashtags": [
+   "#tamly",
+   "#nghi",
+   "#doisong",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Não bạn có một chế độ hoạt động ngầm mà chính bạn không hay biết: chế độ máy bay của tâm trí.",
+    "show": "Não có *chế độ máy bay*\nđiều bạn chưa biết"
+   },
+   {
+    "say": "Khi bạn ngồi ngẩn ngơ nhìn ra cửa sổ, não không nghỉ. Mạng lưới chế độ mặc định bật lên, xử lý ký ức, kết nối ý tưởng, chuẩn bị tương lai.",
+    "show": "Ngẩn ngơ = não *đang làm việc*"
+   },
+   {
+    "say": "Đây là lý do mọi câu trả lời hay đều xuất hiện lúc đi tắm, đi vệ sinh, hoặc đi bộ. Não cần khoảng trống để ghép nối.",
+    "show": "Ý tưởng hay đến khi\n*bạn ngừng cố*"
+   },
+   {
+    "say": "Nhưng chế độ này cần chất liệu: khi bạn lướt mạng mỗi phút rảnh, não không bao giờ được rảnh, và không bao giờ ghép nối.",
+    "show": "Lướt mạng *mỗi phút rảnh*\n= não không được rảnh"
+   },
+   {
+    "say": "Thử nghiệm tuần này: đi bộ mười phút không tai nghe. Xem não trả lại cho bạn gì. Theo dõi kênh để cùng thử nhé!",
+    "show": "Đi bộ 10 phút\n*không tai nghe*"
+   }
+  ]
+ },
+ {
+  "id": "050",
+  "slug": "video-thu-50",
+  "category": "Đời sống",
+  "theme": "gradient-pop",
+  "layout": "hook",
+  "voice": "Phạm Tuyên",
+  "music": "warm",
+  "title": "Video thứ 50: cảm ơn bạn",
+  "hashtags": [
+   "#doisong",
+   "#camon",
+   "#50videos",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Đây là video thứ năm mươi của kênh. Và video này dành tặng chính bạn, người đang xem nó.",
+    "show": "Video thứ *50*\nTặng *bạn*"
+   },
+   {
+    "say": "Trong năm mươi video, chúng ta đã cùng nhau đi qua trí tuệ nhân tạo, vũ trụ, tâm lý học, tiền bạc và những câu chuyện đời.",
+    "show": "50 video — 5 hành trình"
+   },
+   {
+    "say": "Điều tôi học được: nội dung ngắn không phải để lướt nhanh. Nó là một hạt giống, chỉ cần một câu chạm vào bạn là đủ thay đổi cả tuần.",
+    "show": "1 câu đúng\nđổi cả *một tuần*"
+   },
+   {
+    "say": "Nếu có một video nào khiến bạn nghĩ khác về một điều gì đó, hãy để lại tên video đó ở phần bình luận. Tôi sẽ đọc hết.",
+    "show": "Comment tên video\n*khiến bạn nghĩ khác*"
+   },
+   {
+    "say": "Cảm ơn bạn đã ở đây. Hành trình tiếp theo sẽ còn thú vị hơn. Theo dõi kênh và hẹn gặp trong những video kế tiếp!",
+    "show": "Cảm ơn bạn.\n*Hẹn gặp lại*"
+   }
+  ]
+ }
+]

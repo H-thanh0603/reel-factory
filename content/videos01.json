@@ -1,0 +1,428 @@
+[
+ {
+  "id": "001",
+  "slug": "ai-hieu-ban-hon-ban-nghi",
+  "category": "AI",
+  "theme": "neon-dark",
+  "layout": "hook",
+  "voice": "Mai Anh",
+  "music": "pulse",
+  "title": "AI hiểu bạn hơn chính bạn?",
+  "hashtags": [
+   "#ai",
+   "#congnghe",
+   "#sukien",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bạn có biết rằng AI có thể đoán được bạn muốn xem gì, trước cả khi bạn biết điều đó?",
+    "show": "AI đoán được bạn muốn gì *trước cả bạn*"
+   },
+   {
+    "say": "Mỗi lần bạn dừng lại ba giây trước một video, thuật toán ghi nhận. Lướt nhanh, cũng ghi nhận. Không chạm, vẫn ghi nhận.",
+    "show": "Dừng 3 giây = 1 tín hiệu",
+    "sub": "Mỗi cử chỉ đều là dữ liệu"
+   },
+   {
+    "say": "Từ hàng nghìn tín hiệu nhỏ đó, hệ thống xây dựng một mô hình về bạn chi tiết hơn cả những gì bạn tự kể về mình.",
+    "show": "Hàng nghìn tín hiệu = 1 *chân dung*"
+   },
+   {
+    "say": "Nghiên cứu của Cambridge từng chỉ ra rằng máy tính phân tích lượt thích trên Facebook đoán tính cách chính xác hơn đồng nghiệp của chính bạn.",
+    "show": "Máy đoán tính cách *chính xác hơn đồng nghiệp*",
+    "sub": "Nghiên cứu Đại học Cambridge"
+   },
+   {
+    "say": "Điều đáng sợ không phải AI giỏi. Điều đáng sợ là chúng ta dễ đoán.",
+    "show": "Đáng sợ không phải AI giỏi.\nLà *ta dễ đoán*.",
+    "sub": "Bạn có đồng ý? Comment bên dưới"
+   },
+   {
+    "say": "Theo dõi kênh để mỗi ngày biết thêm một sự thật thú vị về công nghệ nhé!",
+    "show": "Mỗi ngày 1 sự thật"
+   }
+  ]
+ },
+ {
+  "id": "002",
+  "slug": "cuoc-dua-ai-2026",
+  "category": "AI",
+  "theme": "corporate-blue",
+  "layout": "hook",
+  "voice": "Minh Đức",
+  "music": "dark",
+  "title": "Cuộc đua AI 2026: ba gã khổng lồ",
+  "hashtags": [
+   "#ai",
+   "#tincongnghe",
+   "#2026",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Năm 2026, cuộc đua trí tuệ nhân tạo chưa bao giờ khốc liệt đến thế. Ba gã khổng lồ, một bài toán duy nhất: ai dẫn trước?",
+    "show": "3 gã khổng lồ.\n1 cuộc đua *không hồi kết*"
+   },
+   {
+    "say": "OpenAI tung GPT-6 Astra với tham vọng 'AI phổ cập cho mọi người'. Google đáp trả bằng những mô hình Gemini thế hệ mới và nguồn hạ tầng khổng lồ.",
+    "show": "OpenAI: GPT-6 Astra",
+    "sub": "Google: Gemini + hạ tầng TPU"
+   },
+   {
+    "say": "Anthropic thì tập trung vào AI an toàn, và vừa công bố kế hoạch lên sàn chứng khoán với giá trị hàng trăm tỷ đô la.",
+    "show": "Anthropic: AI an toàn + *chuẩn bị IPO*",
+    "sub": "Định giá hàng trăm tỷ USD"
+   },
+   {
+    "say": "Điều thú vị: OpenAI và Google, hai đối thủ, vừa bắt tay để chạy mô hình của nhau trên hạ tầng cloud của bên kia.",
+    "show": "Đối thủ *bắt tay* làm đồng minh",
+    "sub": "OpenAI chạy trên Google Cloud"
+   },
+   {
+    "say": "Người thắng cuối cùng? Rất có thể là chúng ta, người dùng. Bởi mỗi vòng đua mới, giá càng rẻ, khả năng càng mạnh.",
+    "show": "Người thắng? *Là bạn*.",
+    "sub": "Giá rẻ hơn, AI mạnh hơn"
+   },
+   {
+    "say": "Theo dõi kênh để không bỏ lỡ từng bước di chuyển của cuộc đua AI nhé!",
+    "show": "Cập nhật AI mỗi tuần"
+   }
+  ]
+ },
+ {
+  "id": "003",
+  "slug": "anthropic-ipo",
+  "category": "AI",
+  "theme": "minimal-light",
+  "layout": "stat",
+  "voice": "Hải Đăng",
+  "music": "warm",
+  "title": "Anthropic và bài toán IPO",
+  "hashtags": [
+   "#ai",
+   "#kinhdoanh",
+   "#anthropic",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Một công ty AI chưa từng có lợi nhuận lớn, nhưng định giá hàng trăm tỷ đô. Đó là câu chuyện của Anthropic.",
+    "show": "*Chưa lời* nhưng định giá\n*trăm tỷ đô*"
+   },
+   {
+    "say": "Anthropic được sáng lập bởi những cựu kỹ sư OpenAI, với triết lý khác biệt: an toàn phải đi trước tốc độ.",
+    "show": "Sáng lập bởi *cựu kỹ sư OpenAI*",
+    "sub": "Triết lý: an toàn trước tốc độ"
+   },
+   {
+    "say": "Mô hình Claude của họ hiện được hàng triệu lập trình viên và doanh nghiệp sử dụng, tạo ra doanh thu tăng vọt trong vài năm gần đây.",
+    "show": "Claude — trợ thủ của *hàng triệu dev*"
+   },
+   {
+    "say": "Theo Reuters, hồ sơ IPO của Anthropic cho thấy tầm nhìn đầy tham vọng, nhưng cũng là chi phí tính toán tăng vọt không ngừng.",
+    "show": "Tầm nhìn lớn.\n*Chi phí cũng lớn*.",
+    "sub": "Chi phí tính toán tăng vọt"
+   },
+   {
+    "say": "Câu hỏi để lại: khi cổ phiếu AI lên sàn, người thường như chúng ta có nên nhảy vào? Câu trả lời sẽ có trong một video khác.",
+    "show": "Có nên *mua cổ phiếu AI*?",
+    "sub": "Video sau sẽ trả lời"
+   },
+   {
+    "say": "Đừng quên theo dõi kênh để nhận phân tích kinh tế công nghệ mới nhất nhé!",
+    "show": "Theo dõi để không bỏ lỡ"
+   }
+  ]
+ },
+ {
+  "id": "004",
+  "slug": "ai-viet-code",
+  "category": "AI",
+  "theme": "terminal",
+  "layout": "hook",
+  "voice": "Thiện Minh",
+  "music": "dark",
+  "title": "AI viết code: lập trình viên hết việc?",
+  "hashtags": [
+   "#ai",
+   "#laptrinh",
+   "#congnghe",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "AI giờ viết code nhanh hơn bạn gõ. Vậy lập trình viên sắp thất nghiệp? Câu trả lời phức tạp hơn bạn nghĩ.",
+    "show": "AI code nhanh hơn bạn gõ.\nDev *hết việc*?"
+   },
+   {
+    "say": "Các công cụ như GitHub Copilot hay Claude Code đã viết phần lớn code trong nhiều dự án thực tế. Một dòng lệnh, ra cả mô-đun.",
+    "show": "1 dòng lệnh = 1 mô-đun hoàn chỉnh"
+   },
+   {
+    "say": "Nhưng đây là sự thật ít người nói: AI viết nhanh, không có nghĩa viết đúng. Bảo mật, hiệu năng, kiến trúc, vẫn cần con người chịu trách nhiệm.",
+    "show": "Viết nhanh ≠ viết *đúng*",
+    "sub": "Bảo mật & kiến trúc vẫn cần người"
+   },
+   {
+    "say": "Việc của lập trình viên đang dịch chuyển: từ người gõ code, sang người thiết kế hệ thống và kiểm soát AI.",
+    "show": "Gõ code → *Kiến trúc sư hệ thống*"
+   },
+   {
+    "say": "Kẻ bị thay thế không phải lập trình viên. Mà là lập trình viên *không chịu dùng AI*.",
+    "show": "Bị thay thế: dev *không dùng AI*"
+   },
+   {
+    "say": "Bạn đang dùng AI để code chưa? Comment nhé! Và theo dõi kênh để cập nhật kỹ năng thời AI.",
+    "show": "Bạn đã dùng AI code chưa?"
+   }
+  ]
+ },
+ {
+  "id": "005",
+  "slug": "deepfake-3-giay",
+  "category": "AI",
+  "theme": "retro-vhs",
+  "layout": "list",
+  "voice": "Thùy Dung",
+  "music": "dark",
+  "title": "Nhận diện deepfake trong 3 giây",
+  "hashtags": [
+   "#deepfake",
+   "#ai",
+   "#an ninh",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Cuộc gọi video từ con trai bạn, giọng đúng, mặt đúng, xin hai trăm triệu gấp. Đó không phải viễn tưởng. Đó là deepfake.",
+    "show": "Giọng đúng. Mặt đúng.\nNhưng *là giả*.",
+    "sub": "Deepfake lừa đảo đang bùng nổ"
+   },
+   {
+    "say": "Thủ đoạn thứ nhất: hãy yêu cầu người kia quay đầu hoặc đưa tay lên trước mặt. Mô hình giả thường méo mó ở những chuyển động bất ngờ.",
+    "show": "Yêu cầu *quay đầu* đột ngột"
+   },
+   {
+    "say": "Thứ hai: nhìn vào mép và răng khi nói. Điểm render của khuôn mặt giả thường mờ, nhấp nháy ở vùng miệng.",
+    "show": "Soi *mép và răng* khi nói"
+   },
+   {
+    "say": "Thứ ba, quan trọng nhất: đặt một câu hỏi mật mà chỉ hai người biết. Giả giỏi mấy cũng không trả lời được.",
+    "show": "Đặt *câu hỏi mật* chỉ 2 người biết"
+   },
+   {
+    "say": "Công nghệ sẽ ngày càng tinh vi, nhưng sự tỉnh táo vẫn là tấm khiên tốt nhất.",
+    "show": "Tỉnh táo = *tấm khiên* tốt nhất"
+   },
+   {
+    "say": "Chia sẻ video này cho bố mẹ bạn, và theo dõi kênh để cập nhật mẹo an toàn số nhé!",
+    "show": "Gửi cho bố mẹ ngay"
+   }
+  ]
+ },
+ {
+  "id": "006",
+  "slug": "ai-y-te",
+  "category": "AI",
+  "theme": "corporate-blue",
+  "layout": "stat",
+  "voice": "Ngọc Linh",
+  "music": "warm",
+  "title": "AI phát hiện ung thư sớm hơn bác sĩ",
+  "hashtags": [
+   "#ai",
+   "#yhe",
+   "#khoahoc",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Đây là con số biết nói: trong một số nghiên cứu lâm sàng, AI đọc ảnh quét tuyến vú phát hiện ung thư sớm hơn con người ở một số trường hợp.",
+    "show": "*AI* đấu *bác sĩ*\ntrên bàn đọc phim"
+   },
+   {
+    "say": "Tại sao? Bởi AI không biết mệt. Ảnh thứ một nghìn trong ngày vẫn được soi với cùng mức tập trung như ảnh đầu tiên.",
+    "show": "AI *không biết mệt*",
+    "sub": "Ảnh thứ 1000 = ảnh thứ 1"
+   },
+   {
+    "say": "Google DeepMind từng xây mô hình phát hiện hơn năm mươi bệnh về mắt từ ảnh võng mạc, độ chính xác ngang chuyên gia hàng đầu.",
+    "stat": "50",
+    "sub": "bệnh phát hiện từ ảnh võng mạc"
+   },
+   {
+    "say": "Nhưng AI không thay bác sĩ. Nó là trợ thủ đọc phim, gợi ý, còn quyết định cuối cùng vẫn thuộc về con người.",
+    "show": "Trợ thủ, *không thay* bác sĩ"
+   },
+   {
+    "say": "Công nghệ cứu người, đó là khía cạnh đẹp nhất của AI. Theo dõi kênh để đọc thêm những câu chuyện như thế này nhé!",
+    "show": "Công nghệ *cứu người*"
+   }
+  ]
+ },
+ {
+  "id": "007",
+  "slug": "chatgpt-quang-cao",
+  "category": "AI",
+  "theme": "neon-dark",
+  "layout": "hook",
+  "voice": "Quốc Tuấn",
+  "music": "pulse",
+  "title": "ChatGPT bắt đầu bán quảng cáo",
+  "hashtags": [
+   "#chatgpt",
+   "#openai",
+   "#tin",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Tin nóng công nghệ: ChatGPT, công cụ miễn phí mà hàng trăm triệu người dùng mỗi ngày, đã bắt đầu bán quảng cáo.",
+    "show": "ChatGPT bán *quảng cáo*",
+    "sub": "Mở rộng sang hàng chục quốc gia mới"
+   },
+   {
+    "say": "Với hơn tám trăm triệu người dùng mỗi tuần, đây là bãi vàng quảng cáo mà Google từng nắm giữ độc quyền suốt hai thập kỷ.",
+    "stat": "800",
+    "sub": "triệu người dùng mỗi tuần"
+   },
+   {
+    "say": "Chưa hết: OpenAI vừa bắt tay với chính Google, để chạy mô hình của mình trên hạ tầng đám mây của đối thủ.",
+    "show": "OpenAI chạy trên *Google Cloud*",
+    "sub": "Đối thủ thành đồng minh"
+   },
+   {
+    "say": "Bài học kinh doanh ở đây: không có kẻ thù vĩnh viễn, chỉ có lợi ích vĩnh viễn.",
+    "show": "Không có *kẻ thù* vĩnh viễn"
+   },
+   {
+    "say": "Bạn có chấp nhận xem quảng cáo để dùng AI miễn phí không? Comment bên dưới, và theo dõi kênh để cập nhật tin nóng nhé!",
+    "show": "Xem quảng cáo đổi AI miễn phí.\nChấp nhận không?"
+   }
+  ]
+ },
+ {
+  "id": "008",
+  "slug": "ai-agent",
+  "category": "AI",
+  "theme": "terminal",
+  "layout": "hook",
+  "voice": "Xuân Vĩnh",
+  "music": "dark",
+  "title": "AI Agent: nhân viên không cần lương",
+  "hashtags": [
+   "#ai",
+   "#agent",
+   "#congnghe",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Chatbot trả lời câu hỏi. Còn AI Agent thì đi làm thay bạn. Đây là bước nhảy vọt của năm 2026.",
+    "show": "Chatbot: *trả lời*.\nAgent: *đi làm*.",
+    "sub": "Xu hướng công nghệ 2026"
+   },
+   {
+    "say": "Bạn giao mục tiêu: đặt vé, soạn báo cáo, trả email, theo dõi giá cổ phiếu. Agent tự chia nhỏ việc, tự gọi công cụ, tự hoàn thành.",
+    "show": "Bạn giao *mục tiêu*,\nAgent tự hoàn thành"
+   },
+   {
+    "say": "Khác biệt cốt lõi: chatbot nói, agent làm. Nó kết nối lịch, trình duyệt, bảng tính, thậm chí gọi API thanh toán.",
+    "show": "Chatbot *nói* — Agent *làm*"
+   },
+   {
+    "say": "Rủi ro? Nó cũng tự mắc lỗi mà bạn không hay biết. Vì vậy người giám sát vẫn là bạn.",
+    "show": "Agent mắc lỗi *im lặng*",
+    "sub": "Bạn vẫn là người giám sát"
+   },
+   {
+    "say": "Câu hỏi của thời đại này: bạn sẽ giao việc gì đầu tiên cho một nhân viên AI? Theo dõi kênh để chuẩn bị trước tương lai nhé!",
+    "show": "Bạn giao việc gì *đầu tiên* cho AI?"
+   }
+  ]
+ },
+ {
+  "id": "009",
+  "slug": "du-lieu-cua-ban",
+  "category": "AI",
+  "theme": "minimal-light",
+  "layout": "hook",
+  "voice": "Đoan Trang",
+  "music": "warm",
+  "title": "Dữ liệu của bạn đi đâu khi dùng AI?",
+  "hashtags": [
+   "#ai",
+   "#quyengain",
+   "#baomat",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Mỗi lần bạn dán một đoạn văn bản vào chatbot, câu hỏi này xuất hiện: nó sẽ ở đó mãi mãi à?",
+    "show": "Dán vào chatbot = *mất quyền kiểm soát*?"
+   },
+   {
+    "say": "Câu trả lời tùy thuộc vào từng dịch vụ. Một số nền tảng dùng hội thoại của bạn để huấn luyện mô hình, trừ khi bạn tắt trong cài đặt.",
+    "show": "Một số nền tảng *học từ bạn*",
+    "sub": "Trừ khi bạn tắt trong cài đặt"
+   },
+   {
+    "say": "Hai điều nên làm ngay: vào cài đặt riêng tư, tắt chia sẻ dữ liệu huấn luyện. Và đừng bao giờ dán mật khẩu hay thông tin cá nhân.",
+    "show": "1. Tắt *chia sẻ dữ liệu*"
+   },
+   {
+    "say": "Và nhớ quy tắc vàng: coi mọi thứ bạn gõ vào mạng như một tấm thiệp gửi bưu điện. Ai đó luôn có thể đọc được.",
+    "show": "2. Không dán *mật khẩu*",
+    "sub": "Coi lời gõ như tấm thiệp bưu điện"
+   },
+   {
+    "say": "Theo dõi kênh để học cách dùng công nghệ thông minh mà vẫn an toàn nhé!",
+    "show": "Dùng công nghệ *thông minh*"
+   }
+  ]
+ },
+ {
+  "id": "010",
+  "slug": "ai-sang-tac",
+  "category": "AI",
+  "theme": "gradient-pop",
+  "layout": "hook",
+  "voice": "Trúc Ly",
+  "music": "bright",
+  "title": "AI sáng tác — bản quyền thuộc về ai?",
+  "hashtags": [
+   "#ai",
+   "#sangtao",
+   "#banquyen",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Một bài hát do AI viết vừa giành giải, một bức tranh do AI vẽ vừa được bán đấu giá. Vậy tác quyền thuộc về ai?",
+    "show": "AI đoạt giải. AI bán đấu giá.\n*Ai là tác giả?*"
+   },
+   {
+    "say": "Luật của nhiều quốc gia, trong đó có Hoa Kỳ, hiện nói rõ: tác phẩm không có sự sáng tạo của con người thì không được bảo hộ bản quyền.",
+    "show": "Không có con người = *không bản quyền*"
+   },
+   {
+    "say": "Nghệ sĩ đang phản đối vì mô hình học từ hàng triệu tác phẩm của họ mà không xin phép, không trả phí.",
+    "show": "AI học từ *tác phẩm của bạn*\nmà không trả phí"
+   },
+   {
+    "say": "Nhưng cũng có góc nhìn khác: AI là cây đàn mới. Người chơi giỏi vẫn sẽ sáng tạo ra những điều chưa từng có.",
+    "show": "AI là *cây đàn mới*",
+    "sub": "Người chơi vẫn là con người"
+   },
+   {
+    "say": "Tranh cãi còn dài, nhưng một điều chắc chắn: giá trị của sự chân thật con người sẽ càng lúc càng đắt.",
+    "show": "Sự *chân thật* sẽ càng lúc càng đắt"
+   },
+   {
+    "say": "Bạn đứng bên nào? Comment quan điểm, và theo dõi kênh để cùng cập nhật cuộc tranh luận này nhé!",
+    "show": "Bạn đứng *bên nào*?"
+   }
+  ]
+ }
+]

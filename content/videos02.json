@@ -1,0 +1,421 @@
+[
+ {
+  "id": "011",
+  "slug": "vu-tru-rong-muc-nao",
+  "category": "Vũ trụ",
+  "theme": "neon-dark",
+  "layout": "stat",
+  "voice": "Phạm Tuyên",
+  "music": "dark",
+  "title": "Vũ trụ rộng đến mức nào?",
+  "hashtags": [
+   "#vutru",
+   "#khoahoc",
+   "#thientvan",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Nếu lái ô tô với tốc độ một trăm cây số một giờ, mất bao lâu để tới Mặt Trời? Câu trả lời sẽ khiến bạn choáng.",
+    "show": "Lái ô tô tới Mặt Trời\nmất bao lâu?"
+   },
+   {
+    "say": "Một trăm bảy mươi năm. Lái xe không nghỉ, không ăn, không ngủ, mới tới được Mặt Trời.",
+    "stat": "170",
+    "sub": "NĂM lái xe không nghỉ mới tới Mặt Trời"
+   },
+   {
+    "say": "Một trăm bảy mươi năm, lái không nghỉ. Còn ngôi sao gần nhất ngoài Mặt Trời là Proxima Centauri, cách hơn bốn năm ánh sáng.",
+    "show": "4.2 năm ánh sáng\n= sao gần nhất"
+   },
+   {
+    "say": "Còn bảy mươi ba nghìn năm, chỉ để đi hết một năm ánh sáng. Nghe mà tuyệt vọng.",
+    "stat": "73000",
+    "sub": "NĂM lái xe cho mỗi năm ánh sáng"
+   },
+   {
+    "say": "Để đi hết một năm ánh sáng bằng ô tô, bạn cần bảy mươi ba nghìn năm. Còn dải Ngân Hà của chúng ta có đường kính một trăm nghìn năm ánh sáng.",
+    "show": "100.000 năm ánh sáng\n= bề rộng *Ngân Hà*"
+   },
+   {
+    "say": "Và vũ trụ quan sát được chứa hơn hai nghìn tỷ thiên hà. Bạn không nhỏ. Bạn chỉ đang ở một nơi rất lớn. Theo dõi kênh để cùng ngắm vũ trụ nhé!",
+    "show": "2.000 tỷ *thiên hà*",
+    "sub": "Và bạn nằm ở giữa trong đó"
+   }
+  ]
+ },
+ {
+  "id": "012",
+  "slug": "anh-ho-den",
+  "category": "Vũ trụ",
+  "theme": "neon-dark",
+  "layout": "hook",
+  "voice": "Quang Sơn",
+  "music": "dark",
+  "title": "Bức ảnh đầu tiên của hố đen",
+  "hashtags": [
+   "#hoden",
+   "#khoahoc",
+   "#vutru",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Năm 2019, nhân loại lần đầu nhìn thấy thứ không thể được nhìn thấy: một hố đen.",
+    "show": "2019: Nhân loại *nhìn thấy*\nthứ không thể thấy"
+   },
+   {
+    "say": "Hố đen ở trung tâm thiên hà Messier 87, khối lượng gấp sáu tỷ rưỡi lần Mặt Trời, cách ta năm mươi lăm triệu năm ánh sáng.",
+    "show": "*6,5 tỷ lần* Mặt Trời",
+    "sub": "Thiên hà M87, cách 55 triệu năm ánh sáng"
+   },
+   {
+    "say": "Để chụp nó, tám đài thiên văn trên khắp hành tinh ghép lại thành một ăng ten lớn bằng cả Trái Đất.",
+    "show": "Ống kính lớn *bằng Trái Đất*",
+    "sub": "8 đài quan sát cùng ghép dữ liệu"
+   },
+   {
+    "say": "Khối dữ liệu lớn đến mức không thể truyền qua mạng, phải chở bằng ổ cứng có thể bay được.",
+    "show": "Dữ liệu phải *bay máy bay*",
+    "sub": "Nửa tấn ổ cứng"
+   },
+   {
+    "say": "Ánh sáng ở viền ảnh là vật chất bị hút vào, nóng tới hàng tỷ độ trước khi biến mất. Cái vòng cam đẹp đó, là dấu vết của sự diệt vong.",
+    "show": "Vòng cam = *sự diệt vong*",
+    "sub": "Nóng hàng tỷ độ C"
+   },
+   {
+    "say": "Theo dõi kênh để cùng khám phá những điều kỳ diệu của vũ trụ mỗi tuần nhé!",
+    "show": "Khám phá vũ trụ *mỗi tuần*"
+   }
+  ]
+ },
+ {
+  "id": "013",
+  "slug": "ban-tu-he-sao",
+  "category": "Khoa học",
+  "theme": "sunset-warm",
+  "layout": "hook",
+  "voice": "Ngọc Huyền",
+  "music": "warm",
+  "title": "Cơ thể bạn được làm từ sao",
+  "hashtags": [
+   "#khoahoc",
+   "#vutru",
+   "#thaohoc",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Đây là sự thật thơ mộng nhất của khoa học: máu trong người bạn từng chảy trong lòng một ngôi sao.",
+    "show": "Máu bạn từng chảy\n*trong lòng ngôi sao*"
+   },
+   {
+    "say": "Sắt trong máu, canxi trong xương, oxy bạn đang thở, tất cả đều được nấu trong lò phản ứng của những ngôi sao khổng lồ.",
+    "show": "Sắt. Canxi. Oxy.\nĐều *nấu từ sao*"
+   },
+   {
+    "say": "Khi ngôi sao ấy chết đi và nổ tung, những nguyên tố này được rải khắp vũ trụ. Rồi hình thành Mặt Trời, Trái Đất, và bạn.",
+    "show": "Sao chết → *sinh ra bạn*"
+   },
+   {
+    "say": "Thành ngữ nói người ta đến từ bụi đất. Khoa học nói chính xác hơn: bạn đến từ bụi sao.",
+    "show": "Bạn đến từ *bụi sao*",
+    "sub": "Stardust — theo nghĩa đen"
+   },
+   {
+    "say": "Lần tới cảm thấy mình nhỏ bé, hãy nhớ: bạn là tro của những ngôi sao. Theo dõi kênh để thêm niềm tin vào khoa học nhé!",
+    "show": "Bạn là *tro của các vì sao*"
+   }
+  ]
+ },
+ {
+  "id": "014",
+  "slug": "nao-don-dep-khi-ngu",
+  "category": "Tâm lý",
+  "theme": "minimal-light",
+  "layout": "hook",
+  "voice": "Kim Thanh",
+  "music": "warm",
+  "title": "Não bộ dọn dẹp khi bạn ngủ",
+  "hashtags": [
+   "#ngu",
+   "#suckhoe",
+   "#nao",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Tại sao ngủ đủ vẫn mệt? Có thể vì bạn đang hiểu sai về giấc ngủ: nó không phải thời gian chết, mà là giờ làm việc của bộ dọn dẹp não.",
+    "show": "Ngủ ≠ tắt máy.\nLà *giờ dọn dẹp* não"
+   },
+   {
+    "say": "Khi ngủ sâu, hệ thống glymphatic mở rộng, rửa trôi các chất thải độc hại mà não tạo ra suốt cả ngày.",
+    "show": "Hệ *glymphatic* rửa não",
+    "sub": "Hoạt động mạnh nhất khi ngủ sâu"
+   },
+   {
+    "say": "Một trong những chất bị rửa đi là beta amyloid, thủ phạm chính liên quan đến bệnh Alzheimer.",
+    "show": "Rửa trôi chất gây *Alzheimer*"
+   },
+   {
+    "say": "Ngủ dưới sáu tiếng liên tục, chất thải cứ chất dồn, giống như nhà không ai quét suốt một tuần.",
+    "show": "Ngủ < 6 tiếng = *nhà không quét*"
+   },
+   {
+    "say": "Vậy nên ngủ không phải đánh mất thời gian, mà là đầu tư cho ngày mai. Theo dõi kênh để có thêm những lời khuyên sức khỏe dựa trên khoa học nhé!",
+    "show": "Ngủ = *đầu tư* cho ngày mai"
+   }
+  ]
+ },
+ {
+  "id": "015",
+  "slug": "dai-duong-chua-kham-pha",
+  "category": "Khoa học",
+  "theme": "corporate-blue",
+  "layout": "stat",
+  "voice": "Minh Triết",
+  "music": "dark",
+  "title": "80% đại dương là bí ẩn",
+  "hashtags": [
+   "#daiduong",
+   "#khoahoc",
+   "#bimat",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Con người đã bản đồ hóa bề mặt Sao Hỏa chi tiết hơn chính đáy đại dương của mình. Nghe vô lý nhưng là sự thật.",
+    "show": "Bản đồ Sao Hỏa\ncòn chi tiết hơn *đáy biển*"
+   },
+   {
+    "say": "Tám mươi phần trăm đại dương chưa từng được lập bản đồ chi tiết. Ánh sáng không xuống được, áp suất đè nát mọi thiết bị.",
+    "stat": "80",
+    "sub": "% đại dương chưa được khám phá"
+   },
+   {
+    "say": "Hơn tám mươi phần trăm đại dương chưa từng được lập bản đồ chi tiết. Ánh sáng không xuống được, áp suất đè nát mọi thiết bị.",
+    "show": "Ánh sáng không tới.\nÁp suất *nát mọi máy móc*"
+   },
+   {
+    "say": "Ở độ sâu mười mộtkilômét của rãnh Mariana, áp suất gấp hơn một nghìn lần trên mặt biển, bằng tám mươi chiếc máy bay phản lực đè lên móng tay bạn.",
+    "show": "11 km sâu — áp suất *nghìn lần*"
+   },
+   {
+    "say": "Mỗi năm, khoa học vẫn tìm ra hàng loạt loài mới dưới đáy biển. Chúng ta biết nhiều về vũ trụ hơn về chính ngôi nhà của mình.",
+    "show": "Nhà mình *còn lạ* hơn vũ trụ"
+   },
+   {
+    "say": "Theo dõi kênh để cùng chờ đợi những sinh vật bí ẩn sắp được tìm thấy nhé!",
+    "show": "Bí ẩn tiếp theo là gì?"
+   }
+  ]
+ },
+ {
+  "id": "016",
+  "slug": "bai-troi-xanh",
+  "category": "Khoa học",
+  "theme": "minimal-light",
+  "layout": "hook",
+  "voice": "Quỳnh Anh",
+  "music": "bright",
+  "title": "Tại sao bầu trời màu xanh?",
+  "hashtags": [
+   "#khoahoc",
+   "#vatly",
+   "#thacmac",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Câu hỏi trẻ con mà nhiều người lớn trả lời sai: tại sao bầu trời màu xanh, mà hoàng hôn lại màu đỏ?",
+    "show": "Trời xanh. Hoàng hôn đỏ.\n*Tại sao?*"
+   },
+   {
+    "say": "Ánh sáng Mặt Trời gồm bảy màu. Khi đâm vào khí quyển, sóng màu xanh tím bị phân tán mạnh nhất, văng ra khắp bầu trời.",
+    "show": "Ánh xanh bị *phân tán* mạnh nhất",
+    "sub": "Hiệu ứng Rayleigh"
+   },
+   {
+    "say": "Mắt người nhạy với xanh hơn tím nên ta thấy trời xanh, không phải tím.",
+    "show": "Mắt người *chọn* màu xanh"
+   },
+   {
+    "say": "Chiều tối, ánh sáng phải chèn dài qua dày khí quyển hơn. Màu xanh bị tán xạ hết dọc đường, chỉ còn đỏ cam lọt tới mắt bạn.",
+    "show": "Chiều tối: chỉ còn *đỏ cam*"
+   },
+   {
+    "say": "Khoa học giải thích cả màu của cảm xúc. Theo dõi kênh để mỗi ngày hiểu thế giới một chút nữa nhé!",
+    "show": "Hiểu thế giới *mỗi ngày*"
+   }
+  ]
+ },
+ {
+  "id": "017",
+  "slug": "so-luong-con-trung",
+  "category": "Khoa học",
+  "theme": "gradient-pop",
+  "layout": "stat",
+  "voice": "Adam",
+  "music": "pulse",
+  "title": "Con côn trùng nhiều hơn bạn tưởng",
+  "hashtags": [
+   "#khoahoc",
+   "#condung",
+   "#sukien",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Trên Trái Đất này, con người không phải loài đông nhất. Thậm chí không gần. Cùng xem những con số điên rồ dưới đây.",
+    "show": "Ai là *người bao nhiêu*?\nCâu trả lời khiến bạn sốc"
+   },
+   {
+    "say": "Hai mươi nghìn tỷ con côn trùng đang sống chung hành tinh với bạn.",
+    "stat": "20",
+    "sub": "nghìn tỷ con côn trùng trên Trái Đất"
+   },
+   {
+    "say": "Hai mươi nghìn tỷ con côn trùng. Tức mỗi người sống sót được hai mươi lăm trăm triệu con tương ứng.",
+    "show": "Mỗi người = *2,5 tỷ* côn trùng"
+   },
+   {
+    "say": "Còn kiến một mình đã chiếm hai mươi nghìn tỷ con, tổng khối lượng ngang cả loài người.",
+    "show": "Kiến nặng *ngang loài người*",
+    "sub": "Theo nghiên cứu 2022"
+   },
+   {
+    "say": "Dù vậy, số lượng côn trùng đang giảm nhanh vì mất môi trường sống. Một diễn biến âm thầm nhưng nghiêm trọng cho chuỗi thức ăn của chúng ta.",
+    "show": "Côn trùng *đang biến mất*",
+    "sub": "Và chuỗi thức ăn run rẩy"
+   },
+   {
+    "say": "Theo dõi kênh để biết những con số vô lý của hành tinh này nhé!",
+    "show": "Số liệu vô lý *hàng tuần*"
+   }
+  ]
+ },
+ {
+  "id": "018",
+  "slug": "sao-sieu-moi",
+  "category": "Vũ trụ",
+  "theme": "neon-dark",
+  "layout": "hook",
+  "voice": "Thanh Bình",
+  "music": "dark",
+  "title": "Ngôi sao sẽ nổ trong đời bạn",
+  "hashtags": [
+   "#vutru",
+   "#susaomoi",
+   "#khoahoc",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Trong chòm sao Orion có một ngôi sao đang trong giai đoạn cuối đời. Và nó có thể nổ trong đời bạn.",
+    "show": "Ngôi sao này *sắp nổ*",
+    "sub": "Betelgeuse — chòm Orion"
+   },
+   {
+    "say": "Betelgeuse, sao khổng lồ đỏ khổng lồ hơn Mặt Trời khoảng bảy trăm lần, đang co giãn bất thường, dấu hiệu điển hình trước lúc chết.",
+    "show": "Lớn gấp *700 lần* Mặt Trời",
+    "sub": "Đang co giãn bất thường"
+   },
+   {
+    "say": "Nó đã nổ rồi, có thể từ trăm nghìn năm trước. Ánh sáng hiện tại mới vừa tới tay chúng ta.",
+    "show": "Có thể *đã nổ* rồi",
+    "sub": "Chỉ là ánh sáng chưa tới"
+   },
+   {
+    "say": "Khi ánh sáng vụ nổ tới, đêm sẽ sáng như có hai Mặt Trăng trong nhiều tuần, ai cũng nhìn thấy được bằng mắt thường.",
+    "show": "Đêm sẽ có *hai Mặt Trăng*"
+   },
+   {
+    "say": "Một sự kiện xảy ra một lần trong nhiều thế hệ. Theo dõi kênh để không bỏ lỡ khoảnh khắc vũ trụ này nhé!",
+    "show": "Sự kiện *một đời người*"
+   }
+  ]
+ },
+ {
+  "id": "019",
+  "slug": "giac-mo-bi-quen",
+  "category": "Tâm lý",
+  "theme": "paper",
+  "layout": "hook",
+  "voice": "Ngọc Linh",
+  "music": "warm",
+  "title": "Bạn quên 95% giấc mơ của mình",
+  "hashtags": [
+   "#giacmo",
+   "#tamly",
+   "#khoahoc",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Mỗi đêm bạn mơ nhiều giấc, nhưng sáng ra chỉ nhớ một mảnh vỡ. Vì sao não tự xóa cứ giấc mơ của chính mình?",
+    "show": "Não *tự xóa* giấc mơ của bạn"
+   },
+   {
+    "say": "Chín mươi lăm phần trăm giấc mơ biến mất ngay khi bạn tỉnh dậy.",
+    "stat": "95",
+    "sub": "% giấc mơ bị lãng quên khi tỉnh"
+   },
+   {
+    "say": "Khoa học ước tính chúng ta quên chín mươi lăm phần trăm giấc mơ trong vòng mười phút sau khi tỉnh.",
+    "show": "Quên hết sau *10 phút*"
+   },
+   {
+    "say": "Lý do: khi ngủ, chất hóa học ghi nhớ của não như noradrenaline gần như tắt. Bộ ghi hình không chạy, nên không có gì được lưu.",
+    "show": "Bộ *ghi hình* đang tắt",
+    "sub": "Noradrenaline gần như = 0"
+   },
+   {
+    "say": "Muốn nhớ giấc mơ? Giữ nguyên tư thế khi vừa tỉnh, chớp mắt vài lần, rồi viết ngay. Não cần vài phút để chuyển dữ liệu.",
+    "show": "Mẹo nhớ mơ: *đừng nhúc nhích*"
+   },
+   {
+    "say": "Theo dõi kênh để khám phá những bí mật trong chính đầu mình nhé!",
+    "show": "Bí mật *trong đầu bạn*"
+   }
+  ]
+ },
+ {
+  "id": "020",
+  "slug": "an-tuong-7-giay",
+  "category": "Tâm lý",
+  "theme": "corporate-blue",
+  "layout": "hook",
+  "voice": "Đức Trí",
+  "music": "pulse",
+  "title": "7 giây quyết định ấn tượng đầu tiên",
+  "hashtags": [
+   "#tamly",
+   "#annhuong",
+   "#kynang",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bạn chỉ có bảy giây để tạo ấn tượng đầu tiên. Và một khi đã định hình, cực kỳ khó thay đổi.",
+    "show": "*7 giây* để tạo\nấn tượng đầu tiên"
+   },
+   {
+    "say": "Nghiên cứu tâm lý học chỉ ra: trước khi bạn kịp mở lời, người đối diện đã đánh giá qua vẻ ngoài, dáng đi và ánh mắt.",
+    "show": "Chưa mở lời\nđã bị *chấm điểm*"
+   },
+   {
+    "say": "Quy tắc 55-38-7 của Mehrabian: ấn tượng đến từ 55% ngôn ngữ cơ thể, 38% giọng nói, và chỉ 7% là lời nói.",
+    "show": "55% *ngôn ngữ cơ thể*\n7% lời nói"
+   },
+   {
+    "say": "Ba mẹo đơn giản: đứng thẳng, bắt tay dứt khoát, và giữ ánh mắt vừa đủ, khoảng ba giây mỗi lần nhìn.",
+    "show": "3 giây nhìn = *đúng mức*"
+   },
+   {
+    "say": "Nhưng mẹo hay nhất vẫn là sự chân thành, bởi nó duy trì được sau bảy giây. Theo dõi kênh để trau chuốt kỹ năng mỗi ngày nhé!",
+    "show": "Chân thành *qua nổi 7 giây*"
+   }
+  ]
+ }
+]
