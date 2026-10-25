@@ -205,10 +205,15 @@ window.__render = t => {
     const el = beatsHost.children[idx]; if (!el) return;
     const next = BEATS[idx + 1];
     const visStart = b.offset - .32, visEnd = next ? next.offset - .05 : TOTAL;
-    if (t < visStart || t > visEnd) { el.style.opacity = 0; return; }
+    if (isList && idx === 1) {
+      // list host stays visible for the rest of the video; items fade themselves
+      const inP = Math.min(1, (t - visStart) / .38);
+      el.style.opacity = ease(inP);
+      el.style.transform = 'translateY(' + ((1 - ease(inP)) * 44) + 'px)';
+    } else if (t < visStart || t > visEnd) { el.style.opacity = 0; return; }
     const inP = Math.min(1, (t - visStart) / .38);
     const outP = next ? Math.min(1, Math.max(0, (visEnd - t) / .3)) : 1;
-    el.style.opacity = Math.min(ease(inP), ease(outP));
+    if (!(isList && idx === 1)) el.style.opacity = Math.min(ease(inP), ease(outP));
     const drift = (1 - ease(inP)) * 44;
     const zoom = isList ? 1 : 1 + .03 * Math.min(1, (t - b.offset) / (b.dur + 1));
     el.style.transform = 'translateY(' + drift + 'px) scale(' + zoom + ')';
@@ -225,7 +230,7 @@ window.__render = t => {
           const ib = BEATS[1 + k];
           const ivs = ib.offset - .3, ive = (BEATS[2 + k] ? BEATS[2 + k].offset - .05 : TOTAL);
           const vin = Math.min(1, Math.max(0, (t - ivs) / .4)), vout = Math.min(1, Math.max(0, (ive - t) / .3));
-          it.style.opacity = Math.min(vin, vout);
+          it.style.opacity = Math.max(Math.min(vin, vout), t >= ivs ? .15 : 0);
           it.style.transform = 'translateY(' + ((1 - ease(vin)) * 38) + 'px)';
         });
       }
