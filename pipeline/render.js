@@ -29,6 +29,64 @@ const dark = !['paper', 'minimal-light', 'sunset-warm'].includes(spec.theme);
 
 const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
+// Per-theme STRUCTURAL css — each theme gets its own layout language
+const THEME_CSS = {
+  'terminal': `
+    .t-terminal .beat { align-items:flex-start; text-align:left; padding-left:30px; }
+    .t-terminal #cat { border:none; padding:0; }
+    .t-terminal .big { text-shadow:0 0 26px ${TH.a1}66; }
+    .t-terminal .rule { display:none; }
+    .t-terminal .sub2 { border-left:4px solid ${TH.a1}; padding-left:22px; }
+    .t-terminal #prog { display:none; }
+    .t-terminal #prompt { display:block; position:absolute; top:130px; left:110px; font-size:30px; color:${TH.a2}; z-index:20; }
+    .t-terminal #pct { display:block; position:absolute; top:64px; right:80px; font-size:34px; color:${TH.a1}; z-index:20; }
+    .t-terminal #cap { left:50%; transform:translateX(-50%); width:max-content; max-width:900px; background:${TH.a1}; color:#060a06; -webkit-text-stroke:0; padding:10px 28px; border-radius:10px; font-size:52px; }`,
+  'paper': `
+    .t-paper .beat { align-items:flex-start; text-align:left; padding-left:26px; }
+    .t-paper #cat { border:none; padding:0; letter-spacing:10px; }
+    .t-paper .big .acc { background:linear-gradient(transparent 60%, ${TH.a1}55 60%); color:inherit; }
+    .t-paper .rule { display:none; }
+    .t-paper .sub2::before { content:'— '; color:${TH.a1}; }
+    .t-paper .beat::before { content:''; position:absolute; left:-34px; top:33%; bottom:33%; width:10px; border-radius:6px; background:linear-gradient(${TH.a1},${TH.a2}); }
+    .t-paper #cap { color:#111; -webkit-text-stroke:7px #fff; }`,
+  'gradient-pop': `
+    .t-gradient-pop .beat .big { transform:rotate(-2deg); text-shadow:10px 10px 0 rgba(0,0,0,.35); }
+    .t-gradient-pop #cat { background:${TH.a1}; color:#1e1b4b; border:none; transform:rotate(-2deg); font-weight:900; }
+    .t-gradient-pop .rule { height:14px; transform:rotate(-2deg); }
+    .t-gradient-pop .sub2 { color:#fff; }
+    .t-gradient-pop #bggrad::before, .t-gradient-pop #bggrad::after { content:''; position:absolute; left:-70%; width:240%; height:380px; background:rgba(255,255,255,.08); transform:rotate(-11deg); }
+    .t-gradient-pop #bggrad::before { top:32%; }
+    .t-gradient-pop #bggrad::after { top:66%; background:rgba(0,0,0,.12); }
+    .t-gradient-pop #cap { color:#fff; -webkit-text-stroke:9px #000; }`,
+  'minimal-light': `
+    .t-minimal-light .beat { justify-content:flex-end; align-items:flex-start; text-align:left; padding-bottom:430px; }
+    .t-minimal-light #cat { border:none; padding:0; color:#9ca3af; }
+    .t-minimal-light .rule { background:${TH.a1}; }
+    .t-minimal-light #prog { height:4px; background:${TH.a1}; }
+    .t-minimal-light #cap { color:#111; -webkit-text-stroke:7px #fff; }`,
+  'retro-vhs': `
+    .t-retro-vhs .big { text-shadow:5px 0 #f43f5e77, -5px 0 #22d3ee77; }
+    .t-retro-vhs #cat { border-color:#f0abfc; color:#f0abfc; }
+    .t-retro-vhs #stage { animation:jit .4s steps(2) infinite; }
+    @keyframes jit { 0%{transform:translate(0,0)} 50%{transform:translate(2px,-1.5px)} 100%{transform:translate(-1.5px,1px)} }
+    .t-retro-vhs #frame { display:block; position:absolute; inset:36px; border:3px solid ${TH.a1}55; pointer-events:none; z-index:30; }
+    .t-retro-vhs #rec { display:block; position:absolute; top:70px; left:80px; font-size:30px; font-weight:700; color:#f43f5e; z-index:20; letter-spacing:2px; }`,
+  'corporate-blue': `
+    .t-corporate-blue .big { background:rgba(255,255,255,.06); border:1px solid rgba(255,255,255,.14); border-left:12px solid ${TH.a1}; border-radius:30px; padding:60px 55px; text-align:left; }
+    .t-corporate-blue .sub2 { background:rgba(255,255,255,.06); border-radius:0 0 30px 30px; margin-top:0; padding:0 55px 40px; text-align:left; margin-left:1.5px; width:calc(100% - 3px); }
+    .t-corporate-blue .rule { display:none; }
+    .t-corporate-blue #cat { left:50%; transform:translateX(-50%); }
+    .t-corporate-blue #cap { color:#fff; -webkit-text-stroke:10px #000; }`,
+  'sunset-warm': `
+    .t-sunset-warm .beat::before { content:'\\201C'; position:absolute; top:21%; left:5%; font-size:300px; color:${TH.a1}40; font-family:Georgia,serif; line-height:1; }
+    .t-sunset-warm #cat { border:none; padding:0; letter-spacing:8px; }
+    .t-sunset-warm .rule { background:${TH.a1}; }
+    .t-sunset-warm #cap { color:#292524; -webkit-text-stroke:7px #fff; }`,
+  'neon-dark': `
+    .t-neon-dark .big { text-shadow:0 0 60px ${TH.a1}44; }
+    .t-neon-dark #cap { color:#fff; -webkit-text-stroke:10px #000; }`,
+};
+
 const beatsJS = JSON.stringify(spec.beats.map(b => ({ i: b.i, offset: b.offset, dur: b.dur, show: b.show, sub: b.sub || '', stat: b.stat || null })));
 const capsJS = JSON.stringify(spec.captions);
 
@@ -79,7 +137,9 @@ body { font-family:'${TH.font}','Noto Sans','DejaVu Sans',sans-serif; color:${TH
   background:linear-gradient(135deg, ${TH.a1}, ${TH.a2}); box-shadow:0 0 90px ${TH.a1}66; }
 .cta-pill { margin-top:48px; display:inline-block; padding:26px 60px; border-radius:999px; font-size:40px; font-weight:800;
   color:${TH.bg}; background:linear-gradient(90deg, ${TH.a1}, ${TH.a2}); }
-</style></head><body>
+#prompt, #pct, #rec, #frame { display:none; }
+${THEME_CSS[spec.theme] || ''}
+</style></head><body class="t-${spec.theme}">
 <div id="stage">
   <div class="decor" id="bggrad" style="display:none"></div>
   <div class="decor grid" id="d-grid" style="display:none"></div>
@@ -92,6 +152,10 @@ body { font-family:'${TH.font}','Noto Sans','DejaVu Sans',sans-serif; color:${TH
   <div id="prog"></div>
   <div id="cat">${esc(spec.category || '')}</div>
   <div id="brand">${esc(spec.handle || '')}</div>
+  <div id="prompt">$ vietreel --topic="${esc((spec.category || '').toLowerCase())}"</div>
+  <div id="pct">0%</div>
+  <div id="rec">● REC <span id="tc">00:00</span></div>
+  <div id="frame"></div>
   <div id="beats"></div>
   <div id="cap"></div>
 </div>
@@ -199,6 +263,10 @@ window.__render = t => {
   if (bg.style.display !== 'none') bg.style.backgroundPosition = (50 + Math.sin(t * .15) * 30) + '% ' + (50 + Math.cos(t * .12) * 30) + '%';
 
   document.getElementById('prog').style.width = (Math.min(1, t / TOTAL) * W) + 'px';
+  const pct = document.getElementById('pct');
+  if (pct) pct.textContent = String(Math.floor(Math.min(1, t / TOTAL) * 100)).padStart(2, '0') + '%';
+  const tc = document.getElementById('tc');
+  if (tc) tc.textContent = new Date(t * 1000).toISOString().substr(14, 5);
 
   const isList = LAYOUT === 'list';
   BEATS.forEach((b, idx) => {
