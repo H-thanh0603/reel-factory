@@ -1,0 +1,967 @@
+[
+ {
+  "id": "126",
+  "slug": "viet-tay-nho-hon",
+  "category": "Tâm lý",
+  "theme": "chalkboard",
+  "layout": "stat",
+  "voice": "Ngọc Linh",
+  "music": "warm",
+  "title": "Viết tay nhớ hơn gõ phím bao nhiêu?",
+  "hashtags": [
+   "#tamly",
+   "#hoctap",
+   "#viettay",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Ghi bài bằng tay mất thời gian hơn gõ phím, nhưng lại nhớ lâu hơn hẳn. Não xử lý hai cách ghi chép này rất khác nhau.",
+    "show": "Viết tay *chậm hơn*\nnhưng nhớ *lâu hơn*"
+   },
+   {
+    "stat": "2",
+    "sub": "lần: chênh lệch ghi nhớ giữa viết tay và gõ phím (các nghiên cứu gần đây)",
+    "say": "Hai lần. Đó là chênh lệch ghi nhớ giữa viết tay và gõ phím."
+   },
+   {
+    "say": "Khi viết tay, não phải lựa chọn, tóm tắt, diễn đạt lại bằng nét chữ riêng. Quá trình xử lý sâu đó chính là điều khiến trí nhớ đóng đinh.",
+    "show": "Viết tay buộc não\n*tóm tắt lại*"
+   },
+   {
+    "say": "Gõ phím nhanh khiến ta chép nguyên văn như máy ghi âm. Ghi nhiều mà xử lý ít, nên trí nhớ nông.",
+    "show": "Gõ phím = chép\nnguyên văn, *nhớ nông*"
+   },
+   {
+    "say": "Nghiên cứu theo dõi sóng não cho thấy viết tay kích hoạt vùng học tập mạnh hơn hẳn gõ chữ. Đáng nhớ thì hãy viết tay.",
+    "show": "Sóng não *học tốt hơn*\nkhi viết tay"
+   },
+   {
+    "say": "Điều quan trọng nhất của tuần này, hãy viết ra giấy. Theo dõi kênh để học theo cách não bộ thích nhé!",
+    "show": "Việc quan trọng nhất\n*viết ra giấy*"
+   }
+  ]
+ },
+ {
+  "id": "127",
+  "slug": "nghich-ly-lua-chon",
+  "category": "Kinh doanh",
+  "theme": "swiss-diagonal",
+  "layout": "stat",
+  "voice": "Minh Đức",
+  "music": "pulse",
+  "title": "Nhiều lựa chọn hơn = hạnh phúc hơn? Sai.",
+  "hashtags": [
+   "#kinhdoanh",
+   "#tamly",
+   "#muasam",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Cửa hàng mứt để hai mươi bốn loại, người dùng chỉ mua ba phần trăm. Để sáu loại, người mua tăng gấp mười lần. Nghịch lý của lựa chọn.",
+    "show": "24 loại: *3% mua*.\n6 loại: 30% mua."
+   },
+   {
+    "stat": "24",
+    "sub": "loại mứt trong thí nghiệm kinh điển của Iyengar và Lepper",
+    "say": "Hai mươi bốn loại mứt. Đó là con số trong thí nghiệm nổi tiếng về lựa chọn."
+   },
+   {
+    "say": "Nghiên cứu nổi tiếng tại cửa hàng thực phẩm cho thấy lựa chọn nhiều làm khách tò mò, nhưng lựa chọn ít mới khiến họ thực sự xuống tiền.",
+    "show": "Nhiều lựa chọn = *ngắm*.\nÍt = *mua*."
+   },
+   {
+    "say": "Lý do: mỗi lựa chọn thêm là một gánh nặng so sánh và một nỗi sợ chọn sai. Não bị quá tải thì chọn cách an toàn nhất: không chọn gì.",
+    "show": "Mỗi lựa chọn thêm =\n1 *nỗi sợ chọn sai*"
+   },
+   {
+    "say": "Với chính mình: khi mua sắm hay quyết định, hãy tự cắt danh sách còn lại ba phương án. Theo dõi kênh để quyết định nhẹ hơn nhé!",
+    "show": "Tự cắt còn *3 phương án*"
+   }
+  ]
+ },
+ {
+  "id": "128",
+  "slug": "giam-gia-50-20",
+  "category": "Kinh doanh",
+  "theme": "brutalist",
+  "layout": "hook",
+  "voice": "Minh Triết",
+  "music": "pulse",
+  "title": "Giảm 50% + 20% không bằng giảm 70%",
+  "hashtags": [
+   "#kinhdoanh",
+   "#banhang",
+   "#tamly",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Cửa hàng treo biển giảm thêm 20% sau khi đã giảm 50%. Nghe như giảm 70%. Nhưng toán học nói điều khác.",
+    "show": "50% + 20% ≠ *70%*"
+   },
+   {
+    "say": "Cộng dồn phần trăm là nhân, không phải cộng. Giảm năm mươi rồi giảm hai mươi, giá còn đúng bốn mươi phần trăm, tức giảm sáu mươi.",
+    "show": "50% × 80%\n= *60% giảm*"
+   },
+   {
+    "say": "Khách hàng trung bình tính bằng cảm giác cộng cộng, và cảm thấy hời hơn thực tế. Người bán biết rõ điều đó.",
+    "show": "Cảm giác *cộng cộng*,\nthực tế là *nhân*"
+   },
+   {
+    "say": "Điều này không phải lừa đảo, đó là cách quy đổi giảm giá theo tầng. Nhưng là công cụ để bạn so sánh đúng.",
+    "show": "Giảm *theo tầng*,\nso sánh *theo giá cuối*"
+   },
+   {
+    "say": "Lần tới thấy giảm giá chồng, hãy tính giá cuối cùng, đừng cộng phần trăm. Theo dõi kênh để đọc biển giảm giá như chuyên gia nhé!",
+    "show": "Tính *giá cuối*,\nkhông cộng phần trăm"
+   }
+  ]
+ },
+ {
+  "id": "129",
+  "slug": "dca-la-gi",
+  "category": "Tiền bạc",
+  "theme": "corporate-blue",
+  "layout": "hook",
+  "voice": "Đoan Trang",
+  "music": "warm",
+  "title": "Đầu tư định kỳ: chiến lược của người bận",
+  "hashtags": [
+   "#tien",
+   "#dautu",
+   "#taichinh",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Cố đoán đáy thị trường là trò chơi mà cả chuyên gia cũng thua. Có một chiến lược nhàm chán nhưng thắng lâu dài: đầu tư định kỳ.",
+    "show": "Đoán đáy =\ntrò chơi *chuyên gia cũng thua*"
+   },
+   {
+    "say": "Đầu tư định kỳ nghĩa là bỏ một số tiền cố định vào thị trường mỗi tháng, bất kể giá lên hay xuống.",
+    "show": "Số tiền cố định.\n*Mỗi tháng*. Không đoán."
+   },
+   {
+    "say": "Khi giá giảm, số tiền đó mua được nhiều đơn vị hơn. Khi giá tăng, tài sản bạn có tăng giá trị. Bạn mua trung bình giá cả thị trường.",
+    "show": "Rớt: mua *nhiều hơn*.\nTăng: tài sản *giá trị hơn*."
+   },
+   {
+    "say": "Lợi thế lớn nhất là tâm lý: bạn không phải quyết đoán từng thời điểm, nên không hoảng loạn khi thị trường đỏ lửa.",
+    "show": "Không đoán =\n*không hoảng loạn*"
+   },
+   {
+    "say": "Chậm, đều, khó chịu nhưng hiệu quả. Đó là bản chất của đầu tư bền. Theo dõi kênh để xây nền tài chính vững nhé!",
+    "show": "Chậm, đều,\n*hiệu quả*"
+   }
+  ]
+ },
+ {
+  "id": "130",
+  "slug": "new-coke",
+  "category": "Kinh doanh",
+  "theme": "paper",
+  "layout": "hook",
+  "voice": "Thanh Bình",
+  "music": "warm",
+  "title": "New Coke: vụ thí nghiệm đắt nhất lịch sử",
+  "hashtags": [
+   "#kinhdoanh",
+   "#lichsu",
+   "#thuonghieu",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Năm 1985, Coca-Cola đổi công thức sau hai trăm nghìn lần nếm thử. Thị trường phản ứng như một cơn địa chấn. Chuyện gì đã sai?",
+    "show": "200.000 lần nếm thử.\nVẫn *địa chấn*."
+   },
+   {
+    "say": "Trong các buổi nếm mù, người tham gia thích công thức mới hơn rõ rệt. Dữ liệu sạch, phương pháp chuẩn, kết luận chắc như đinh đóng cột.",
+    "show": "Nếm mù: công thức mới\n*thắng rõ ràng*"
+   },
+   {
+    "say": "Nhưng mọi người uống cola không chỉ để vị. Họ uống niềm vui tuổi thơ, quán quen, ký ức. Công thức mới đụng vào ký ức đó.",
+    "show": "Người ta uống *ký ức*,\nkhông chỉ *vị*"
+   },
+   {
+    "say": "Chỉ bảy mươi chín ngày sau, Coca-Cola phải đưa công thức cũ trở lại với cái tên Coca-Cola cổ điển, và doanh số tăng vọt.",
+    "show": "79 ngày — phải\n*đưa cũ trở lại*"
+   },
+   {
+    "say": "Bài học hàng trăm triệu đô: dữ liệu đo được điều gì đó, nhưng không phải mọi thứ. Theo dõi kênh cho những bài học kinh doanh kinh điển nhé!",
+    "show": "Dữ liệu không đo\n*hết mọi thứ*"
+   }
+  ]
+ },
+ {
+  "id": "131",
+  "slug": "thu-nhap-bi-dong",
+  "category": "Tiền bạc",
+  "theme": "minimal-light",
+  "layout": "list",
+  "voice": "Kim Thanh",
+  "music": "bright",
+  "title": "Thu nhập bị động: sự thật ít ai nói",
+  "hashtags": [
+   "#tien",
+   "#thunhap",
+   "#kinhdoanh",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Thu nhập bị động nghe như tiền rơi từ trời. Sự thật là đa số nguồn bị động đều cần công sức gieo trước, thu sau.",
+    "show": "Bị động = *gieo trước,\nthu sau*"
+   },
+   {
+    "say": "Ba nguồn thật sự hoạt động. Một: tài sản sinh lời, từ tiền tiết kiệm, cổ tức, cho thuê. Cần vốn gốc trước.",
+    "show": "1. *Tài sản sinh lời*\nCần vốn gốc"
+   },
+   {
+    "say": "Hai: sản phẩm được tạo một lần, bán nhiều lần, như khóa học, sách, template, phần mềm. Cần kỹ năng và thời gian làm ban đầu.",
+    "show": "2. *Tạo 1 lần,\nbán nhiều lần*"
+   },
+   {
+    "say": "Ba: hệ thống kinh doanh có người khác vận hành, bạn nhận phần lợi nhuận. Cần xây dựng đội ngũ hoặc mua lại hệ thống.",
+    "show": "3. *Hệ thống*\nkhông cần bạn hằng ngày"
+   },
+   {
+    "say": "Bốn thứ KHÔNG phải thu nhập bị động: công việc bên freelance, sự cố gắng mệt mỏi mỗi tối, và các hụt đầu tư hứa hẹn vài chục phần trăm mỗi tháng.",
+    "show": "Cẩn thận với\n*hụt 30%/tháng*"
+   },
+   {
+    "say": "Bị động không có nghĩa dễ dàng. Nó có nghĩa là công sức được đầu tư có hệ thống. Theo dõi kênh để xây tài sản thật nhé!",
+    "show": "Bị động ≠ *dễ dàng*"
+   }
+  ]
+ },
+ {
+  "id": "132",
+  "slug": "gia-ve-may-bay",
+  "category": "Kinh doanh",
+  "theme": "aurora-glass",
+  "layout": "hook",
+  "voice": "Thùy Dung",
+  "music": "pulse",
+  "title": "Vì sao giá vé máy bay nhảy như nhảy dây?",
+  "hashtags": [
+   "#kinhdoanh",
+   "#dulich",
+   "#duavao",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Sáng tra vé ba triệu, chiều lại bốn triệu rưỡi, tối về hai triệu tám. Ghế là những ghế đó, vì sao giá nhảy loạn?",
+    "show": "Sáng 3 triệu.\nChiều 4,5. Tối 2,8."
+   },
+   {
+    "say": "Đó là định giá động: thuật toán xem xét chỗ trống, số ngày còn lại, lịch sử tìm kiếm và nhu cầu theo khung giờ để chỉnh giá liên tục.",
+    "show": "Thuật toán chỉnh giá\n*liên tục*"
+   },
+   {
+    "say": "Mỗi khối ghế có giá khác nhau. Khi khối rẻ bán hết, ghế tiếp theo tự động thuộc khối đắt hơn, dù ghế cạnh nhau trên máy bay.",
+    "show": "Cạnh nhau,\n*khác giá gấp đôi*"
+   },
+   {
+    "say": "Hai mẹo có thật: đặt sớm cho chuyến cao điểm, và linh hoạt ngày bay thay đổi giá mạnh nhất. Sáng thứ ba thường rẻ hơn tối thứ sáu.",
+    "show": "Linh hoạt ngày =\n*tiết kiệm nhất*"
+   },
+   {
+    "say": "Giá vé không phải sự thật cố định, đó là trả lời của thuật toán cho câu hỏi của thị trường. Theo dõi kênh để bay thông minh hơn nhé!",
+    "show": "Giá vé = câu trả lời\ncủa *thuật toán*"
+   }
+  ]
+ },
+ {
+  "id": "133",
+  "slug": "hang-hieu-gioi-han",
+  "category": "Kinh doanh",
+  "theme": "swiss-diagonal",
+  "layout": "hook",
+  "voice": "Quang Sơn",
+  "music": "pulse",
+  "title": "Vì sao hàng hiệu tự ngại bán nhiều?",
+  "hashtags": [
+   "#kinhdoanh",
+   "#thuonghieu",
+   "#tamly",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Doanh nghiệp nào cũng muốn bán càng nhiều càng tốt, trừ một nhóm đặc biệt: hàng xa xỉ. Họ chủ động giới hạn số lượng. Vì sao?",
+    "show": "Ai cũng muốn bán nhiều.\nHàng xa xỉ *không*."
+   },
+   {
+    "say": "Giá trị của hàng xa xỉ không nằm ở chất liệu, mà ở ý nghĩa: ít người sở hữu. Bán nhiều làm ý nghĩa đó phai, và giá trị sụp đổ.",
+    "show": "Giá trị = *ý nghĩa*\nít người có"
+   },
+   {
+    "say": "Đó là khan hiếm được thiết kế: phiên bản giới hạn, danh sách chờ, từ chối khách hàng. Nguồn cung bóp chặt để giá trị giữ nguyên.",
+    "show": "Khan hiếm\n*được thiết kế*"
+   },
+   {
+    "say": "Hermès nổi tiếng với việc khách phải chờ và mua phụ kiện trước mới được mua túi chính. Nghe vô lý, nhưng giữ được cả giá trị thương hiệu.",
+    "show": "Chờ + mua kèm\n= *giữ giá trị*"
+   },
+   {
+    "say": "Trong thế giới kêu gọi mua nhiều hơn, khan hiếm ngược đời lại là chiến lược mạnh nhất. Theo dõi kênh để hiểu các thế lực định giá quanh mình nhé!",
+    "show": "Khan hiếm *ngược đời*\n= chiến lược mạnh nhất"
+   }
+  ]
+ },
+ {
+  "id": "134",
+  "slug": "gio-24-babylon",
+  "category": "Lịch sử",
+  "theme": "blueprint",
+  "layout": "stat",
+  "voice": "Xuân Vĩnh",
+  "music": "dark",
+  "title": "Vì sao một ngày chia 24 giờ, 60 phút?",
+  "hashtags": [
+   "#lichsu",
+   "#thoigian",
+   "#khoahoc",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Số 24 giờ, 60 phút, 60 giây nghe vô lý trong thế giới thập phân. Vậy ai chọn những con số kỳ lạ này? Câu trả lời cách ta bốn nghìn năm.",
+    "show": "Ai chọn 24-60-60?\n*Cách ta 4.000 năm*."
+   },
+   {
+    "stat": "60",
+    "sub": "số của người Babylon — chia hết cho 1,2,3,4,5,6",
+    "say": "Sáu mươi. Đó là con số mà người Babylon chọn để chia thời gian."
+   },
+   {
+    "say": "Người Babylon cổ dùng hệ đếm cơ số sáu mươi, vì sáu mươi chia đều cho một, hai, ba, bốn, năm, sáu — cực tiện để chia phần.",
+    "show": "60 chia hết cho\n*1,2,3,4,5,6*"
+   },
+   {
+    "say": "Họ chia ngày thành mười hai phần ban ngày, mười hai phần ban đêm. Ai Cập thêm công cụ chia đêm thành giờ nhờ các nhóm sao mọc tuần tự.",
+    "show": "12 + 12 = *24 giờ*"
+   },
+   {
+    "say": "Từ đếm trên tay mười hai đốt ngón mà không cần nhìn, tới đồng hồ nguyên tử, con người vẫn giữ nguyên bộ chia cổ này. Theo dõi kênh để thấy quá khứ trong mọi thứ quanh mình nhé!",
+    "show": "Quá khứ nằm trong\n*đồng hồ của bạn*"
+   }
+  ]
+ },
+ {
+  "id": "135",
+  "slug": "mayday",
+  "category": "Lịch sử",
+  "theme": "terminal",
+  "layout": "hook",
+  "voice": "Thiện Minh",
+  "music": "dark",
+  "title": "Vì sao phi công kêu MAYDAY?",
+  "hashtags": [
+   "#lichsu",
+   "#hangkhong",
+   "#sukien",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Từ MAYDAY bạn nghe trong phim, không phải tiếng Anh. Nó là tiếng Pháp, và sinh ra từ một thảm họa buồn.",
+    "show": "MAYDAY\nkhông phải *tiếng Anh*"
+   },
+   {
+    "say": "Năm 1923, nhân viên sóng không Anh Frederick Mockford được giao nhiệm vụ tìm từ cấp cứu thay cho SOS điện tín, dùng cho radio.",
+    "show": "1923: cần 1 từ cấp cứu\ncho *radio*"
+   },
+   {
+    "say": "Ông chọn m'aidez, tiếng Pháp nghĩa là cứu tôi, đọc gần giống MAYDAY. Vì tuyến bay đông khách nhất khi đó là London Paris.",
+    "show": "M'aidez = *cứu tôi*\ntiếng Pháp"
+   },
+   {
+    "say": "Quy định chỉ kêu MAYDAY khi nguy hiểm tính mạng thực sự, lặp lại ba lần liên tiếp. Từ này hiếm khi nghe, vì nó đắt như tính mạng.",
+    "show": "Kêu *3 lần*\nkhi nguy hiểm tính mạng"
+   },
+   {
+    "say": "Một trăm năm nay, từ bốn âm tiết đó vẫn là lời cầu cứu mạnh nhất của hàng không. Theo dõi kênh để hiểu những quy ước cứu thế giới nhé!",
+    "show": "4 âm tiết,\nđắt như *tính mạng*"
+   }
+  ]
+ },
+ {
+  "id": "136",
+  "slug": "duong-doi-ngay",
+  "category": "Lịch sử",
+  "theme": "paper",
+  "layout": "hook",
+  "voice": "Đoan Trang",
+  "music": "warm",
+  "title": "Bước qua đường đổi ngày là đi ngược thời gian?",
+  "hashtags": [
+   "#lichsu",
+   "#dila",
+   "#thoigian",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Trên Thái Bình Dương có một đường cong kỳ lạ: bước qua nó về phía đông, bạn lùi lại đúng một ngày. Nó là đường đổi ngày quốc tế.",
+    "show": "Bước qua =\n*lùi lại 1 ngày*"
+   },
+   {
+    "say": "Trái Đất xoay, nên thời gian phải bắt đầu ở đâu đó. Các nước chọn đường kinh tuyến 180 độ làm vạch xuất phát lịch, đi qua biển trống.",
+    "show": "Thời gian cần\n*điểm bắt đầu*"
+   },
+   {
+    "say": "Nhưng đường này phải né các đảo và quốc gia để một nước không bị chia làm hai ngày. Vì vậy nó cong queo quanh Kiribati, Nhật Bản, New Zealand.",
+    "show": "Đường cong để\n*không chia đôi đất nước*"
+   },
+   {
+    "say": "Hệ quả vui: Samoa từng bỏ một ngày thứ sáu năm 2011 để nhảy múi giờ sang phía đối diện, vì giao thương với Úc châu.",
+    "show": "Samoa *bỏ 1 ngày thứ sáu*\nnăm 2011"
+   },
+   {
+    "say": "Thời gian của con người là một thỏa thuận tuyệt vời giữa các quốc gia. Theo dõi kênh để thấy những thỏa thuận vô hình vận hành thế giới nhé!",
+    "show": "Thời gian là\n*một thỏa thuận*"
+   }
+  ]
+ },
+ {
+  "id": "137",
+  "slug": "tac-gia-anh-dau-tien",
+  "category": "Lịch sử",
+  "theme": "cinema",
+  "layout": "stat",
+  "voice": "Ngọc Linh",
+  "music": "dark",
+  "title": "Người đầu tiên dám chụp ảnh chính mình",
+  "hashtags": [
+   "#lichsu",
+   "#anh",
+   "#khoahoc",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Trước khi selfie tồn tại, đã có người đầu tiên ngồi yên mười lăm phút để máy ảnh khắc lại gương mặt mình. Câu chuyện 1839.",
+    "show": "Người đầu tiên\ndám *chụp chính mình*"
+   },
+   {
+    "stat": "15",
+    "sub": "phút ngồi bất động cho bức chân dung đầu tiên (1839)",
+    "say": "Mười lăm phút bất động. Đó là cái giá của bức chân dung đầu tiên."
+   },
+   {
+    "say": "Năm 1839, Robert Cornelius chụp bức chân dung thành công đầu tiên của Mỹ. Phơi sáng mất khoảng mười lăm phút, ông phải ngồi như tượng.",
+    "show": "15 phút ngồi\nnhư *tượng*"
+   },
+   {
+    "say": "Nguồn sáng là ánh nắng. Ghi chú trên tấm ảnh do chính ông viết: cái đầu tiên từng được chụp bằng ánh sáng, năm 1839.",
+    "show": "Ghi chú: *cái đầu tiên*\nbằng ánh sáng"
+   },
+   {
+    "say": "Từ mười lăm phút bất động tới một giây mười lăm khung hình selfie, hành trình ấy kể cả câu chuyện tự do của hình ảnh con người. Theo dõi kênh nhé!",
+    "show": "15 phút →\n*15 khung/giây*"
+   }
+  ]
+ },
+ {
+  "id": "138",
+  "slug": "hong-canh-xanh",
+  "category": "Khoa học",
+  "theme": "blueprint",
+  "layout": "hook",
+  "voice": "Quang Sơn",
+  "music": "dark",
+  "title": "Vì sao đèn mũi tàu đỏ bên trái, xanh bên phải?",
+  "hashtags": [
+   "#hanghai",
+   "#khoahoc",
+   "#ansinh",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Đêm ngoài biển, mỗi con tàu mang hai màu đèn: đỏ bên mũi trái, xanh bên mũi phải. Quy tắc này cứu hàng triệu sinh mạng.",
+    "show": "Đèn *đỏ trái, xanh phải*\ncứu hàng triệu người"
+   },
+   {
+    "say": "Về đêm, radar có thể lỗi thời, sóng có thể chặn tầm nhìn. Nhưng hai màu đèn đó cho thuyền trưởng biết ngay đối thủ đang hướng về đâu.",
+    "show": "Nhìn màu = biết\n*chiều hướng*"
+   },
+   {
+    "say": "Thấy đèn đỏ nghĩa là bạn đang nhìn mũi trái tàu kia: nó đang đi ngang qua bạn từ phải sang trái. Quy tắc nhường đường lập tức rõ ràng.",
+    "show": "Thấy đỏ = tàu kia\n*đi ngang* qua bạn"
+   },
+   {
+    "say": "Tại sao đỏ trái xanh phải? Tương tự màu đồng hồ giao thông: đỏ cảnh báo ưu tiên dừng, xanh an toàn đi tiếp. Nhất quán giúp não phản xạ nhanh.",
+    "show": "Nhất quán với\nđèn giao thông"
+   },
+   {
+    "say": "Một quy ước nhỏ từ thế kỷ 19 vẫn bảo vệ các đại dương ngày nay. Theo dõi kênh để thấy những quy ước âm thầm cứu người nhé!",
+    "show": "Quy ước *thế kỷ 19*\nvẫn cứu người nay"
+   }
+  ]
+ },
+ {
+  "id": "139",
+  "slug": "ghi-am-dau-tien",
+  "category": "Lịch sử",
+  "theme": "brutalist",
+  "layout": "stat",
+  "voice": "Minh Đức",
+  "music": "dark",
+  "title": "Tiếng người xưa nhất còn lưu được",
+  "hashtags": [
+   "#lichsu",
+   "#ghiam",
+   "#khoahoc",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bản ghi âm lâu đời nhất của giọng con người mà ta còn nghe được đã có hơn một trăm sáu mươi tuổi. Và nó bắt đầu như một trò chơi kỹ thuật.",
+    "show": "Bản ghi âm *lâu đời nhất*\nta còn nghe được"
+   },
+   {
+    "stat": "1860",
+    "sub": "năm ghi lại bản thu Âu Clair de la Lune trên phonautograph",
+    "say": "Một nghìn tám trăm sáu mươi. Năm bản ghi âm đầu tiên ra đời."
+   },
+   {
+    "say": "Năm 1860, Édouard-Léon Scott vẽ sóng âm của bài dân ca Au Clair de la Lune lên giấy bồ hóng bằng một cái cọ rung theo tiếng hát.",
+    "show": "1860: vẽ *sóng âm*\nlên giấy bồ hóng"
+   },
+   {
+    "say": "Phát minh đó chỉ ghi hình, không phát lại được. Phải đến 150 năm sau, các nhà khoa học mới quét và chuyển âm thành công.",
+    "show": "Ghi xong *150 năm*\nmới nghe được"
+   },
+   {
+    "say": "Giọng người Pháp thế kỷ 19 vang lên lần đầu năm 2008, như một thông điệp vượt thời gian. Theo dõi kênh cho những kho báu âm thanh nhé!",
+    "show": "Giọng thế kỷ 19\nvang lên năm *2008*"
+   }
+  ]
+ },
+ {
+  "id": "140",
+  "slug": "dong-ho-dau-tien",
+  "category": "Lịch sử",
+  "theme": "blueprint",
+  "layout": "hook",
+  "voice": "Minh Triết",
+  "music": "dark",
+  "title": "Khi giờ thành phố ra đời",
+  "hashtags": [
+   "#lichsu",
+   "#thoigian",
+   "#dothi",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Thời trung cổ, mỗi làng có một giờ riêng theo mặt trời. Vậy ai ép cả thế giới phải cùng một giờ? Câu trả lời nằm ở nhà thờ và đường sắt.",
+    "show": "Mỗi làng *1 giờ*.\nAi ép cả thế giới?"
+   },
+   {
+    "say": "Chuông nhà thờ là đồng hồ công cộng đầu tiên: nó báo giờ cầu nguyện, giờ chợ, giờ nghỉ. Cả thị trấn sống theo nhịp chuông đó.",
+    "show": "Chuông nhà thờ =\n*đồng hồ công cộng* đầu tiên"
+   },
+   {
+    "say": "Đến khi tàu hỏa ra đời, rối loạn bùng phát: mỗi ga theo giờ mặt trời địa phương, bảng lịch chạy lệch nhau vài phút, tai nạn xảy ra.",
+    "show": "Tàu hỏa gây\n*rối loạn thời gian*"
+   },
+   {
+    "say": "Vì an toàn, các nước phải chuẩn hóa giờ theo múi giờ chung, và những chiếc đồng hồ bỏ túi bỗng trở thành vật bất ly thân của người dân.",
+    "show": "Chuẩn hóa giờ\nvì *an toàn tàu*"
+   },
+   {
+    "say": "Giờ đồng hồ trên tay bạn là kết quả của nhu cầu bắt tàu đúng giờ. Theo dõi kênh để nhìn thời gian bằng con mắt lịch sử nhé!",
+    "show": "Giờ trên tay =\nkết quả *bắt tàu*"
+   }
+  ]
+ },
+ {
+  "id": "141",
+  "slug": "quy-tac-135",
+  "category": "Đời sống",
+  "theme": "minimal-light",
+  "layout": "list",
+  "voice": "Hải Đăng",
+  "music": "bright",
+  "title": "Quy tắc 1-3-5 cho một ngày bớt rối",
+  "hashtags": [
+   "#doisong",
+   "#nangsuat",
+   "#vieclam",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Danh sách việc dài hai mươi dòng khiến bạn chán trước khi bắt đầu. Quy tắc một-ba-năm là giải pháp của người bận nhất.",
+    "show": "Danh sách 20 dòng\n→ quy tắc *1-3-5*"
+   },
+   {
+    "say": "Mỗi ngày chỉ có: một việc lớn, ba việc vừa, năm việc nhỏ. Tổng chín dòng, không hơn.",
+    "show": "1 lớn. 3 vừa.\n5 nhỏ. *Hết*."
+   },
+   {
+    "say": "Việc lớn là thứ nếu chỉ làm được một điều hôm nay, bạn vẫn thấy ngày này thành công. Thường chính là việc ta hay trì hoãn nhất.",
+    "show": "Việc lớn = việc\n*hay trì hoãn nhất*"
+   },
+   {
+    "say": "Việc nhỏ là thứ dưới mười lăm phút: trả lời email, gọi điện, ký giấy. Gom chúng vào một khối buổi chiều để không cắt đứt việc lớn.",
+    "show": "Gom việc nhỏ\nvào *1 khối*"
+   },
+   {
+    "say": "Chín dòng mỗi ngày, sau một tuần là bốn mươi lăm việc thật sự hoàn thành. Theo dõi kênh để làm ít việc hơn nhưng xong nhiều hơn nhé!",
+    "show": "9 dòng/ngày =\n45 việc *thật sự xong*"
+   }
+  ]
+ },
+ {
+  "id": "142",
+  "slug": "gio-vang-buoi-sang",
+  "category": "Đời sống",
+  "theme": "sunset-warm",
+  "layout": "hook",
+  "voice": "Mỹ Duyên",
+  "music": "warm",
+  "title": "Kẻ giấu việc đầu tiên của bạn mỗi sáng",
+  "hashtags": [
+   "#doisong",
+   "#sang",
+   "#thoiquen",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Có một kẻ mỗi sáng lại đánh cắp hai giờ quý giá nhất của bạn, và bạn còn tự nguyện giao cho nó. Kẻ đó là điện thoại.",
+    "show": "Kẻ đánh cắp *2 giờ*\nquý nhất mỗi sáng"
+   },
+   {
+    "say": "Hai mươi phút đầu sau thức dậy, não bạn dễ tiếp nhận nhất, giống đất ẩm vừa cày. Bạn dùng nó cho việc gì? Lướt tin nhắn và tin tức người khác.",
+    "show": "20 phút đầu:\nđất *vừa cày*"
+   },
+   {
+    "say": "Đọc tin tức lo lắng buổi sáng thiết lập tông màu của cả ngày: não lót đường cho những suy nghĩ tương tự còn lại.",
+    "show": "Tin xấu buổi sáng\n= *tông màu* cả ngày"
+   },
+   {
+    "say": "Giải pháp đơn giản: ba mươi phút đầu không mạng. Uống nước, vận động nhẹ, viết một dòng về việc quan trọng nhất hôm nay.",
+    "show": "30 phút đầu\n*không mạng*"
+   },
+   {
+    "say": "Bạn không cần dậy năm giờ. Bạn chỉ cần giữ cho mình khung nhỏ riêng trước khi thế giới ồ vào. Theo dõi kênh để giữ bình nguyên riêng nhé!",
+    "show": "Giữ *khung riêng*\ntrước khi thế giới ồ vào"
+   }
+  ]
+ },
+ {
+  "id": "143",
+  "slug": "an-khong-dien-thoai",
+  "category": "Đời sống",
+  "theme": "sticker",
+  "layout": "hook",
+  "voice": "Ngọc Huyền",
+  "music": "warm",
+  "title": "Bữa ăn không điện thoại thay đổi gì?",
+  "hashtags": [
+   "#doisong",
+   "#anuong",
+   "#quanhe",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Một thử thách nhỏ: bữa tối nay, cả nhà úp điện thoại xuống. Chỉ bảy ngày, những gì thay đổi khiến nhiều gia đình bất ngờ.",
+    "show": "Bữa ăn\n*không điện thoại*"
+   },
+   {
+    "say": "Nghiên cứu về bữa ăn gia đình cho thấy trẻ em trong nhà ăn cơm cùng ba lần mỗi tuần có vốn từ tốt hơn, ăn uống lành mạnh hơn.",
+    "show": "Ăn cùng 3 lần/tuần:\ntrẻ *vốn từ tốt hơn*"
+   },
+   {
+    "say": "Không phải vì đồ ăn. Vì trong ba mươi phút đó, câu hỏi nhỏ bẩn thỉu kiểu hôm nay em thế nào mới kịp được hỏi ra.",
+    "show": "30 phút để câu hỏi\n*hôm nay thế nào* kịp hỏi"
+   },
+   {
+    "say": "Và với người lớn: ăn không màn hình giúp não ghi nhận cảm giác no đúng lúc, giảm ăn quá mức mà không cần ăn kiêng gì cả.",
+    "show": "Không màn hình =\nnhận *cảm giác no* đúng lúc"
+   },
+   {
+    "say": "Thử bữa tối nay, úp máy xuống. Cái giá chỉ là vài notification, cái được là cả bữa cơm thật. Theo dõi kênh để sống trọn từng bữa ăn nhé!",
+    "show": "Giá: vài tin nhắn.\nĐược: *cả bữa cơm thật*."
+   }
+  ]
+ },
+ {
+  "id": "144",
+  "slug": "mot-vao-mot-ra",
+  "category": "Đời sống",
+  "theme": "minimal-light",
+  "layout": "hook",
+  "voice": "Quốc Tuấn",
+  "music": "bright",
+  "title": "Một vào một ra: luật dọn nhà không cần dọn",
+  "hashtags": [
+   "#doisong",
+   "#dondep",
+   "#thoiquen",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Dọn nhà đau đầu không phải vì dọn, mà vì đồ cứ tăng không ngừng. Có một luật chơi đơn giản chặn đứng điều đó: một vào một ra.",
+    "show": "Một vào.\n*Một ra*. Hết rối."
+   },
+   {
+    "say": "Luật: mỗi khi mang một món mới về nhà, một món cùng loại phải rời đi. Áo mới vào, áo cũ ra. Sách mới vào, sách cũ cho thư viện.",
+    "show": "Món mới vào =\nmón cũ *ra đi*"
+   },
+   {
+    "say": "Sức mạnh nằm ở chỗ nó quyết định ngay lúc mua, không phải lúc dọn. Bạn sẽ tự hỏi: tôi có muốn trả món này bằng chỗ của món kia không?",
+    "show": "Quyết định *lúc mua*,\nkhông phải *lúc dọn*"
+   },
+   {
+    "say": "Với quà tặng không dùng được, không cần tiếc: biết ơn ý nghĩa, trao đi vật dụng. Đó là cách tôn trọng cả người tặng lẫn món quà.",
+    "show": "Biết ơn *ý nghĩa*,\ntrao đi *vật dụng*"
+   },
+   {
+    "say": "Nhà không cần to hơn. Nhà chỉ cần đừng đầy hơn. Theo dõi kênh để sống gọn nhẹ hơn mỗi tuần nhé!",
+    "show": "Nhà không cần to hơn,\nchỉ cần *đừng đầy hơn*"
+   }
+  ]
+ },
+ {
+  "id": "145",
+  "slug": "di-bo-sau-an",
+  "category": "Đời sống",
+  "theme": "sticker",
+  "layout": "stat",
+  "voice": "Adam",
+  "music": "bright",
+  "title": "Đi bộ 10 phút sau bữa ăn làm gì trong người?",
+  "hashtags": [
+   "#doisong",
+   "#suckhoe",
+   "#dibo",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bữa cơm xong, thói quen nằm nghỉ rất dễ chịu. Nhưng mười phút đi bộ chậm lúc đó lại là một trong những viên thuốc rẻ nhất thế giới.",
+    "show": "10 phút đi bộ\nsau bữa ăn = *viên thuốc*"
+   },
+   {
+    "stat": "10",
+    "sub": "phút đi bộ chậm đủ tạo khác biệt đường huyết sau ăn",
+    "say": "Mười phút. Đó là đi bộ chậm sau bữa ăn."
+   },
+   {
+    "say": "Cơ co bóp khi đi bộ giúp glucose được sử dụng ngay thay vì dồn ứ, làm đường huyết sau ăn bớt chênh cao hơn hẳn.",
+    "show": "Cơ co bóp =\nglucose *được dùng ngay*"
+   },
+   {
+    "say": "Nghiên cứu tổng hợp chỉ ra đi bộ ngắn sau bữa ăn hiệu quả hơn đi bộ dài vào thời điểm khác cho việc cân bằng đường huyết.",
+    "show": "Sau ăn *hiệu quả hơn*\nđi lúc khác"
+   },
+   {
+    "say": "Còn nếu muốn giảm cân, đi bộ sau ăn cũng giúp chuyển bữa ăn thành chuyển động thay vì chất dồn. Theo dõi kênh cho những thói quen sức khỏe rẻ nhất nhé!",
+    "show": "Bữa ăn → *chuyển động*,\nkhông phải chất dồn"
+   }
+  ]
+ },
+ {
+  "id": "146",
+  "slug": "uong-bao-nhieu-nuoc",
+  "category": "Đời sống",
+  "theme": "chalkboard",
+  "layout": "hook",
+  "voice": "Thiền Tâm Đức",
+  "music": "warm",
+  "title": "Bao nhiêu nước là đủ? Phá myth 2 lít",
+  "hashtags": [
+   "#doisong",
+   "#suckhoe",
+   "#nuoc",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Uống hai lít nước mỗi ngày nghe như quy luật vĩnh cửu. Nhưng con số đó không đến từ y học, và với mỗi người lại khác nhau.",
+    "show": "Myth 2 lít/ngày\n*không đến từ y học*"
+   },
+   {
+    "say": "Nhu cầu nước phụ thuộc cân nặng, khí hậu, vận động, và cả thức ăn: canh, trái cây, sữa đều đóng góp đáng kể.",
+    "show": "Canh và trái cây\ncũng *là nước*"
+   },
+   {
+    "say": "Chỉ dẫn tốt nhất không phải con số, mà là màu nước tiểu: vàng nhạt trong là đủ, sẫm màu là cần uống thêm.",
+    "show": "Chỉ dẫn thật:\n*màu nước tiểu*"
+   },
+   {
+    "say": "Và uống quá nhiều nước cùng lúc cũng nguy hiểm thật: thận không kịp xử lý, muối trong máu bị loãng. Uống đều, đừng uống dồn.",
+    "show": "Uống *đều*, đừng *dồn*"
+   },
+   {
+    "say": "Sức khỏe không nằm trong công thức chung, nó nằm trong tín hiệu cơ thể bạn. Theo dõi kênh để lắng nghe cơ thể chuẩn hơn nhé!",
+    "show": "Sức khỏe nằm trong\ntín hiệu *cơ thể bạn*"
+   }
+  ]
+ },
+ {
+  "id": "147",
+  "slug": "chup-anh-dep-hon",
+  "category": "Đời sống",
+  "theme": "cinema",
+  "layout": "list",
+  "voice": "Thùy Dung",
+  "music": "dark",
+  "title": "3 cách chụp điện thoại đẹp hơn ngay hôm nay",
+  "hashtags": [
+   "#doisong",
+   "#nhip",
+   "#meo",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Máy ảnh của bạn không tệ. Chỉ là vài nguyên tắc ánh sáng và khung hình chưa được dùng. Ba cách cải thiện ngay không cần mua gì.",
+    "show": "Máy không tệ.\nChỉ *thiếu 3 nguyên tắc*."
+   },
+   {
+    "say": "Một: trưng mặt về phía cửa sổ, không đứng ngược sáng. Ánh sáng cửa sổ là thiết bị studio rẻ nhất thế giới.",
+    "show": "1. Cửa sổ =\n*studio rẻ nhất thế giới*"
+   },
+   {
+    "say": "Hai: hạ thấp máy ngang tầm mắt đối tượng, đặc biệt với trẻ nhỏ và thú cưng. Góc nhìn chờm xuống làm mọi thứ trông chật chội.",
+    "show": "2. Hạ máy\n*ngang tầm mắt*"
+   },
+   {
+    "say": "Ba: bấm chụp hàng loạt với người chuyển động, chọn khung đẹp sau. Đừng hy vọng vào một phát ăn ngay.",
+    "show": "3. Bấm *hàng loạt*,\nchọn sau"
+   },
+   {
+    "say": "Và một bí mật: bước chân hướng về phía ánh sáng đẹp vẫn rẻ hơn mọi ống kính. Theo dõi kênh để nâng tay nghề bằng thứ bạn đang có nhé!",
+    "show": "Bước chân *hướng sáng*\n> mọi ống kính"
+   }
+  ]
+ },
+ {
+  "id": "148",
+  "slug": "thuc-don-tuan",
+  "category": "Đời sống",
+  "theme": "paper",
+  "layout": "hook",
+  "voice": "Ngọc Trân",
+  "music": "warm",
+  "title": "Quyết ăn gì mỗi ngày đang làm bạn kiệt sức",
+  "hashtags": [
+   "#doisong",
+   "#anuong",
+   "#nangsuat",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Mỗi chiều sáu giờ, câu hỏi ăn gì lại quay lại và hao tổn ý chí của cả nhà. Có một giải pháp nhàm chán nhưng cực hiệu quả: thực đơn tuần.",
+    "show": "Câu hỏi *ăn gì?*\nmỗi chiều = hao ý chí"
+   },
+   {
+    "say": "Chủ nhật, chọn năm công thức, đi chợ một lần duy nhất theo danh sách. Cả tuần không còn câu hỏi ăn gì nữa.",
+    "show": "1 lần đi chợ\n= hết câu hỏi cả tuần"
+   },
+   {
+    "say": "Giữ cấu trúc linh hoạt: hai bữa tự do cho ngày bận, một bữa leftover để dọn tủ lạnh. Không hoàn hảo vẫn hơn tuyệt vời trên giấy.",
+    "show": "2 bữa tự do +\n1 bữa *dọn tủ lạnh*"
+   },
+   {
+    "say": "Tiền tiết kiệm từ việc mua đúng danh sách thường ra ngoài tưởng tượng, và cái được lớn nhất lại là sự im lặng của câu hỏi ăn gì.",
+    "show": "Lớn nhất không phải tiền,\nlà *sự im lặng*"
+   },
+   {
+    "say": "Hệ thống nhỏ giải phóng ý chí cho việc lớn. Theo dõi kênh để thiết kế cuộc sống bớt ma sát nhé!",
+    "show": "Hệ thống nhỏ\n= *ít ma sát*"
+   }
+  ]
+ },
+ {
+  "id": "149",
+  "slug": "5-phut-goi-ve-nha",
+  "category": "Đời sống",
+  "theme": "aurora-glass",
+  "layout": "stat",
+  "voice": "Đức Trí",
+  "music": "warm",
+  "title": "5 phút gọi về nhà mỗi tuần",
+  "hashtags": [
+   "#doisong",
+   "#giadinh",
+   "#quanhe",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bạn nghĩ luôn có thời gian để gọi về. Nhưng những cuộc gọi về nhà thường bắt đầu khi đã muộn. Đừng chờ tới lúc đó.",
+    "show": "Đừng chờ tới *lúc muộn*"
+   },
+   {
+    "stat": "5",
+    "sub": "phút gọi mỗi tuần — rẻ hơn mọi thứ, quý hơn mọi thứ",
+    "say": "Năm phút mỗi tuần. Rẻ hơn mọi thứ, quý hơn mọi thứ."
+   },
+   {
+    "say": "Năm phút mỗi tuần nghe nhỏ xíu. Nhưng tích lại là hai trăm sáu mươi phút mỗi năm thật sự có mặt trong đời bố mẹ bạn.",
+    "show": "5 phút/tuần =\n*260 phút/năm*"
+   },
+   {
+    "say": "Cách gọi hay hơn: hỏi một câu cụ thể thay vì ổn không. Bữa nay mẹ nấu gì? Bố xem gì trên tivi? Cụ thể mở ra câu chuyện.",
+    "show": "Hỏi *cụ thể*\nthay vì ổn không"
+   },
+   {
+    "say": "Và đừng chỉ gọi khi cần giúp đỡ. Cuộc gọi không vì việc gì mới là món quà. Theo dõi kênh để trân trọng những người vẫn chờ máy của mình nhé!",
+    "show": "Gọi *không vì việc gì*\n= món quà"
+   }
+  ]
+ },
+ {
+  "id": "150",
+  "slug": "video-thu-150",
+  "category": "Đời sống",
+  "theme": "aurora-glass",
+  "layout": "hook",
+  "voice": "Phạm Tuyên",
+  "music": "warm",
+  "title": "Video thứ 150: chặng mới",
+  "hashtags": [
+   "#doisong",
+   "#camon",
+   "#150videos",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Video thứ một trăm năm mươi. Từ một trăm kịch bản đầu, chúng ta bước sang loạt hoàn toàn mới với hình ảnh và câu chuyện khác biệt.",
+    "show": "Video thứ *150*.\nChặng mới bắt đầu."
+   },
+   {
+    "say": "Loạt mới này dùng tám phong cách hình ảnh chưa từng xuất hiện: truyện tranh, bản vẽ kỹ thuật, bảng phấn, điện ảnh, và hơn thế nữa.",
+    "show": "8 phong cách *mới*:\ntruyện tranh → điện ảnh"
+   },
+   {
+    "say": "Chủ đề cũng mở rộng: vì sao pin chai, chuyện New Coke, đường đổi ngày, viên thuốc đi bộ. Những điều bạn nghĩ không có video về nó.",
+    "show": "Chủ đề *mở rộng*\ntheo gợi ý của bạn"
+   },
+   {
+    "say": "Nếu có chủ đề nào bạn muốn kênh giải mã tiếp, hãy comment tên chủ đề đó. Năm mươi video tới có thể bắt đầu từ comment của bạn.",
+    "show": "Comment *chủ đề* bạn muốn\ncho 50 video tới"
+   },
+   {
+    "say": "Cảm ơn bạn đã đồng hành qua một trăm năm mươi video. Hẹn gặp ở chặng tiếp theo!",
+    "show": "Cảm ơn bạn.\n*Hẹn chặng sau*"
+   }
+  ]
+ }
+]

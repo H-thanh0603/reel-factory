@@ -1,0 +1,972 @@
+[
+ {
+  "id": "101",
+  "slug": "ai-ao-giac",
+  "category": "AI",
+  "theme": "aurora-glass",
+  "layout": "hook",
+  "voice": "Mai Anh",
+  "music": "dark",
+  "title": "Vì sao AI hay nói bịa?",
+  "hashtags": [
+   "#ai",
+   "#halucination",
+   "#congnghe",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Hỏi AI một câu, nó trả lời tự tin đầy đủ, kèm dẫn nguồn. Mà sự thật là nó bịa từ đầu đến cuối. Vì sao vậy?",
+    "show": "Trả lời *tự tin*\nnhưng... bịa"
+   },
+   {
+    "say": "AI không tra cứu dữ kiện như con người. Nó dự đoán từ tiếp theo dựa trên xác suất thống kê từ hàng tỷ văn bản.",
+    "show": "AI *đoán từ tiếp theo*,\nkhông tra sự thật"
+   },
+   {
+    "say": "Khi không có dữ liệu đủ chắc, thay vì im lặng, nó chọn từ hợp lý nhất về mặt ngôn ngữ. Kết quả là một câu nghe rất tin nhưng sai.",
+    "show": "Hợp lý về *ngôn ngữ*\n≠ đúng về *thực tế*"
+   },
+   {
+    "say": "Giới nghiên cứu gọi đây là ảo giác. Hiện chưa có cách chữa triệt để, chỉ có cách giảm: buộc AI trích nguồn, kiểm tra chéo.",
+    "show": "*Ảo giác* — chưa có\nthuốc chữa triệt để"
+   },
+   {
+    "say": "Bài học dùng AI: tin cấu trúc, tin cách trình bày, đừng tin mù dữ kiện. Theo dõi kênh để dùng AI khôn ngoan hơn nhé!",
+    "show": "Tin *cấu trúc*,\nđừng tin *mù dữ kiện*"
+   }
+  ]
+ },
+ {
+  "id": "102",
+  "slug": "dao-tao-ai-ton-dien",
+  "category": "AI",
+  "theme": "brutalist",
+  "layout": "stat",
+  "voice": "Minh Đức",
+  "music": "pulse",
+  "title": "Huấn luyện một AI tốn bao nhiêu điện?",
+  "hashtags": [
+   "#ai",
+   "#nangluong",
+   "#congnghe",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Mỗi lần bạn hỏi AI một câu, đâu đó một trung tâm dữ liệu đang đốt điện cho bạn. Vậy huấn luyện nguyên một mô hình tốn cỡ nào?",
+    "show": "Huấn luyện 1 AI\ntốn *bao nhiêu điện*?"
+   },
+   {
+    "stat": "1000",
+    "sub": "MWh điện cho một lần huấn luyện mô hình lớn (ước tính)",
+    "say": "Một nghìn megawatt giờ. Đó là ước tính cho một lần huấn luyện mô hình lớn."
+   },
+   {
+    "say": "Các ước tính công khai cho một mô hình ngôn ngữ lớn nằm ở khoảng hàng nghìn megawatt giờ, tương đương điện dùng cả năm của vài nghìn gia đình.",
+    "show": "= điện *vài nghìn gia đình*\ntrong 1 năm"
+   },
+   {
+    "say": "Và đó mới là huấn luyện. Mỗi ngày, hàng trăm triệu lượt hỏi đáp tiêu thụ điện còn gấp nhiều lần bản thân buổi huấn luyện.",
+    "show": "Dùng hàng ngày\n*hut điện* hơn cả huấn luyện"
+   },
+   {
+    "say": "Đây là lý do các hãng đua nhau ký hợp đồng điện mặt trời, điện hạt nhân. Năng lượng là giới hạn thật của kỷ nguyên AI.",
+    "show": "Năng lượng = *giới hạn*\nthật của AI"
+   },
+   {
+    "say": "Theo dõi kênh để hiểu mặt sau shiny của công nghệ nhé!",
+    "show": "Mặt sau *công nghệ*"
+   }
+  ]
+ },
+ {
+  "id": "103",
+  "slug": "ai-nong-nghiep",
+  "category": "AI",
+  "theme": "sticker",
+  "layout": "list",
+  "voice": "Ngọc Huyền",
+  "music": "warm",
+  "title": "AI đang ra đồng cùng nông dân",
+  "hashtags": [
+   "#ai",
+   "#nongnghiep",
+   "#nongsan",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Nhắc tới AI, ta thường nghĩ tới phòng máy và công sở. Nhưng AI đang ra đồng, và thay đổi nông nghiệp sâu hơn bạn nghĩ.",
+    "show": "AI *ra đồng*\ncùng nông dân"
+   },
+   {
+    "say": "Một: drone bay qua ruộng, chụp ảnh, AI phân tích màu lá để báo cây nào thiếu đạm, chỗ nào sâu bệnh, đúng từng ô đất.",
+    "show": "Drone + AI = *soi từng ô ruộng*"
+   },
+   {
+    "say": "Hai: tưới tiêu thông minh. Cảm biến độ ẩm đất cộng dự báo thời tiết giúp tưới đúng lúc, tiết kiệm tới ba mươi phần trăm nước.",
+    "show": "Tưới thông minh:\ntiết kiệm *30% nước*"
+   },
+   {
+    "say": "Ba: chăn nuôi. Camera theo dõi từng con vật, AI phát hiện con bệnh qua dáng đi và ăn uống, trước khi người chăn nhìn ra.",
+    "show": "AI biết con nào *ốm*\ntrước cả bạn"
+   },
+   {
+    "say": "Nông nghiệp chính xác là tương lai của an ninh lương thực. Theo dõi kênh để thấy công nghệ trong những nơi không ngờ nhé!",
+    "show": "Công nghệ ở nơi\n*không ngờ*"
+   }
+  ]
+ },
+ {
+  "id": "104",
+  "slug": "ma-hoa-dau-cuoi",
+  "category": "Công nghệ",
+  "theme": "blueprint",
+  "layout": "hook",
+  "voice": "Xuân Vĩnh",
+  "music": "dark",
+  "title": "Mã hóa đầu-cuối: cái két sắt của tin nhắn",
+  "hashtags": [
+   "#congnghe",
+   "#baomat",
+   "#e2ee",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Tin nhắn bạn gửi đi qua nhiều máy chủ. Vậy tại sao công ty vẫn khoe không ai đọc được? Bí quyết là mã hóa đầu-cuối.",
+    "show": "Tin nhắn qua nhiều máy chủ\nmà *không ai đọc được*?"
+   },
+   {
+    "say": "Với mã hóa đầu-cuối, tin nhắn được khóa trên máy bạn và chỉ mở khóa trên máy người nhận. Giữa đường, nó là một chuỗi ký tự vô nghĩa.",
+    "show": "Khoá ở *đầu*, mở ở *cuối*"
+   },
+   {
+    "say": "Điều quan trọng nhất: chính công ty vận hành cũng không có chìa khóa. Máy chủ chỉ là bưu cục chuyển bưu kiện khóa sai.",
+    "show": "Chủ hệ thống cũng\n*không có chìa khóa*"
+   },
+   {
+    "say": "Nhưng đừng nhầm: tính năng sao lưu đám mây có thể tắt mã hóa này. Nếu bật sao lưu không mã hóa, nội dung lại nằm ngoài két sắt.",
+    "show": "Sao lưu *không mã hóa*\n= mở két"
+   },
+   {
+    "say": "Kiểm tra cài đặt mã hóa trên ứng dụng nhắn tin của bạn tối nay. Theo dõi kênh để sống riêng tư hơn trên mạng nhé!",
+    "show": "Kiểm tra *tối nay*"
+   }
+  ]
+ },
+ {
+  "id": "105",
+  "slug": "pin-chai",
+  "category": "Công nghệ",
+  "theme": "minimal-light",
+  "layout": "stat",
+  "voice": "Kim Thanh",
+  "music": "bright",
+  "title": "Vì sao pin điện thoại chai dần?",
+  "hashtags": [
+   "#congnghe",
+   "#pin",
+   "#meo",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Mua máy mới pin hai ngày, sau một năm còn một ngày. Pin không bốc hơi, nó già đi theo hóa học. Đây là cơ chế và cách sống chung.",
+    "show": "Pin không hỏng.\nPin *già đi*."
+   },
+   {
+    "stat": "500",
+    "sub": "lần sạc đầy trước khi pin còn ~80% dung lượng",
+    "say": "Năm trăm chu kỳ sạc. Đó là tuổi thọ trung bình của một viên pin lithium."
+   },
+   {
+    "say": "Pin lithium thường giữ tốt sau khoảng năm trăm chu kỳ sạc đầy. Mỗi chu kỳ, các tinh thể hóa học bên trong xuống cấp một chút.",
+    "show": "500 chu kỳ\n→ còn *80%*"
+   },
+   {
+    "say": "Kẻ thù số một là nhiệt: sạc trong xe nắng, đắp chăn khi sạc, chơi game nặng khi cắm điện. Nóng làm pin già nhanh gấp đôi.",
+    "show": "Nhiệt = *kẻ thù số 1*"
+   },
+   {
+    "say": "Mẹo giữ pin: giữ mức pin trong khoảng hai mươi đến tám mươi phần trăm khi có thể, và tránh sạc xả kiệt thường xuyên.",
+    "show": "Giữ pin *20-80%*"
+   },
+   {
+    "say": "Pin là vật phẩm tiêu hao, dùng khôn ngoan thì thay trễ hơn. Theo dõi kênh để chăm thiết bị đúng cách nhé!",
+    "show": "Dùng *khôn ngoan*,\nthay *trễ hơn*"
+   }
+  ]
+ },
+ {
+  "id": "106",
+  "slug": "ping-la-gi",
+  "category": "Công nghệ",
+  "theme": "neon-dark",
+  "layout": "hook",
+  "voice": "Quang Sơn",
+  "music": "pulse",
+  "title": "Ping cao là vì đâu?",
+  "hashtags": [
+   "#congnghe",
+   "#game",
+   "#ping",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Đang đánh game, nhân vật đứng khựng nửa giây, và bạn thua. Kẻ thù tên là ping. Nó là gì và vì sao nó tăng vọt?",
+    "show": "Nhân vật *khựng* nửa giây.\nKẻ thù: ping."
+   },
+   {
+    "say": "Ping là thời gian một gói dữ liệu đi từ nhà bạn tới máy chủ game và quay về. Đo bằng phần nghìn giây, gọi là mili giây.",
+    "show": "Ping = thời gian\n*đi và về*"
+   },
+   {
+    "say": "Dưới ba mươi mili giây là mượt. Trên một trăm, bạn đang chơi quá khứ: những gì bạn thấy đã xảy ra từ trước.",
+    "show": "Trên 100ms:\nbạn chơi *quá khứ*"
+   },
+   {
+    "say": "Ping tăng vì ba điều: đường truyền vòng quá xa, mạng nhà quá tải, hoặc Wi-Fi nhiễu. Dây mạng vẫn luôn là vua độ trễ.",
+    "show": "Cáp mạng *vẫn luôn thắng*"
+   },
+   {
+    "say": "Trước khi đổ lỗi cho nhà mạng, thử cắm dây và quan sát. Theo dõi kênh để hiểu những con số trên màn hình game nhé!",
+    "show": "Cắm dây, rồi\n*đổ lỗi sau*"
+   }
+  ]
+ },
+ {
+  "id": "107",
+  "slug": "ai-truong-hoc",
+  "category": "AI",
+  "theme": "sunset-warm",
+  "layout": "hook",
+  "voice": "Thục Đoan",
+  "music": "warm",
+  "title": "AI vào trường học: chữa bài trong 3 giây",
+  "hashtags": [
+   "#ai",
+   "#giaoduc",
+   "#hoctap",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Cô giáo chấm bài tập hàng trăm học sinh mất cả tối. AI chấm trong vài giây, kèm nhận xét riêng cho từng em. Trường học đang đổi thay.",
+    "show": "Chấm bài *hàng trăm em*\ntrong vài giây"
+   },
+   {
+    "say": "Với học sinh: AI giải thích lại bài theo cách riêng của từng em, kiên nhẫn vô hạn, không bao giờ tỏ vẻ khó chịu.",
+    "show": "Gia sư *kiên nhẫn vô hạn*"
+   },
+   {
+    "say": "Với giáo viên: AI lo phần việc lặp lại, để họ dành thời gian cho điều máy không làm được: động viên, lắng nghe, truyền cảm hứng.",
+    "show": "Máy lo việc lặp,\nngười lo *cảm hứng*"
+   },
+   {
+    "say": "Nhưng có nguy cơ thật: học sinh nhờ AI làm hộ bài. Kỹ năng tư duy không rèn được thì AI giỏi mấy cũng thay không.",
+    "show": "Nguy cơ: *học nhờ*\nAI làm hộ"
+   },
+   {
+    "say": "Quy tắc mới của thời đại này: dùng AI để học nhanh hơn, đừng dùng AI để tránh học. Theo dõi kênh cho những thay đổi của giáo dục nhé!",
+    "show": "Dùng AI *để học*,\nkhông phải *tránh học*"
+   }
+  ]
+ },
+ {
+  "id": "108",
+  "slug": "data-center-o-dau",
+  "category": "Công nghệ",
+  "theme": "corporate-blue",
+  "layout": "stat",
+  "voice": "Minh Triết",
+  "music": "dark",
+  "title": "Internet của bạn nằm ở đâu trên bản đồ?",
+  "hashtags": [
+   "#congnghe",
+   "#datacenter",
+   "#internet",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Ảnh, video, tin nhắn của bạn nằm trên mây? Không có mây nào cả. Tất cả nằm trong những tòa nhà rất thật dưới đây.",
+    "show": "Không có *mây*.\nChỉ có *tòa nhà*."
+   },
+   {
+    "stat": "10000",
+    "sub": "máy chủ trong một trung tâm dữ liệu vừa phải",
+    "say": "Hàng nghìn máy chủ. Đó là quy mô của một trung tâm dữ liệu vừa phải."
+   },
+   {
+    "say": "Một trung tâm dữ liệu vừa chứa hàng nghìn máy chủ xếp hàng trong hành lang lạnh, đèn nhấp nháy ngày đêm không nghỉ.",
+    "show": "Hàng nghìn máy chủ\n*không ngủ*"
+   },
+   {
+    "say": "Nhà máy làm mát chúng tiêu thụ hàng triệu lít nước mỗi ngày, và điện của cả một quận nhỏ. Đó là cái giá vô hình của thế giới số.",
+    "show": "Giá vô hình:\n*điện và nước*"
+   },
+   {
+    "say": "Khi bạn gửi ảnh, bản sao của nó có thể nằm cách bạn hàng chục nghìn cây số. Địa lý vẫn tồn tại, chỉ là ta không nhìn thấy. Theo dõi kênh để thấy internet bằng mắt thường nhé!",
+    "show": "Địa lý vẫn *tồn tại*"
+   }
+  ]
+ },
+ {
+  "id": "109",
+  "slug": "may-anh-computational",
+  "category": "Công nghệ",
+  "theme": "cinema",
+  "layout": "hook",
+  "voice": "Thanh Bình",
+  "music": "dark",
+  "title": "Ảnh đẹp trên điện thoại là AI chụp hộ bạn",
+  "hashtags": [
+   "#congnghe",
+   "#nhiip",
+   "#ai",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bạn bấm một cái, ảnh ra đẹp lung linh. Sự thật: điện thoại đã chụp mười tấm và ghép lại, rồi AI sửa cho bạn không hay biết.",
+    "show": "Bạn bấm 1 cái.\nĐiện thoại *chụp 10 cái*."
+   },
+   {
+    "say": "Khi bấm chụp, cảm biến ghi nhiều khung với độ phơi khác nhau. Phần mềm chồng chúng lại: sáng chỗ tối, tối chỗ cháy sáng.",
+    "show": "Ghép nhiều khung:\n*HDR* thật sự"
+   },
+   {
+    "say": "Chụp đêm là màn AI diễn một mình: nó nhận diện bầu trời, dọn nhiễu hạt, tô lại màu sao, thậm chí vá cả Mặt Trăng từ dữ liệu học được.",
+    "show": "Chụp đêm: AI\n*vá cả Mặt Trăng*"
+   },
+   {
+    "say": "Chân dung xóa phông? Đó là AI vẽ bản đồ độ sâu, hiểu đâu là người đâu là nền, rồi cắt bằng kéo vô hình.",
+    "show": "Xóa phông =\n*AI cắt tỉa*"
+   },
+   {
+    "say": "Bạn không chụp ảnh bằng điện thoại. Bạn hội họa với ánh sáng và để AI hoàn thiện bức tranh. Theo dõi kênh để chụp đẹp hơn nhé!",
+    "show": "Bạn *hội họa với\nánh sáng*"
+   }
+  ]
+ },
+ {
+  "id": "110",
+  "slug": "nhieu-tab-cham",
+  "category": "Công nghệ",
+  "theme": "terminal",
+  "layout": "hook",
+  "voice": "Thiện Minh",
+  "music": "dark",
+  "title": "Vì sao mở 40 tab máy bắt đầu khóc?",
+  "hashtags": [
+   "#congnghe",
+   "#trinhduyet",
+   "#meo",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Bạn mở bốn mươi tab với ý định sẽ đọc sau. Máy bắt đầu quạt rít, mọi thứ chậm như rùa. Chuyện gì xảy ra bên trong?",
+    "show": "40 tab =\nquạt *hét* và máy *kêu*"
+   },
+   {
+    "say": "Mỗi tab là một chương trình riêng chiếm bộ nhớ. Nhiều trang web còn chạy script ngầm: theo dõi, tự phát video, cập nhật liên tục.",
+    "show": "Mỗi tab = *1 chương trình*\n+ script ngầm"
+   },
+   {
+    "say": "Khi RAM đầy, hệ điều hành phải dọn dẹp liên tục, đẩy dữ liệu ra ổ cứng chậm gấp trăm lần. Đó là cảm giác máy ì hẳn.",
+    "show": "RAM đầy → đẩy ra ổ cứng\n*chậm gấp 100 lần*"
+   },
+   {
+    "say": "Mẹo dân chuyên: ghim tab quan trọng, đóng tab hai tuần chưa mở, và dùng tiện ích ngủ tab tự động. Bộ nhớ trả về tức thì.",
+    "show": "Bật *ngủ tab*\ntự động"
+   },
+   {
+    "say": "Tab là giấy nhớ, không phải kho lưu trữ. Theo dõi kênh để máy của bạn sống thọ hơn nhé!",
+    "show": "Tab là *giấy nhớ*,\nkhông phải *kho*"
+   }
+  ]
+ },
+ {
+  "id": "111",
+  "slug": "bien-maven",
+  "category": "Khoa học",
+  "theme": "blueprint",
+  "layout": "stat",
+  "voice": "Quang Sơn",
+  "music": "dark",
+  "title": "Biển mặn từ đâu ra?",
+  "hashtags": [
+   "#khoahoc",
+   "#bien",
+   "#thacmac",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Sông đổ nước ngọt ra biển suốt tỷ năm, vậy tại sao biển vẫn mặn? Câu trả lời nằm trong một vòng tuần hoàn rất chậm.",
+    "show": "Sông đổ *nước ngọt*\nsuốt tỷ năm. Biển vẫn mặn?"
+   },
+   {
+    "stat": "35",
+    "sub": "gram muối trong mỗi lít nước biển",
+    "say": "Ba mươi lăm gram. Đó là lượng muối trong mỗi lít nước biển."
+   },
+   {
+    "say": "Mỗi lít nước biển chứa khoảng ba mươi lăm gram muối. Nguồn gốc: mưa rơi xuống đất hòa tan khoáng từ đá, sông mang ra biển.",
+    "show": "Mưa hoà *khoáng đá*,\nsông mang ra biển"
+   },
+   {
+    "say": "Ở biển, nước bay hơi thành mây rồi mưa về đất, nhưng muối bị kẹt lại. Hàng tỷ năm tích lũy, mặn như ngày nay.",
+    "show": "Nước đi, *muối kẹt lại*"
+   },
+   {
+    "say": "Và muối không bị mất đi: muối ăn của bạn từng là một phần của đại dương cổ. Theo dõi kênh để giải mã những câu hỏi trẻ con nhé!",
+    "show": "Muối ăn từng là\n*nước biển cổ*"
+   }
+  ]
+ },
+ {
+  "id": "112",
+  "slug": "mat-troi-tat-8-phut",
+  "category": "Vũ trụ",
+  "theme": "cinema",
+  "layout": "stat",
+  "voice": "Ngọc Linh",
+  "music": "dark",
+  "title": "Nếu Mặt Trời tắt, ta biết sau 8 phút",
+  "hashtags": [
+   "#vutru",
+   "#mattrti",
+   "#khoahoc",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Kịch bản giả tưởng: Mặt Trời tắt ngay bây giờ. Chúng ta vẫn sống bình thường thêm tám phút. Vì sao?",
+    "show": "Mặt Trời tắt.\nTa vẫn sống *8 phút*."
+   },
+   {
+    "stat": "8",
+    "sub": "phút ánh sáng cần để đi từ Mặt Trời tới Trái Đất",
+    "say": "Tám phút. Đó là thời gian ánh sáng đi từ Mặt Trời tới mắt bạn."
+   },
+   {
+    "say": "Ánh sáng chạy với tốc độ ba trăm nghìn ki lô mét mỗi giây, nhưng khoảng cách tới Mặt Trời quá xa, nên cần đúng tám phút hai mươi giây.",
+    "show": "8 phút 20 giây\ncủa *ánh sáng*"
+   },
+   {
+    "say": "Tám phút đó là thông điệp cuối cùng: ánh sáng, hơi ấm, bóng đổ đều là quá khứ được chuyển phát đến hiện tại.",
+    "show": "Ánh sáng = *quá khứ*\nchuyển phát tới bạn"
+   },
+   {
+    "say": "Nhìn lên Mặt Trời, bạn đang nhìn thấy nó của tám phút trước. Nhìn sao xa, là của hàng nghìn năm trước. Theo dõi kênh để ngắm vũ trụ qua thời gian nhé!",
+    "show": "Nhìn trời =\nnhìn *quá khứ*"
+   }
+  ]
+ },
+ {
+  "id": "113",
+  "slug": "tuyet-trang-nuoc-trong",
+  "category": "Khoa học",
+  "theme": "blueprint",
+  "layout": "hook",
+  "voice": "Quỳnh Anh",
+  "music": "bright",
+  "title": "Tuyết trắng mà nước đá trong?",
+  "hashtags": [
+   "#khoahoc",
+   "#vatly",
+   "#thacmac",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Tuyết trắng đục, nước đá trong veo, dù cả hai đều là nước đóng băng. Tại sao lại khác nhau đến vậy?",
+    "show": "Cùng là nước đá.\nMột trắng, một *trong*."
+   },
+   {
+    "say": "Bí mật nằm ở cấu trúc. Tuyết là những tinh thể lơ lửng đầy không khí, ánh sáng rọi vào bị tán xạ mọi hướng, hỗn hợp của mọi màu tạo ra trắng.",
+    "show": "Tuyết = tinh thể\n*đầy không khí*"
+   },
+   {
+    "say": "Nước đá trong hình thành khi nước đông từ từ, các phân tử kịp xếp lớp gọn gàng, không khí bị đuổi ra ngoài.",
+    "show": "Đông *từ từ* =\nxếp lớp gọn gàng"
+   },
+   {
+    "say": "Băng của sông băng xanh biếc còn đặc biệt hơn: ép suốt hàng nghìn năm, không khí bị đuổi gần hết, chỉ còn lọc ánh đỏ để lại xanh.",
+    "show": "Băng nghìn năm =\n*lọc ánh đỏ*"
+   },
+   {
+    "say": "Cùng một phân tử, cách sắp xếp tạo nên sắc khác. Khoa học đẹp là ở đó. Theo dõi kênh để tìm thấy cái đẹp trong vật lý nhé!",
+    "show": "Cùng phân tử,\n*khác sắc màu*"
+   }
+  ]
+ },
+ {
+  "id": "114",
+  "slug": "con-giun-vo-danh",
+  "category": "Khoa học",
+  "theme": "paper",
+  "layout": "stat",
+  "voice": "Thiền Tâm Đức",
+  "music": "warm",
+  "title": "Loài vô danh giữ nền nông nghiệp",
+  "hashtags": [
+   "#khoahoc",
+   "#giun",
+   "#nongnghiep",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Dưới mỗi bước chân bạn đi trên đất, có những công nhân vô danh đang dịch chuyển cả nền văn minh. Chúng tên là giun đất.",
+    "show": "Dưới đôi chân bạn:\n*công nhân vô danh*"
+   },
+   {
+    "stat": "25",
+    "sub": "tấn đất mỗi hecta đi qua ruột giun mỗi năm",
+    "say": "Hai mươi lăm tấn đất mỗi năm. Đó là khối lượng công việc của giun đất."
+   },
+   {
+    "say": "Ở đất tốt, giun có thể đưa tới hai mươi lăm tấn đất qua cơ thể trong một năm mỗi hecta, biến đất thành mền và màu mỡ.",
+    "show": "25 tấn đất\nmỗi năm, *mỗi hecta*"
+   },
+   {
+    "say": "Đường hầm chúng đào giúp đất thoát nước, thông khí, và rễ cây chui xuống dễ dàng. Darwin gọi chúng là người bạn cổ nhất của loài người.",
+    "show": "Đường hầm =\n*phổi của đất*"
+   },
+   {
+    "say": "Đất lành không phải tài sản tự nhiên, nó là kết quả của hàng tỷ công nhân bé nhỏ. Theo dõi kênh để biết ơn những điều vô hình nhé!",
+    "show": "Đất lành =\nhàng tỷ *công nhân*"
+   }
+  ]
+ },
+ {
+  "id": "115",
+  "slug": "mat-troi-chu-ky-11-nam",
+  "category": "Vũ trụ",
+  "theme": "neon-dark",
+  "layout": "stat",
+  "voice": "Hải Đăng",
+  "music": "dark",
+  "title": "Mặt Trời có tính khí 11 năm",
+  "hashtags": [
+   "#vutru",
+   "#mattri",
+   "#khoahoc",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Mặt Trời không lặng lẽ như ta tưởng. Nó có chu kỳ tính khí kéo dài đúng mười một năm, ảnh hưởng cả tới điện thoại của bạn.",
+    "show": "Mặt Trời có\ntính khí *11 năm*"
+   },
+   {
+    "stat": "11",
+    "sub": "năm cho một chu kỳ hoạt động của Mặt Trời",
+    "say": "Mười một năm. Đó là độ dài một chu kỳ tính khí của Mặt Trời."
+   },
+   {
+    "say": "Trong chu kỳ này, số vết đen và bùng phát trên Mặt Trời tăng giảm đều đặn. Đỉnh hoạt động, Mặt Trời ném năng lượng khắp hệ.",
+    "show": "Vết đen tăng giảm\n*đều đặn*"
+   },
+   {
+    "say": "Cực đại mới bắt đầu từ 2024 và đang diễn ra: bão mặt trời đẹp hơn, cực quang thấy cả ở vĩ độ thấp, vệ tinh phải né tránh.",
+    "show": "Cực quang *xuống vĩ độ thấp*"
+   },
+   {
+    "say": "Bão mạnh nhất trong lịch sử từng làm cháy cả mạng điện báo thế kỷ 19. Nếu xảy ra bây giờ, lưới điện hiện đại sẽ gặp thử thách lớn.",
+    "show": "Bão 1859:\n*cháy mạng điện báo*"
+   },
+   {
+    "say": "Ngôi sao của chúng ta sống động hơn ta tưởng. Theo dõi kênh để cùng canh chừng tính khí của Mặt Trời nhé!",
+    "show": "Mặt Trời *sống động*\nhơn ta tưởng"
+   }
+  ]
+ },
+ {
+  "id": "116",
+  "slug": "sao-lap-lanh",
+  "category": "Vũ trụ",
+  "theme": "neon-dark",
+  "layout": "hook",
+  "voice": "Trúc Ly",
+  "music": "dark",
+  "title": "Vì sao sao lấp lánh mà hành tinh thì không?",
+  "hashtags": [
+   "#vutru",
+   "#thientvan",
+   "#khoahoc",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Nhìn bầu trời, sao thì nhấp nháy, còn hành tinh sáng vững vàng. Phân biệt hai loại này chỉ cần một cái nhìn.",
+    "show": "Sao *nhấp nháy*.\nHành tinh *sáng vững*."
+   },
+   {
+    "say": "Sao là nguồn sáng thật, nhưng chỉ chấm nhỏ trên trời. Ánh sáng của nó xuyên qua các lớp không khí loang lổ, bị lệch liên tục.",
+    "show": "Chấm sáng nhỏ\n+ *không khí loang lổ*"
+   },
+   {
+    "say": "Không khí xô lệch mỗi giây làm chấm sáng đó nhòe đi hiện lại, mắt ta thấy là nhấp nháy. Đó là lý do kính thiên văn đặt trên núi cao.",
+    "show": "Nhấp nháy =\nkhông khí *xô lệch*"
+   },
+   {
+    "say": "Hành tinh thì gần hơn, hiện lên như một đĩa tròn nhỏ thay vì chấm. Ánh sáng từ nhiều điểm của đĩa trung hoà nhau, nên không nhấp nháy.",
+    "show": "Hành tinh = *đĩa nhỏ*,\nkhông phải chấm"
+   },
+   {
+    "say": "Tối nay nhìn lên: điểm sáng nhấp nháy là sao, chấm vững là hành tinh. Theo dõi kênh để đọc bầu trời như đọc bản đồ nhé!",
+    "show": "Nhấp nháy = sao.\nVững = hành tinh."
+   }
+  ]
+ },
+ {
+  "id": "117",
+  "slug": "chim-dau-day-dien",
+  "category": "Khoa học",
+  "theme": "minimal-light",
+  "layout": "hook",
+  "voice": "Adam",
+  "music": "bright",
+  "title": "Vì sao chim đậu dây điện không bị giật?",
+  "hashtags": [
+   "#khoahoc",
+   "#vatly",
+   "#thacmac",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Dây điện cao thế giết người chạm vào, nhưng chim đậu thoải mái cả đàn. Điều đó có nghĩa dây điện an toàn à? Không hề.",
+    "show": "Chim sống.\nNgười chạm thì *chết*."
+   },
+   {
+    "say": "Điện giật xảy ra khi dòng chạy qua chênh lệch điện thế lớn. Chim đứng trên MỘT dây, hai chân cùng điện thế, không có hiệu điện thế nào để chạy qua người nó.",
+    "show": "2 chân = 1 điện thế\n→ *không có dòng*"
+   },
+   {
+    "say": "Nếu con chim vô tình chạm đồng thời dây và cột kim loại nối đất, dòng lập tức chạy qua nó. Một sai lệch nhỏ là tai họa.",
+    "show": "Chạm thêm *1 điểm khác*\n→ nguy hiểm"
+   },
+   {
+    "say": "Vì vậy công nhân đường dây cao thế phải làm việc bằng cách nhảy lên từ trực thăng, chưa chạm gì trước khi nắm dây.",
+    "show": "Công nhân *nhảy từ\ntrực thăng* lên dây"
+   },
+   {
+    "say": "Vật lý không phân biệt chim hay người, chỉ phân biệt có hiệu điện thế hay không. Theo dõi kênh để hiểu những quy luật âm thầm quanh mình nhé!",
+    "show": "Vật lý *không phân biệt*\nchim hay người"
+   }
+  ]
+ },
+ {
+  "id": "118",
+  "slug": "nam-cham-hai-cuc",
+  "category": "Khoa học",
+  "theme": "terminal",
+  "layout": "hook",
+  "voice": "Xuân Vĩnh",
+  "music": "dark",
+  "title": "Vì sao không có nam châm một cực?",
+  "hashtags": [
+   "#khoahoc",
+   "#vatly",
+   "#namcham",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Cắt đôi một thanh nam châm, bạn có hai nam châm mới. Cắt tiếp, lại thành bốn. Vì sao không bao giờ tách được một cực N đơn lẻ?",
+    "show": "Cắt đôi nam châm\n= 2 nam châm *mới*"
+   },
+   {
+    "say": "Bởi từ tính không nằm ở hình dạng thanh nam châm, mà nằm trong từng nguyên tử. Mỗi nguyên tử sắt tự nó là một nam châm tí hon hai cực.",
+    "show": "Từng *nguyên tử*\nlà nam châm tí hon"
+   },
+   {
+    "say": "Cắt đôi chỉ là chia đám nguyên tử ra thành hai đội. Đội nào cũng có cả cực Bắc lẫn cực Nam của riêng mình.",
+    "show": "Cắt = *chia đội*,\nkhông chia cực"
+   },
+   {
+    "say": "Vật lý lý thuyết từng dự đoán đơn cực từ, nhưng trăm năm qua chưa ai tìm thấy trong tự nhiên. Nó vẫn là một trong những bí ẩn mở.",
+    "show": "*Đơn cực từ*:\nvẫn là bí ẩn mở"
+   },
+   {
+    "say": "Đôi khi cái hiển nhiên nhất lại che giấu câu hỏi sâu nhất. Theo dõi kênh để đặt câu hỏi cùng khoa học nhé!",
+    "show": "Cái hiển nhiên che\ngiấu *câu hỏi sâu*"
+   }
+  ]
+ },
+ {
+  "id": "119",
+  "slug": "hieu-ung-dinh-cuoi",
+  "category": "Tâm lý",
+  "theme": "sticker",
+  "layout": "hook",
+  "voice": "Ngọc Trân",
+  "music": "warm",
+  "title": "Não nhớ 2 khoảnh khắc, quên phần còn lại",
+  "hashtags": [
+   "#tamly",
+   "#kyoc",
+   "#hankhuc",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Sau một chuyến đi dài, bạn chỉ nhớ rõ hai thứ: khoảnh khắc tuyệt vời nhất, và khoảnh khắc cuối cùng. Não bạn vận hành như vậy đó.",
+    "show": "Não chỉ nhớ:\n*đỉnh điểm* + *kết thúc*"
+   },
+   {
+    "say": "Đây là quy tắc đỉnh-cuối của nhà tâm lý Kahneman: ký ức về một trải nghiệm không đo bằng tổng thể, mà bằng đỉnh và đoạn kết.",
+    "show": "Ký ức = *đỉnh điểm*\n+ đoạn kết"
+   },
+   {
+    "say": "Trong thí nghiệm y khoa, người trải qua thủ thuật đau dài nhưng kết thúc dịu lại nhớ trải nghiệm đó tốt hơn thủ thuật ngắn đau hơn ở cuối.",
+    "show": "Kết dịu > *ngắn hơn*\nnhưng kết đau"
+   },
+   {
+    "say": "Ứng dụng ngay: kết thúc mỗi ngày bằng một việc nhỏ dễ chịu, kết thúc mỗi cuộc gặp bằng lời tốt đẹp. Bạn đang thiết kế ký ức của chính mình.",
+    "show": "Kết ngày bằng\n*1 điều dễ chịu*"
+   },
+   {
+    "say": "Đừng để điều tệ cuối ngày chiếm ký ức cả ngày. Theo dõi kênh để thiết kế trải nghiệm đời mình nhé!",
+    "show": "Đừng để *điều tệ*\nchiếm ký ức"
+   }
+  ]
+ },
+ {
+  "id": "120",
+  "slug": "habit-stacking",
+  "category": "Tâm lý",
+  "theme": "paper",
+  "layout": "list",
+  "voice": "Thanh Bình",
+  "music": "warm",
+  "title": "Xây thói quen bằng cách xích vào thói quen cũ",
+  "hashtags": [
+   "#tamly",
+   "#thoiquen",
+   "#hoctap",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Muốn xây thói quen mới, đừng đấu với ý chí. Hãy xích nó vào một thói quen cũ đã ăn sâu. Đây là công thức bốn bước.",
+    "show": "Xích thói quen mới\nvào *thói quen cũ*"
+   },
+   {
+    "say": "Một: chọn thói quen đã chắc như đá, ví dụ đánh răng buổi sáng, pha cà phê, rửa mặt.",
+    "show": "1. Chọn *đá neo*"
+   },
+   {
+    "say": "Hai: đặt thói quen mới NGAY SAU nó, cùng một thời điểm, cùng một chỗ. Sau khi pha cà phê, tôi đọc hai trang sách.",
+    "show": "2. Đặt *ngay sau* neo"
+   },
+   {
+    "say": "Ba: nhỏ đến mức không thể từ chối. Hai trang, một bài tập, một câu tiếng Anh. Quy mô không quan trọng, sự lặp lại mới quan trọng.",
+    "show": "3. Nhỏ đến mức\n*không thể từ chối*"
+   },
+   {
+    "say": "Bốn: sau bốn tuần, chuỗi đó tự chạy. Não không phân biệt thói quen tốt xấu, nó chỉ lặp lại gì từng lặp. Theo dõi kênh để thiết kế thói quen thông minh nhé!",
+    "show": "4 tuần → chuỗi\n*tự chạy*"
+   }
+  ]
+ },
+ {
+  "id": "121",
+  "slug": "bai-hat-am-am",
+  "category": "Tâm lý",
+  "theme": "gradient-pop",
+  "layout": "hook",
+  "voice": "Trúc Ly",
+  "music": "bright",
+  "title": "Vì sao bài hát cứ vang trong đầu mãi?",
+  "hashtags": [
+   "#tamly",
+   "#nhac",
+   "#nao",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Một đoạn nhạc nhỏ cứ lập lại trong đầu suốt cả ngày, không tắt được. Khoa học gọi nó là sâu tai. Tại sao não làm vậy?",
+    "show": "Sâu tai:\nbài hát *không tắt*"
+   },
+   {
+    "say": "Não bạn có mạng lưới nhớ âm thanh cực mạnh. Khi một giai điệu vừa lặp vừa dễ đoán, hệ thống hoàn thiện tự động bật lên và chạy vòng.",
+    "show": "*Dễ đoán* + lặp lại\n= não tự chạy vòng"
+   },
+   {
+    "say": "Đáng chú ý: tai sâu thường đến khi não đang rảnh, lúc rửa bát, đi bộ. Não trống thì tự tìm việc làm.",
+    "show": "Não rảnh →\ntự tìm *việc làm*"
+   },
+   {
+    "say": "Giải pháp đã được kiểm chứng: nghe bài hát khác từ đầu đến cuối, hoặc giải một bài toán nhỏ. Nhiệm vụ hoàn chỉnh đẩy giai điệu rảnh ra.",
+    "show": "Nghe *trọn bài khác*\nhoặc giải 1 bài toán"
+   },
+   {
+    "say": "Tai sâu không phải lỗi, nó là dấu hiệu não bạn hoạt động tốt. Theo dõi kênh để hiểu những chi tiết lạ trong đầu mình nhé!",
+    "show": "Tai sâu = não\n*đang hoạt động tốt*"
+   }
+  ]
+ },
+ {
+  "id": "122",
+  "slug": "met-quyet-dinh",
+  "category": "Tâm lý",
+  "theme": "retro-vhs",
+  "layout": "stat",
+  "voice": "Thùy Dung",
+  "music": "pulse",
+  "title": "Mệt vì quyết định, không phải vì làm",
+  "hashtags": [
+   "#tamly",
+   "#quyeting",
+   "#nangsuat",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Cuối ngày bạn nằm dài trên giường dù cả ngày chưa làm việc nặng. Điều mệt ra có thể không phải việc, mà là những quyết định.",
+    "show": "Mệt vì *quyết định*,\nkhông phải vì *làm*"
+   },
+   {
+    "stat": "35000",
+    "sub": "quyết định nhỏ mỗi người đưa ra mỗi ngày (ước tính)",
+    "say": "Hàng chục nghìn quyết định. Đó là những gì bạn đưa ra mỗi ngày."
+   },
+   {
+    "say": "Người trưởng thành ước tính đưa ra hàng chục nghìn quyết định mỗi ngày: ăn gì, trả lời thế nào, mở tab nào. Mỗi quyết định đều lấy tiền từ tài khoản ý chí.",
+    "show": "Hàng chục nghìn\nquyết định *rút ý chí*"
+   },
+   {
+    "say": "Người thành công thường tự động hóa các quyết định nhỏ: mặc đồ giống nhau, ăn sáng cố định, để giữ năng lượng cho quyết định lớn.",
+    "show": "Tự động hoá *quyết định nhỏ*"
+   },
+   {
+    "say": "Mẹo hôm nay: đêm trước, viết sẵn ba việc quan trọng nhất sáng mai. Sáng ra không phải quyết, chỉ cần làm. Theo dõi kênh để làm việc nhẹ hơn nhé!",
+    "show": "Đêm trước *viết sẵn*\n3 việc sáng mai"
+   }
+  ]
+ },
+ {
+  "id": "123",
+  "slug": "nhan-tin-xau",
+  "category": "Tâm lý",
+  "theme": "paper",
+  "layout": "hook",
+  "voice": "Đoan Trang",
+  "music": "warm",
+  "title": "Cách nhận tin xấu mà không gãy",
+  "hashtags": [
+   "#tamly",
+   "#kynang",
+   "#doisong",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Tin xấu sẽ đến với tất cả chúng ta, sớm hay muộn. Khác biệt nằm ở cách tiếp nhận. Đây là bốn bước đã được tâm lý học kiểm chứng.",
+    "show": "Tin xấu sẽ đến.\n*Cách nhận* là điểm khác."
+   },
+   {
+    "say": "Một: cho phép mình cảm nhận, nhưng đặt khung thời gian. Buồn thật lòng trong hai mươi bốn giờ, không đánh lạc hướng, không vội hành động.",
+    "show": "1. Buồn *có khung giờ*"
+   },
+   {
+    "say": "Hai: tách sự kiện khỏi câu chuyện. Sự kiện là những gì xảy ra. Câu chuyện là những gì não bạn thêm vào: tự trách, đoán mò, dự đoán tiêu cực.",
+    "show": "2. Tách *sự kiện*\nkhỏi *câu chuyện*"
+   },
+   {
+    "say": "Ba: hỏi câu sống còn: việc gì nằm trong tay mình NGAY BÂY GIỜ? Rồi làm đúng một điều đó.",
+    "show": "3. Việc gì *trong tay mình*?"
+   },
+   {
+    "say": "Bốn: đừng ngồi một mình quá lâu với tin xấu. Gần người an toàn không phải để họ giải quyết, mà để hệ thần kinh bình ổn. Theo dõi kênh cho những kỹ năng sống thật nhé!",
+    "show": "4. Gần *người an toàn*"
+   }
+  ]
+ },
+ {
+  "id": "124",
+  "slug": "hieu-ung-khan-gia",
+  "category": "Tâm lý",
+  "theme": "gradient-pop",
+  "layout": "hook",
+  "voice": "Mỹ Duyên",
+  "music": "pulse",
+  "title": "Vì sao có người nhìn là tay bạn run?",
+  "hashtags": [
+   "#tamly",
+   "#trinhbay",
+   "#kynang",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Làm việc một mình trơn tru, có người đứng nhìn là tay run, đầu trống rỗng. Hiện tượng này có tên và có cách trị.",
+    "show": "Một mình: *trơn tru*.\nCó người nhìn: run."
+   },
+   {
+    "say": "Sự hiện diện của khán giả kích hoạt hệ cảnh giác của não: người khác đang đánh giá tôi. Não dồn tài nguyên cho việc tự giám sát thay vì công việc.",
+    "show": "Não dồn tài nguyên\ncho *tự giám sát*"
+   },
+   {
+    "say": "Nghiên cứu chỉ ra với việc ĐÃ THUỘC, khán giả làm bạn nhanh và giỏi lên. Với việc MỚI HỌC, khán giả làm bạn tệ đi. Đó là quy luật hai mặt.",
+    "show": "Thuộc: *giỏi lên*.\nMới học: *tệ đi*."
+   },
+   {
+    "say": "Vậy cách trị không phải tránh khán giả, mà là tập luyện đến mức kỹ năng thuộc vào phản xạ. Sân khấu thưởng cho người luyện.",
+    "show": "Trị bằng *thuộc vào\nphản xạ*"
+   },
+   {
+    "say": "Run tay trước đám đông không phải yếu đuối, đó là não chưa quen đường. Theo dõi kênh để đứng vững trước mọi ánh nhìn nhé!",
+    "show": "Run = não *chưa quen đường*"
+   }
+  ]
+ },
+ {
+  "id": "125",
+  "slug": "ngu-roi-quyet",
+  "category": "Tâm lý",
+  "theme": "aurora-glass",
+  "layout": "hook",
+  "voice": "Kim Thanh",
+  "music": "warm",
+  "title": "Ngủ một giấc rồi quyết — khoa học thật",
+  "hashtags": [
+   "#tamly",
+   "#ngu",
+   "#quyeting",
+   "#fyp"
+  ],
+  "segments": [
+   {
+    "say": "Ngồi trước quyết định khó, ông bà thường dặn: ngủ một giấc đi rồi tính. Hóa ra câu tục ngữ có cơ sở khoa học rõ ràng.",
+    "show": "Ngủ 1 giấc rồi tính\n= *khoa học*"
+   },
+   {
+    "say": "Khi ngủ, đặc biệt là giai đoạn giấc mơ, não xử lý lại thông tin trong ngày: ghép nối, loại bỏ, kết nối với kinh nghiệm cũ.",
+    "show": "Ngủ: não *ghép nối*\nvà loại bỏ"
+   },
+   {
+    "say": "Nghiên cứu chỉ ra sau một giấc ngủ đủ, người ta nhận ra quy luật ẩn trong dữ liệu tốt hơn hẳn khi thức mệt mỏi.",
+    "show": "Sau 1 giấc ngủ:\nnhận ra *quy luật ẩn*"
+   },
+   {
+    "say": "Nhưng lưu ý: ngủ không biến quyết định sai thành đúng. Nó cho bạn cái đầu sáng hơn để nhìn lại lựa chọn, tránh quyết trong cơn cảm xúc.",
+    "show": "Không biến sai thành đúng,\nnhưng *bớt cảm tính*"
+   },
+   {
+    "say": "Quyết định lớn? Không quyết sau 10 giờ tối. Theo dõi kênh để ra quyết định tỉnh táo hơn nhé!",
+    "show": "Không quyết\n*sau 10 giờ tối*"
+   }
+  ]
+ }
+]

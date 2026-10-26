@@ -36,7 +36,7 @@ function worker(n) {
     const steps = [
       ['TTS', VENV_PY, [path.join(__dirname, 'tts_batch.py'), v.id, ROOT]],
       ['MIX', 'python3', [path.join(__dirname, 'mix_audio.py'), v.id, ROOT]],
-      ['RENDER', 'node', [path.join(__dirname, 'render.js'), path.join(ROOT, 'output', v.id, 'spec.json'), ROOT]],
+      ['RENDER', 'node', [path.join(__dirname, process.env.FACTORY_RENDERER === 'legacy' ? 'render-legacy.js' : 'render.js'), path.join(ROOT, 'output', v.id, 'spec.json'), ROOT]],
     ];
     let failed = null;
     for (const [name, cmd, args] of steps) {
